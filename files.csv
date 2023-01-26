@@ -1,0 +1,3966 @@
+,Filename
+0,230123_PersonalFinance.md
+1,Demorgan's.md
+2,GPU.md
+3,NVIDIA.md
+4,TPU.md
+5,AA Test.md
+6,Questions Desktop.md
+7,Questions Laptop.md
+8,Android Studio File Structure.md
+9,Android Studio.md
+10,Gradle Project Usual File Structure.md
+11,Programming Languages For App Development.md
+12,arthropod.md
+13,raccoons.md
+14,swift foxes.md
+15,Subject Index (Thermal Recovery Book).md
+16,Chapter 1 Biographical and Introductory.md
+17,Chapter 2 A New System of Alternating Current Motors and Transformers.md
+18,Chapter 3 The Tesla Rotating Magnetic Field. --Motors with Closed Conductors. --Synchronizing motors.-- Rotating Field Transformers.md
+19,"The Inventions, Researches, and Writings of Nikola Tesla.md"
+20,Chapter 1 Introduction (Thermal Recovery Book).md
+21,Chapter 10 Heat Losses From Surface and Subsurface Lines.md
+22,"Chapter 11 Facilities, Operational Problems, and Surveillance.md"
+23,Chapter 12 Evaluation of Reservoirs for Thermal Recovery.md
+24,Chapter 13 Pilot Testing.md
+25,Chapter 14 Other Applications.md
+26,Chapter 15 Status and Potential of Thermal Recovery.md
+27,Chapter 2 Thermal Recovery Methods.md
+28,Chapter 3 Physical and Mathematical Description of Heat and Mass Transfer in Porous Media.md
+29,Chapter 4 Some Reservoir Engineering Concepts.md
+30,Chapter 5 Heating the Reservoir.md
+31,Chapter 6 Hot-Water Drives.md
+32,Chapter 7 Steam Drives.md
+33,Chapter 8 In-Situ Combustion.md
+34,Chapter 9 Cyclic Steam Injection and Other Thermal Methods.md
+35,Thermal Recovery.md
+36,Chapter 1 Human Connection; What and Why.md
+37,Understanding Human Connection.md
+38,Welcome To Your Brain.md
+39,Table of Contents.md
+40,admiration.md
+41,adoration.md
+42,aesthetic appreciation.md
+43,amusement.md
+44,anger.md
+45,anxiety.md
+46,awe.md
+47,awkwardness.md
+48,boredom.md
+49,calmness.md
+50,confusion.md
+51,contempt.md
+52,craving.md
+53,disappointment.md
+54,disgust.md
+55,emotion.md
+56,empathic pain.md
+57,entrancement.md
+58,envy.md
+59,excitement.md
+60,fear.md
+61,guilt.md
+62,happiness.md
+63,horror.md
+64,How Many Different Human Emotions Are There.md
+65,How to use the emotion wheel to get to know yourself.md
+66,interest.md
+67,joy.md
+68,nostalgia.md
+69,peacefulness.md
+70,pride.md
+71,relief.md
+72,romance.md
+73,sadness.md
+74,satisfaction.md
+75,semantic atlas of human emotions.md
+76,sexual desire.md
+77,surprise.md
+78,sympathy.md
+79,triumph.md
+80,Greek Letters.md
+81,σ Sigma.md
+82,Φ Closed Phi.md
+83,φ Open Phi.md
+84,Ψ.md
+85,hydra.md
+86,nc.md
+87,-m.md
+88,Hashcat.md
+89,Network discovery.md
+90,nmap.md
+91,Aircrack-ng.md
+92,Aireplay-ng.md
+93,Interactive packet replay.md
+94,Airmon-ng.md
+95,airodump-ng.md
+96,Four Way Handshake.md
+97,PMK.md
+98,base64.md
+99,cat.md
+100,cd.md
+101,du.md
+102,file.md
+103,find.md
+104,grep.md
+105,ls.md
+106,mkdir.md
+107,pipe character.md
+108,rm.md
+109,sort.md
+110,strings.md
+111,tr.md
+112,uniq.md
+113,Africa.md
+114,Botswana.md
+115,Canyon Diablo.md
+116,Cardiff University.md
+117,Cardin.md
+118,Central Africa.md
+119,"Centralia, Pennsylvania.md"
+120,Dobson Museum.md
+121,"Gilman, Colorado.md"
+122,Greater Good Science Center.md
+123,Kazakhstan.md
+124,National Archaeological Museum.md
+125,northeastern Oklahoma.md
+126,Oklahoma.md
+127,Ottawa County.md
+128,Picher mining museum.md
+129,"Picher, Oklahoma.md"
+130,Picher.md
+131,Polytechnic School at Gratz.md
+132,Russia.md
+133,San Francisco Zoo.md
+134,"September 11, 2001.md"
+135,Texas A and M university.md
+136,The American Institute of Electrical Engineers.md
+137,The United States of America.md
+138,the United States.md
+139,Tomb of Djehutihotep.md
+140,Treece.md
+141,UC Berkeley.md
+142,United States.md
+143,University College London.md
+144,west Africa.md
+145,"Wittenoom, Western Australia.md"
+146,World Trade Center.md
+147,Yale Cancer Center.md
+148,Aelius Galenus.md
+149,Aelius Nicon.md
+150,Agis III.md
+151,Akshaykumar Nayak.md
+152,Alan Cowen.md
+153,Albrecht Kossel.md
+154,Alfred Sandrock.md
+155,Allie Ward.md
+156,Antoine Lavoisier.md
+157,Aristotle.md
+158,Athena Brensberger.md
+159,Carl Linnaeus.md
+160,Carl Wilhelm Scheele.md
+161,Christiaan Hendrik Persoon.md
+162,Coco.md
+163,Cyril Richard Rescorla.md
+164,Cyrus the Great.md
+165,Dacher Keltner.md
+166,Dame Kathleen Lonsdale.md
+167,Diane fossey.md
+168,Eduard Buchner.md
+169,Edward Jenner.md
+170,Emil Fischer.md
+171,Euclid.md
+172,Ferdinand Heinrich Edmund.md
+173,Frederik Barkhof.md
+174,Fritz Weigert.md
+175,Giovanni de' Dondi.md
+176,Hipparchus of Rhodes.md
+177,Immanuel Kant.md
+178,Ira Mellman.md
+179,Jane Goodall.md
+180,Jane Grogan.md
+181,Jess Phoenix.md
+182,Johnathan Lee Richards.md
+183,Joseph Priestley.md
+184,Juhi Khurana.md
+185,Kate Gilmore.md
+186,Linus Pauling.md
+187,Louis Leakey.md
+188,M. Puskaa.md
+189,Magnus Fries.md
+190,Michael Sendivogius.md
+191,Mike Edmunds.md
+192,Mr. Albert Schmid.md
+193,Mr. Tesla's.md
+194,Mr. Tesla.md
+195,Nikola Tesla.md
+196,Quapaw.md
+197,Richard of Wallingford.md
+198,Robert Plutchik.md
+199,Stanislav Yevgrafovich Petrov.md
+200,Stephen Salloway.md
+201,Sven Gustaf Hedin.md
+202,Tony Freeth.md
+203,Untitled.md
+204,Utsav Sen.md
+205,Valerios Stais.md
+206,Java.md
+207,Kotlin.md
+208,A Proposed Structure For The Nucleic Acids.md
+209,Animation of the Meselson and Stahl Experiment.md
+210,"Arispe and Doh, 2002.md"
+211,Brief for AMICUS CURIAE Eric S. Lander in Support of Neither Party.md
+212,Critique of Pure Reason.md
+213,dephlogisticated air.md
+214,Experiments in Plant Hybridization - Gregor Mendel.md
+215,Familial Hypercholesterolemia.md
+216,Genetic map of Drosophila Melanogaster (Fly Map).md
+217,Heredity in Insanity A. J. Rosanoff.md
+218,How Geckos Stick on der waals.md
+219,Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage.md
+220,Induction of Transformation by a Deoxyribonucleic Acid Fraction Isolated from Pneumococcus Type iii.md
+221,Interactive Tree of Life.md
+222,"Jin and Zhou, 2009.md"
+223,"Kivity et al., 2011.md"
+224,knowyourmeme.com.md
+225,Mendel's Seven Pea Plant Traits.md
+226,Molecular Structure of Nucleic Acids; a Structure for Deoxyribose Nucleic Acid.md
+227,"Ong et al., 2010.md"
+228,Pedigree of Hemophilia in Royal Family.md
+229,Sex Limited Inheritance in Drosophila - T. H. Morgan.md
+230,"Shanmugasundaramand Selvaraj, 2012.md"
+231,Sharh tashrih al-qanun li’ Ibn Sina (Commentary on Anatomy in Avicenna's Canon).md
+232,"Sutton and Domrongkitchaiporn, 1993.md"
+233,"The Linear Arrangement Of Six Sex-Linked Factors In Drosophila, As Shown By Their Mode Of Association - A. H. Sturtevant.md"
+234,The Origin of Five Mutations in Eye Color in Drosophila and Their Modes of Inheritance T. H. Morgan.md
+235,The Replication of DNA in Escherichia coli.md
+236,The significance of Pneumococcal Types.md
+237,US Supreme Court Hears Arguments in Gene-Patent Case.md
+238,Why I teach.md
+239,World Wildlife Fund.md
+240,"Zhang et al., 2011.md"
+241,Andiosperms.md
+242,"Bacteria & Protists, Fungi.md"
+243,Biology.md
+244,Bryophites Ferns and Friends.md
+245,Ecology Lab.md
+246,Effects of food type on yeast growth.md
+247,Gymnosperms.md
+248,Intro to Inverts; Pillbug Exp.md
+249,Invertebrates Coelomates.md
+250,Mammalian Anatomy.md
+251,Practical 1.md
+252,Practical 2.md
+253,Practical 3.md
+254,Practical 4.md
+255,SB 1.md
+256,SB 2.md
+257,Scientific Method & Microscopes.md
+258,"Vegetative Structure, Ethylene Exp.md"
+259,Vertebrates.md
+260,English.md
+261,Spring Break Fri.md
+262,Spring Break Mon.md
+263,Spring Break Thurs.md
+264,Spring Break Tues.md
+265,Spring Break Wed.md
+266,Artifact Analysis 1.md
+267,Artifact Analysis 2.md
+268,Artifact Analysis 3.md
+269,Artifact Analysis 4.md
+270,Artifact Analysis 5.md
+271,Artifact Analysis 6.md
+272,Artifact Analysis 7.md
+273,Artifact Analysis 8.md
+274,Humanities Exam 1.md
+275,Humanities Exam 2.md
+276,Humanities.md
+277,Math.md
+278,Trig Exam 1.md
+279,Trig Exam 2.md
+280,Trig Exam 3.md
+281,Trig Homework 1.md
+282,Trig Homework 10.md
+283,Trig Homework 2.md
+284,Trig Homework 3.md
+285,Trig Homework 4.md
+286,Trig Homework 5.md
+287,Trig Homework 6.md
+288,Trig Homework 7.md
+289,Trig Homework 8.1.md
+290,Trig Homework 8.2.md
+291,Trig Homework 9.md
+292,Trig Quiz 1.md
+293,Trig Quiz 2.md
+294,Trig Quiz 3.md
+295,Trig Quiz 4.md
+296,Trig Quiz 5.md
+297,Trig Quiz 6.md
+298,Trig Quiz 7.md
+299,Tags.md
+300,Viewer.md
+301,2023-01-19 Meeting Regarding Cheat Sheets.md
+302,Branches of Science.md
+303,fundamental sciences.md
+304,Gravity Energy Storage.md
+305,Learning inverse folding from millions of predicted structures.md
+306,Unsorted Sciences.md
+307,applied science.md
+308,applied sciences.md
+309,Data Science.md
+310,axial loads.md
+311,Baltimore bridge truss.md
+312,bending moments.md
+313,black-body radiant emittance.md
+314,bottom chords.md
+315,civil engineering.md
+316,compression.md
+317,constraint.md
+318,electromagnetic radiation.md
+319,emitting surface.md
+320,engineering.md
+321,Fan roof truss.md
+322,Fink roof truss.md
+323,Frames.md
+324,Gusset Plate.md
+325,hinge joint.md
+326,Howe bridge truss.md
+327,Howe roof truss.md
+328,infrared rays.md
+329,interior beams.md
+330,intervening medium.md
+331,K bridge truss.md
+332,King Post roof truss.md
+333,Method of Joints.md
+334,Method of Sections.md
+335,Modified Queen roof truss.md
+336,moments.md
+337,Parker bridge truss.md
+338,phase.md
+339,pin joint.md
+340,Planar Trusses.md
+341,Pratt bridge truss.md
+342,Pratt roof truss.md
+343,radiant energy.md
+344,revolute joint.md
+345,revolute joints.md
+346,revolutes.md
+347,sliding linear motion.md
+348,stribeck effect.md
+349,Thermal Radiation.md
+350,top chords.md
+351,Truss.md
+352,Trusses.md
+353,ultraviolet rays.md
+354,visible-light spectrum.md
+355,Warren bridge truss.md
+356,webs.md
+357,Zero Force Members.md
+358,1st Law of Thermodynamics.md
+359,2nd Law of Thermodynamics.md
+360,Genetic epidemiology.md
+361,Epidemiology.md
+362,Hematolgy.md
+363,Immunology.md
+364,medicine.md
+365,basic sciences.md
+366,formal science.md
+367,Information science.md
+368,deductive logic.md
+369,empirical.md
+370,Epistemology.md
+371,Gnosiology.md
+372,inductive logic.md
+373,logic.md
+374,Noology.md
+375,Pataphysics.md
+376,algebra.md
+377,Cosine.md
+378,differential geometry.md
+379,Euclidean geometry.md
+380,Euclidean.md
+381,frequencies.md
+382,frequency.md
+383,manifold.md
+384,Manifolds.md
+385,PCA.md
+386,periodic wave.md
+387,phase difference.md
+388,phase offset.md
+389,phase shift.md
+390,Principal-Component Analysis.md
+391,Sine.md
+392,spatial frequency.md
+393,sphere.md
+394,Tangent.md
+395,temporal evolution.md
+396,topological.md
+397,topology.md
+398,wavelength.md
+399,π.md
+400,Chi-Square Equation.md
+401,Statistics.md
+402,Systems Theory.md
+403,Theoretical computer science.md
+404,interdisciplinarity.md
+405,Bioinformatics.md
+406,Oceanography.md
+407,Planetology.md
+408,Natural Science.md
+409,Astrobiology.md
+410,Biological.md
+411,Botony.md
+412,Ecology.md
+413,Ethology.md
+414,Geratology.md
+415,Helmintology.md
+416,Herpetology.md
+417,Hydrobiology.md
+418,Ichthyology.md
+419,life science.md
+420,Microbiology.md
+421,Micropaleontology.md
+422,Paleoanthropology.md
+423,Sexology.md
+424,Sitology.md
+425,Bacteriology.md
+426,A scientific question.md
+427,Abbreviations.md
+428,Abl and AMN107.md
+429,Abl and Gleevec.md
+430,Adenosine Triphosphate.md
+431,afferent fibers.md
+432,Afferent Nerve Fibers.md
+433,afferent.md
+434,Alanine.md
+435,Algae.md
+436,allergen.md
+437,allergy.md
+438,Alpha Helix.md
+439,Amino Acid Table.md
+440,Amino Acid.md
+441,Anatomy.md
+442,Animalia.md
+443,anterior.md
+444,anti cancer immune response.md
+445,anti tumor immunity.md
+446,Arginine.md
+447,arthropods.md
+448,Asexual Reproduction.md
+449,Asparagine.md
+450,Aspartic Acid.md
+451,bacteria.md
+452,Bacterial Colonies.md
+453,Base Pair(s).md
+454,Beta Sheets.md
+455,bilateral symmetry.md
+456,Bilaterally symmetric.md
+457,bilaterally symmetrical.md
+458,Bilateria.md
+459,bilaterians.md
+460,binomial nomenclature.md
+461,"Bio 1204; Bio for Majors, Principles.md"
+462,Biochemical Pathways.md
+463,Biochemistry.md
+464,"Biological applications in forensics, history, and agriculture.md"
+465,biological pesticides.md
+466,biologies.md
+467,Biology Triangle.md
+468,Biology.md
+469,blastula stage.md
+470,blastula.md
+471,Bond Types.md
+472,bonobos.md
+473,Botany.md
+474,bugs.md
+475,cancer cell.md
+476,cancer immunity cycle.md
+477,Carbohydrate Types.md
+478,carbohydrates.md
+479,Carbonyl Group.md
+480,caudal.md
+481,Cell Size and Scale.md
+482,Cell-Free fermentation.md
+483,Cell.md
+484,Cells Small.md
+485,Cellulose.md
+486,CentiMorgans.md
+487,Central Dogma.md
+488,central nervous system.md
+489,cephalopods.md
+490,chemotherapy.md
+491,chimpanzee groups.md
+492,chimpanzees.md
+493,chitin.md
+494,chronic inflammation.md
+495,class.md
+496,climate change.md
+497,Clustered regularly interspaced short palindromic repeats.md
+498,CNS.md
+499,Codon Table.md
+500,Codons.md
+501,Communication.md
+502,Complementary DNA.md
+503,Complex carbohydrates.md
+504,Conclusions.md
+505,Control Group.md
+506,Controlled or Standardized Variables.md
+507,Covalent Bonds.md
+508,cure.md
+509,Cysteine.md
+510,decomposers.md
+511,Deep Dive 2; Polarity of Molecules.md
+512,Deep Dive 3; Intermolecular Bonding.md
+513,Dehydration Synthesis.md
+514,Deoxynucleoside Triphosphate.md
+515,Deoxyribonucleic Acid.md
+516,Dependent Variable.md
+517,Dideoxynucleoside Triphosphate.md
+518,Dipeptide.md
+519,diploblasts.md
+520,Disaccharides.md
+521,disease.md
+522,Disulfide Bond.md
+523,DNA analysis.md
+524,DNA Sequencing Trace.md
+525,dorsal.md
+526,Double-Stranded DNA.md
+527,Double-Stranded RNA.md
+528,echinoderms.md
+529,ectoderm.md
+530,efferent fibers.md
+531,efferent nerves.md
+532,efferent.md
+533,Electronegativity.md
+534,Elongation.md
+535,embryo.md
+536,embryonic.md
+537,Embryophyta.md
+538,endoderm.md
+539,Enzymes.md
+540,Eukaryotes.md
+541,Eukaryotic.md
+542,Eumycetes.md
+543,Eumycota.md
+544,evolution.md
+545,Experiment.md
+546,Experimental Group.md
+547,Expression Cloning.md
+548,family.md
+549,Fermentation.md
+550,ferns.md
+551,flagellated.md
+552,flowers.md
+553,foreign bodies.md
+554,foreign pathogens.md
+555,fruit.md
+556,fruits.md
+557,Functional Groups.md
+558,Fungi.md
+559,gastropods.md
+560,gastrula.md
+561,gastrulation.md
+562,Genetic Code.md
+563,genetic.md
+564,Genetically Modified Organism.md
+565,Genetics.md
+566,Genomic DNA.md
+567,Genomics.md
+568,genus.md
+569,glands.md
+570,Glatamic Acid.md
+571,Glaucophyta.md
+572,Globin Evolution.md
+573,Glutamine.md
+574,Glycine.md
+575,Glycolysis.md
+576,gorilla.md
+577,gorillas.md
+578,grain.md
+579,grooming.md
+580,GTP-Bound Ras.md
+581,gymnosperms.md
+582,Heme Groups.md
+583,Heme.md
+584,Hemoglobin.md
+585,heterotrophs.md
+586,High-Density Lipoprotein.md
+587,Histidine.md
+588,HIV Reading Frames.md
+589,hornworts.md
+590,humans.md
+591,Hydrogen Bonds.md
+592,Hydrophilic.md
+593,Hydrophobic.md
+594,Hydroxyl Group.md
+595,Hypothesis.md
+596,Illumina Diagram.md
+597,immune response.md
+598,immune responses.md
+599,immune system.md
+600,immune systems.md
+601,immunology.md
+602,immunotherapy.md
+603,Independent Variable.md
+604,Initiation.md
+605,Ionic Bonds.md
+606,Isoleucine.md
+607,kingdom.md
+608,lancelets.md
+609,Lecture 1; The Diversity of life.md
+610,Lecture 2; Biochemistry I.md
+611,Lecture 3; Protein Structure.md
+612,Leucine.md
+613,Levels Of Protein Structure.md
+614,Linnaean system.md
+615,Linnaean taxonomy.md
+616,Lipid Bilayer.md
+617,Lipids.md
+618,liverworts.md
+619,Loading Agarose Gel.md
+620,Long Intergenic Non-Coding RNA.md
+621,Long Interspersed Elements.md
+622,Long Non-Coding RNA.md
+623,Low-Density Lipoprotein Receptor.md
+624,Low-Density Lipoprotein.md
+625,Lysine.md
+626,massaging.md
+627,Megabases.md
+628,Meiosis.md
+629,mesoderm.md
+630,Messenger RNA.md
+631,Metabolism.md
+632,Metastable.md
+633,Methionine.md
+634,Metisos.md
+635,Micell.md
+636,micro virus.md
+637,microbial infection.md
+638,MITx 7.00X Introduction to Biology - The Secret of Life.md
+639,Module 10; Ecology.md
+640,Module 11; Anthropocene.md
+641,Module 1; Process of Science Notes.md
+642,Module 2; Chemistry.md
+643,Module 3; DNA and Gene Expression.md
+644,Module 4; Lipids.md
+645,Module 5; Metabolism.md
+646,Module 6; Photosynthesis.md
+647,Module 7; Cell Cycle.md
+648,Module 8; Genetics.md
+649,Module 9; Evolution.md
+650,Molecular Biology.md
+651,molecular genetics.md
+652,molecular phylogenetics.md
+653,monkeys.md
+654,monophyletic group.md
+655,Monosaccharides.md
+656,morphology.md
+657,mosses.md
+658,motor fibers.md
+659,motor nerves.md
+660,mutant proteins.md
+661,mycology.md
+662,mycotoxins.md
+663,mycotrophic.md
+664,myelinated.md
+665,myxomycetes.md
+666,negative feedback loops.md
+667,negative feedback.md
+668,negative regulators.md
+669,Nerve Cell.md
+670,Nervous System.md
+671,nervous tissue.md
+672,non-motor efferents.md
+673,Non-Polar Bond.md
+674,nucleic acids.md
+675,nutrient cycling.md
+676,Observations.md
+677,Omega Loop.md
+678,onychophorans.md
+679,oomycetes.md
+680,orangutan.md
+681,orangutans.md
+682,order.md
+683,organogenesis.md
+684,pangaea.md
+685,parasitic.md
+686,pathogens.md
+687,Pauling Electronegativity.md
+688,PCR Thermocyclers.md
+689,Peptide Bond.md
+690,Periodic Table.md
+691,Peripheral Nervous System.md
+692,PH Scale.md
+693,Phenylalaine.md
+694,Phosphate group.md
+695,Phosphodiester Bonds.md
+696,Phospholipid.md
+697,Phospolipid Bilayer.md
+698,photosynthesis.md
+699,photosynthesize.md
+700,Phylogenetic.md
+701,phylum.md
+702,placenta.md
+703,Plantae.md
+704,Plants.md
+705,Polar Bond.md
+706,Polarity.md
+707,polyketides.md
+708,Polymerase chain reaction.md
+709,Polymerization.md
+710,Polypeptide.md
+711,Polysaccharides.md
+712,Positional Cloning.md
+713,positive regulators.md
+714,posterior.md
+715,Potential energy.md
+716,primary germ layers.md
+717,Primary Structure.md
+718,primate.md
+719,Prokaryotes.md
+720,Proline.md
+721,Protein Synthesis.md
+722,Protein.md
+723,protists.md
+724,Protozoa.md
+725,psychotropic.md
+726,Purifying a Gene.md
+727,quantum leap.md
+728,Quaternary Structure.md
+729,Ras GEF and GAP Cycle.md
+730,Ras Signaling.md
+731,Recombinant DNA.md
+732,Repetition.md
+733,respiration.md
+734,Restriction Enzyme Sites.md
+735,Ribonucleic Acid.md
+736,Ribosomal RNA.md
+737,Ribosomes.md
+738,RNA interference.md
+739,rostral.md
+740,Saccharides.md
+741,salmon.md
+742,Sample Size.md
+743,Sanger Sequencing.md
+744,secondary pentaradial symmetry.md
+745,Secondary Structure.md
+746,seeds.md
+747,Sensory nerves.md
+748,Sequencing Gel.md
+749,Serine.md
+750,seven phyla.md
+751,Sexual reproduction.md
+752,sexual swelling.md
+753,Short Interspersed Elements.md
+754,silverback gorillas.md
+755,Single-Stranded DNA.md
+756,Single-Stranded RNA.md
+757,skeletal muscles.md
+758,SNP Diagram.md
+759,Solution.md
+760,Solvent.md
+761,somatic nervous system.md
+762,species.md
+763,sponges.md
+764,spores.md
+765,Surface Tension.md
+766,symbionts.md
+767,T cells.md
+768,Tal Effectors.md
+769,taxa.md
+770,taxon.md
+771,taxonomical.md
+772,taxonomy.md
+773,ten subphyla.md
+774,Termination.md
+775,Tertiary Structure.md
+776,Threonine.md
+777,toddler.md
+778,Transfer RNA.md
+779,Translation.md
+780,Triglyceride.md
+781,Triploblastic animals.md
+782,Triploblasty.md
+783,Tryptophan.md
+784,Tyrosine.md
+785,ultraviolet radiation.md
+786,unmyelinated.md
+787,Valence Shell.md
+788,Valine.md
+789,Van Der Waals Bonds.md
+790,vegetables.md
+791,ventral.md
+792,Vertebrata.md
+793,Vertebrates.md
+794,Viridiplantae.md
+795,virus detection.md
+796,virus infection.md
+797,virus.md
+798,viruses.md
+799,viscous fluids.md
+800,Vitalism.md
+801,Water.md
+802,White Blood Cells.md
+803,worms.md
+804,Yeast Colonies.md
+805,Action Potential.md
+806,afferent nerve.md
+807,Afferent projections.md
+808,Astrocytes.md
+809,Axon dysfunction.md
+810,Axon.md
+811,brain metastability.md
+812,Chordata.md
+813,Chordates.md
+814,Chromista.md
+815,Efferent nerve fibers.md
+816,Group A nerve fibers.md
+817,Group B nerve fibers.md
+818,Group C nerve fibers.md
+819,manifold hypothesis.md
+820,Membranes.md
+821,Motor Neurons.md
+822,Nerve Fibers.md
+823,Neural Manifold.md
+824,Neural Manifolds.md
+825,neural.md
+826,neurology.md
+827,Neuron.md
+828,neuronal activity.md
+829,neurons.md
+830,Neuroscience.md
+831,Neurotransmission.md
+832,PNS.md
+833,population dynamics.md
+834,Postsynaptic.md
+835,Potentials.md
+836,Presynaptic.md
+837,Pseudounipolar Peurons.md
+838,Receptors.md
+839,Sensory Fiber.md
+840,sensory fibers.md
+841,sensory information.md
+842,sensory nerve.md
+843,Sensory Neurons.md
+844,Sensory Receptors.md
+845,sensory transduction.md
+846,signal propagation.md
+847,signal trafficking.md
+848,Somatic Afferent Nerve Fibers.md
+849,Synapses.md
+850,Synaptic Activity.md
+851,Synaptic Adhesion Molecules.md
+852,Synaptic Neurons.md
+853,Target Effector Cell.md
+854,Type I.md
+855,Type II.md
+856,Type III.md
+857,Type IV.md
+858,Zoology.md
+859,physical science.md
+860,Acid-Base Reactions.md
+861,Actinium.md
+862,Aluminium.md
+863,Americium.md
+864,amorphous solids.md
+865,anion.md
+866,Antimony.md
+867,Argon.md
+868,Arsenic.md
+869,Astatine.md
+870,Atom.md
+871,Atomic Mass Number.md
+872,Atomic Number.md
+873,Atomic Quantum Numbers and Orbitals.md
+874,Atomic Structure.md
+875,Atomic Weight.md
+876,Barium.md
+877,Behavior of Gasses.md
+878,Berkelium.md
+879,Beryllium.md
+880,Bismuth.md
+881,Bohrium.md
+882,Boron.md
+883,Bromine.md
+884,Cadmium.md
+885,Caffeine.md
+886,Calcium.md
+887,Californium.md
+888,carbon dioxide.md
+889,Carbon.md
+890,Cerium.md
+891,Cesium.md
+892,Chemical Bonding And Quantum Mechanics.md
+893,Chemical Interactions.md
+894,chemical properties.md
+895,Chemistry don'ts.md
+896,Chemistry Sheet 1.md
+897,Chlorine.md
+898,Chromium.md
+899,Cobolt.md
+900,combustion.md
+901,constitutional isomerism.md
+902,Copernicium.md
+903,Copper.md
+904,crystal lattice vibration.md
+905,Curium.md
+906,Darmstadtium.md
+907,Deep Dive 1; How to read Chemical Structures.md
+908,Dubnium.md
+909,Dysprosium.md
+910,Einsteinium.md
+911,Electron Configuration.md
+912,Electron Shell.md
+913,Endothermic And Exothermic Reactions.md
+914,Energy Level.md
+915,Equilibrium.md
+916,Erbium.md
+917,Europium.md
+918,Fermium.md
+919,Flerovium.md
+920,Flourine.md
+921,Formal Bonding Models.md
+922,Francium.md
+923,Fundamental Constants.md
+924,Gadolinium.md
+925,Gallium.md
+926,Germanium.md
+927,Gold.md
+928,Hafnium.md
+929,Hassium.md
+930,Helium.md
+931,Hints for Balancing Equations.md
+932,Holmium.md
+933,Hybrid Orbitals.md
+934,Hydrogen.md
+935,identical molecular formulae.md
+936,Indium.md
+937,Iodine.md
+938,Iridium.md
+939,Iron.md
+940,isomer.md
+941,isomeric.md
+942,isomerisation.md
+943,isomerisch.md
+944,isomerisk.md
+945,Isomerism.md
+946,isomers.md
+947,isos.md
+948,isotopologues.md
+949,isómeros.md
+950,Kinetics.md
+951,Krypton.md
+952,Landium.md
+953,Lawrencium.md
+954,Lead.md
+955,liquid crystals.md
+956,Lithium.md
+957,Lutetium.md
+958,Magnesium.md
+959,Manganese.md
+960,Many-Electron Atoms.md
+961,Measurement and Units.md
+962,Meitnerium.md
+963,Mendelevium.md
+964,Mercury.md
+965,Metastability.md
+966,Metastable states of matter.md
+967,Mixtures and Solutions.md
+968,Molecular Orbital (MO) Theory.md
+969,Molecular Properties.md
+970,molecular.md
+971,Molecule.md
+972,molecules.md
+973,Molybdenum.md
+974,Moscovium.md
+975,Neodymium.md
+976,Neon.md
+977,Neptunium.md
+978,Nickle.md
+979,Nihonium.md
+980,Niobium.md
+981,Nitrogen.md
+982,Nobelium.md
+983,Nomenclature.md
+984,Nuclear Chemistry.md
+985,organic chemistry.md
+986,Osmium.md
+987,Oxidation - Reduction Reactions.md
+988,Oxygen.md
+989,Palladium.md
+990,Phosphorous.md
+991,Physical Processes.md
+992,Platinum.md
+993,Plutonium.md
+994,Polonium.md
+995,polyatomic ion.md
+996,polyatomic ions.md
+997,Potassium.md
+998,Praseodymium.md
+999,Promethium.md
+1000,Properties of Inorganic Salts.md
+1001,Protactinium.md
+1002,quantum physics.md
+1003,Radium.md
+1004,Radon.md
+1005,Reactions.md
+1006,Rhenium.md
+1007,Rhodium.md
+1008,Roentgenium.md
+1009,Rubidium.md
+1010,Ruthenium.md
+1011,Rutherfordium.md
+1012,Samarium.md
+1013,Scandium.md
+1014,Seaborgium.md
+1015,Selenium.md
+1016,Silicon.md
+1017,Silver.md
+1018,Sodium.md
+1019,spatial isomerism.md
+1020,Stefan–Boltzmann law.md
+1021,stereoisomer.md
+1022,stereoisomerism.md
+1023,stereoisomers.md
+1024,Strontium.md
+1025,structural isomerism.md
+1026,sulfur dioxide.md
+1027,Sulfur.md
+1028,Tantalum.md
+1029,Technetium.md
+1030,Tellurium.md
+1031,Terbium.md
+1032,Thallium.md
+1033,Thermodynamics.md
+1034,Thorium.md
+1035,Thulium.md
+1036,Tin.md
+1037,Titanium.md
+1038,Tungsten.md
+1039,Types of Matter.md
+1040,Uranium.md
+1041,Valence Bond Theory.md
+1042,Vandium.md
+1043,Xenon.md
+1044,Ytterbium.md
+1045,Yttrium.md
+1046,Zinc.md
+1047,Zirconium.md
+1048,Stoichiometry.md
+1049,Gemology.md
+1050,Geogony.md
+1051,Geography.md
+1052,Glaciology.md
+1053,geological.md
+1054,Geology.md
+1055,mineral.md
+1056,minerals.md
+1057,Heliology.md
+1058,Hydrology.md
+1059,Meteoritics.md
+1060,Mineralogy.md
+1061,Nephology.md
+1062,Ombrology.md
+1063,Optics.md
+1064,air pressure.md
+1065,electromagnetic energy.md
+1066,electromagnetic spectrum.md
+1067,magnetic field.md
+1068,medium.md
+1069,modulated waves.md
+1070,physics.md
+1071,sinusoidal envelopes.md
+1072,sinusoidal wave.md
+1073,sinusoids.md
+1074,sound spectrum.md
+1075,sound wave.md
+1076,spectrum.md
+1077,time-invariance.md
+1078,vibration spectrum.md
+1079,wavelengths.md
+1080,Astrophysics.md
+1081,Eagle Nebula.md
+1082,Nebula.md
+1083,Pillars of Creation.md
+1084,Proplyd.md
+1085,Protoplanetary Disk.md
+1086,Quantum physics.md
+1087,Pseudoptics.md
+1088,Rheology.md
+1089,Seismology.md
+1090,Egyptology.md
+1091,Etymology.md
+1092,Gloosology.md
+1093,Lexicology.md
+1094,Lexigraphy.md
+1095,Linguistics.md
+1096,Onomastics.md
+1097,Orthoepy.md
+1098,Orthography.md
+1099,Philology.md
+1100,Semantology.md
+1101,social science.md
+1102,Economics.md
+1103,Ethnology.md
+1104,Ethnomethodology.md
+1105,Euthenics.md
+1106,Gerocomy.md
+1107,Hierology.md
+1108,Historiology.md
+1109,Human Geography.md
+1110,ideology.md
+1111,Irenology.md
+1112,Kalology.md
+1113,Metaphysics.md
+1114,Metapsychology.md
+1115,Musicology.md
+1116,Neutrosophy.md
+1117,Oneirology.md
+1118,Paraphsycology.md
+1119,Pedagogy.md
+1120,Philosophy.md
+1121,Polemology.md
+1122,Political Science.md
+1123,Pseudology.md
+1124,Psychognosy.md
+1125,Psychology.md
+1126,Scatology.md
+1127,Signfics.md
+1128,Sociology.md
+1129,Demology.md
+1130,Big Bang theory.md
+1131,5HTR4.md
+1132,Cell danger response theory.md
+1133,Gigantology.md
+1134,Hagiology.md
+1135,Hamartiology.md
+1136,Heresiology.md
+1137,Iconography.md
+1138,Iconology.md
+1139,Ktensology.md
+1140,Liturgiology.md
+1141,Mariology.md
+1142,methodology.md
+1143,Mythology.md
+1144,Naology.md
+1145,Neuryphology.md
+1146,Ontology.md
+1147,Organology.md
+1148,Patrology.md
+1149,Phenomenology.md
+1150,Praxeology.md
+1151,Pyrgology.md
+1152,Semiotics.md
+1153,Sindinology.md
+1154,Soteriology.md
+1155,Spectrology.md
+1156,Storiology.md
+1157,Apriorist.md
+1158,Apriority.md
+1159,Astrology.md
+1160,Astronomy.md
+1161,Chaology.md
+1162,cosmological.md
+1163,Cosmology.md
+1164,Criminology.md
+1165,Demography.md
+1166,Demonology.md
+1167,Diabology.md
+1168,Diplomatics.md
+1169,Dysteleology.md
+1170,Entomology.md
+1171,Folkloristics.md
+1172,Garbology.md
+1173,Bibliology.md
+1174,Ecclesiology.md
+1175,Eschatology.md
+1176,Disease Resistance.md
+1177,Frost Resistance.md
+1178,Magic Resistance.md
+1179,Poison Resistance.md
+1180,Underwater Breathing.md
+1181,Elsweyr.md
+1182,High Rock.md
+1183,valenwood forest.md
+1184,Health.md
+1185,Magicka.md
+1186,Stamina.md
+1187,Archer.md
+1188,Battlemage.md
+1189,Dual Wielding.md
+1190,Mage (Defensive).md
+1191,Mage (Offensive).md
+1192,Mage.md
+1193,Nightblade.md
+1194,Spellsword.md
+1195,Thief (Offensive).md
+1196,Thief.md
+1197,Warrior (Defensive).md
+1198,Warrior (Offensive).md
+1199,Warrior.md
+1200,Argonian.md
+1201,Breton.md
+1202,Dark Elf.md
+1203,High Elf.md
+1204,Imperial.md
+1205,Khajiit.md
+1206,Nord.md
+1207,Orc.md
+1208,Races.md
+1209,Racial Skill Advantages.md
+1210,Redguard.md
+1211,Wood Elf.md
+1212,Adrenaline Rush.md
+1213,Ancestor's Wrath.md
+1214,Battle Cry.md
+1215,Berserk.md
+1216,Command Animal.md
+1217,Dragonskin.md
+1218,Highborn.md
+1219,Histskin.md
+1220,Night Eye.md
+1221,Voice of the Emperor.md
+1222,Skills.md
+1223,Archery.md
+1224,Block.md
+1225,Combat Skills.md
+1226,Heavy Armor.md
+1227,One-Handed.md
+1228,Smithing.md
+1229,Two-Handed.md
+1230,Alteration.md
+1231,Conjuration.md
+1232,Destruction.md
+1233,Enchanting.md
+1234,Illusion.md
+1235,Magic Skills.md
+1236,Restoration.md
+1237,Alchemy.md
+1238,Light Armor.md
+1239,Lockpicking.md
+1240,Pickpocket.md
+1241,Sneak.md
+1242,Speech.md
+1243,Stealth Skills.md
+1244,Conjure Familiar.md
+1245,Flame Cloak.md
+1246,Flames.md
+1247,Fury.md
+1248,Healing.md
+1249,Sparks.md
+1250,getEmailNeg.md
+1251,getEmailPos.md
+1252,getIdeas.md
+1253,getOutline.md
+1254,getParagraph.md
+1255,getTags.md
+1256,getTitles.md
+1257,rewrite.md
+1258,simplify.md
+1259,summarize.md
+1260,18JAN2023 Biology Lab.md
+1261,Notes.md
+1262,18JAN2023 Biology Lecture.md
+1263,20JAN2023 Biology Lecture.md
+1264,23JAN2023 Biology Lecture.md
+1265,25JAN2023_Bio.md
+1266,ALEKS.md
+1267,"Chapter 1. Chemistry, the central science slide notes.md"
+1268,"Chapter 1. Chemistry, the central science.md"
+1269,Chapter 1.md
+1270,chromatography.md
+1271,Decanting.md
+1272,heterogeneous mixture.md
+1273,homogeneous mixture.md
+1274,"Chapter 2. Atoms, Molecules, and Ions.md"
+1275,Chapter 2.md
+1276,Chapter 3.md
+1277,Chapter 4.md
+1278,Day 1.md
+1279,Day 3.md
+1280,Day 4.md
+1281,Day 7.md
+1282,Chemistry Sixth Edition by Julia Burdge.md
+1283,Course Syllabus for Fall 2022.md
+1284,Department of Chemistry Online Safety Agreement.md
+1285,Dimensional Analysis.md
+1286,18JAN2023 Humanities.md
+1287,20JAN2023 Humanities.md
+1288,23JAN2023 Humanities.md
+1289,25JAN2023_Humanities.md
+1290,Untitled.md
+1291,18JAN2023 Trig.md
+1292,20JAN2023 Trig.md
+1293,23JAN2023Trig.md
+1294,25JAN2023_Trig.md
+1295,Day 1.md
+1296,Day 10.md
+1297,Day 13.md
+1298,Day 14.md
+1299,Day 15.md
+1300,Day 16.md
+1301,Day 2.md
+1302,Day 22.md
+1303,Day 23.md
+1304,Day 24.md
+1305,Day 3.md
+1306,Day 6.md
+1307,Day 8.md
+1308,Day 9.md
+1309,Car Trouble.md
+1310,Example Denison.md
+1311,How to find purpose in life..md
+1312,Introduction Speech.md
+1313,Speech Outline.md
+1314,Smokey Nagata.md
+1315,Logic Operators.md
+1316,Chapter 6.1 Basic Propositional Logic Notes.md
+1317,Propositional logic.md
+1318,Day 1.md
+1319,Day 13.md
+1320,Day 17.md
+1321,Day 18.md
+1322,Day 2.md
+1323,Day 20.md
+1324,Day 23.md
+1325,Day 24.md
+1326,Day 25.md
+1327,Day 26.md
+1328,Day 27.md
+1329,Day 28.md
+1330,Day 29.md
+1331,Day 3.md
+1332,Day 30.md
+1333,Day 31.md
+1334,Day 4.md
+1335,Day 5.md
+1336,Day 6.md
+1337,Day 7.md
+1338,Chapter 1 Lecture.md
+1339,Day 2.md
+1340,Day 26.md
+1341,Day 4.md
+1342,Day 5.md
+1343,Statistics.md
+1344,Systems Theory.md
+1345,Zoology.md
+1346,Etymology.md
+1347,20220722 120642.jpg.md
+1348,20220722 120648.jpg.md
+1349,20220722 120704.jpg.md
+1350,2G.md
+1351,3G.md
+1352,4G.md
+1353,"50,000-year-old meteorite could revolutionize electronics and fast-charging.md"
+1354,5G.md
+1355,a posteriori.md
+1356,a priori knowledge.md
+1357,a priori.md
+1358,absolute zero.md
+1359,abstract structures.md
+1360,academic circles.md
+1361,academic discipline.md
+1362,academic disciplines.md
+1363,academic philosophy.md
+1364,academic practice.md
+1365,academic settings.md
+1366,accessible void.md
+1367,Acids and bases.md
+1368,acrylic paint.md
+1369,active patterns.md
+1370,additives.md
+1371,adjective interdisciplinary.md
+1372,administrators.md
+1373,ADP.md
+1374,aducanumab.md
+1375,ADUHELM clinical trials.md
+1376,Aduhelm.md
+1377,aesthetics.md
+1378,agent-based modelling.md
+1379,aging.md
+1380,agricultural species.md
+1381,AI.md
+1382,AIDS.md
+1383,algorithmic game theory.md
+1384,algorithms.md
+1385,Alkaloids.md
+1386,alkanes.md
+1387,alkenes.md
+1388,alkynes.md
+1389,allergies.md
+1390,Alzheimer.md
+1391,amateurs.md
+1392,ambient temperature.md
+1393,AMD.md
+1394,ammonia.md
+1395,ammonium.md
+1396,ampliative inferences.md
+1397,amyloid-related imaging abnormalities.md
+1398,anachroadaptive mitocellular dysfunction.md
+1399,analysis.md
+1400,analytical methods.md
+1401,analytical models.md
+1402,analytically.md
+1403,ancient garbage.md
+1404,ancient Greece.md
+1405,ancient indigenous peoples of the Americas.md
+1406,ancient populations.md
+1407,Andreas Vesalius.md
+1408,Android Studio File Structure.md
+1409,animal embryos.md
+1410,animal kingdom.md
+1411,animals.md
+1412,annotating genomes.md
+1413,Antarctica.md
+1414,anthropogeography.md
+1415,anthropology.md
+1416,Antikythera Mechanism.md
+1417,antiquity.md
+1418,Antonie van Leeuwenhoek.md
+1419,aphorism of Heraclitus.md
+1420,ApoE.md
+1421,apolipoprotein E.md
+1422,Appendix A Selected Conversion Factors.md
+1423,Appendix B Data and Properties of Materials.md
+1424,applied linguistics.md
+1425,applied mathematics.md
+1426,aprioricity.md
+1427,arachnids.md
+1428,Arama et+al EpigeneticsMalariaSusceptibilityprotectionMissingPiece 2018.md
+1429,Archaea.md
+1430,archaeology.md
+1431,architectural history.md
+1432,argument from poor design.md
+1433,ARIA-E.md
+1434,ARIA.md
+1435,arithmetic.md
+1436,aromatics.md
+1437,arthropod groups.md
+1438,artificial intelligence.md
+1439,Asia.md
+1440,aspects of culture.md
+1441,asteroids.md
+1442,astroglaciology.md
+1443,astronomers.md
+1444,atmosphere.md
+1445,atmospheres.md
+1446,atmospheric science.md
+1447,atmospheric.md
+1448,Atomic mass unit.md
+1449,atoms.md
+1450,ATP.md
+1451,attending conferences.md
+1452,Australia.md
+1453,Austronesian.md
+1454,authenticity.md
+1455,authors’ conclusions.md
+1456,automata theory.md
+1457,Babylonians.md
+1458,Bacon.md
+1459,Bakshi et+al NovelComplexHatProteinTip60 2017.md
+1460,Barbary apes.md
+1461,Barski et+al HighresolutionProfilingHistoneMethylationsHuman 2007.md
+1462,Batugedara et+al RoleChromatinStructureGeneRegulation 2017.md
+1463,behavior.md
+1464,behavioral patterns.md
+1465,behavioral scientist.md
+1466,behaviors.md
+1467,behavioural sciences.md
+1468,benzene.md
+1469,Bergama.md
+1470,BERT.md
+1471,Bible.md
+1472,Bibliography (Thermal Recovery Book).md
+1473,Bidirectional Encoder Representations from Transformer.md
+1474,Bidirectional Encoder Representations from Transformers.md
+1475,Biogen Inc..md
+1476,biological data.md
+1477,biological literature.md
+1478,biological materials.md
+1479,biological networks.md
+1480,biological ontologies.md
+1481,biological pathways.md
+1482,biological processes.md
+1483,biological studies.md
+1484,biological threats.md
+1485,biologics.md
+1486,biologists.md
+1487,biomechanics.md
+1488,biomedical research.md
+1489,biomedical sciences.md
+1490,biomolecular interactions.md
+1491,biophysics.md
+1492,biosphere.md
+1493,bishop of Rome.md
+1494,bishop.md
+1495,bishops.md
+1496,black bile.md
+1497,Black Marsh.md
+1498,blastula stage.md
+1499,blazars.md
+1500,blood type.md
+1501,blood vessels.md
+1502,blood.md
+1503,bodily fluids.md
+1504,bones.md
+1505,bridges.md
+1506,broken tools.md
+1507,buildings.md
+1508,business magnates.md
+1509,Byrne et+al FdaPublicWorkshopSummaryAdvancing 2020.md
+1510,Byrne_et+al_FdaPublicWorkshopSummaryAdvancing_2020.md
+1511,C Plus Plus.md
+1512,calculus.md
+1513,Calderón de la Barca.md
+1514,Capillary bridging.md
+1515,Carbonate ion.md
+1516,Carbonyl Group.md
+1517,Cathay-raht.md
+1518,Catholic ecclesiology.md
+1519,caveolae.md
+1520,CDR.md
+1521,cell biology.md
+1522,cell danger response.md
+1523,Cells.md
+1524,Central Europe.md
+1525,central science.md
+1526,ceramics.md
+1527,chaos.md
+1528,chaotic systems.md
+1529,character.md
+1530,Charles Darwin.md
+1531,Chart with Mean +- 1SE.PNG.md
+1532,Chat GPT.md
+1533,Chemical bonding.md
+1534,chemical bonds.md
+1535,Chemical kinetics.md
+1536,chemical threats.md
+1537,chemical.md
+1538,chemistry.md
+1539,Chinese.md
+1540,Christian theology.md
+1541,Christian Wolff.md
+1542,chronology.md
+1543,Church.md
+1544,cirriform wisps.md
+1545,cirriform.md
+1546,Clarke et+al Esa1pEssentialHistoneAcetyltransferaseRequired 1999.md
+1547,Claudius Galenus.md
+1548,climate sensitivity.md
+1549,climatology.md
+1550,clinical.md
+1551,Cloud.md
+1552,Clouds.md
+1553,coefficient of viscosity.md
+1554,cognitive functions.md
+1555,cognitive scientists.md
+1556,Cold War.md
+1557,comets.md
+1558,Commerce.md
+1559,Common Logic Operators.png.md
+1560,communicate.md
+1561,Communication of Results.md
+1562,communication science.md
+1563,communities.md
+1564,compactors.md
+1565,comparative semantics.md
+1566,computational biology.md
+1567,computational complexity.md
+1568,computational economics.md
+1569,computational geometry.md
+1570,computational linguistics.md
+1571,computational number theory.md
+1572,computer programming.md
+1573,computer science.md
+1574,computer x-ray tomography.md
+1575,computers.md
+1576,conference presentations.md
+1577,conformational.md
+1578,connective tissue.md
+1579,conscious phenomena.md
+1580,conservation.md
+1581,considerable computer simulation.md
+1582,constitutional.md
+1583,Contemporary medicine.md
+1584,Contemporary Western astrology.md
+1585,convective clouds.md
+1586,corpus.md
+1587,correlational relationships.md
+1588,cosmic microwave background radiation.md
+1589,cosmochemistry.md
+1590,Cosmologia Generalis.md
+1591,counseling psychologists.md
+1592,creation myths.md
+1593,creation of records.md
+1594,criminal law.md
+1595,criminologists.md
+1596,critical analysis.md
+1597,crop irrigation.md
+1598,crustaceans.md
+1599,cryptic.md
+1600,cryptography.md
+1601,crystal structure.md
+1602,crystals.md
+1603,CT scanning.md
+1604,Cui ChromatinmediatedEpigeneticRegulationMalariaParasite 2010.md
+1605,Cui et+al HistoneLysineMethyltransferasesDemethylasesPlasmodium 2008.md
+1606,cultural.md
+1607,cultures.md
+1608,cumuliform.md
+1609,cumulonimbiform.md
+1610,cumulonimbus.md
+1611,cyclohexane.md
+1612,Dante Alighieri.md
+1613,dark energy.md
+1614,dark matter.md
+1615,data collection.md
+1616,data structures.md
+1617,data.md
+1618,DataFrame.from dict().md
+1619,datasets.md
+1620,date of birth.md
+1621,date of death.md
+1622,David N. Spergel.md
+1623,De humani corporis fabrica.md
+1624,death.md
+1625,Deauthentication.md
+1626,decision theory.md
+1627,decisional.md
+1628,decoder.md
+1629,deductive inferences.md
+1630,definition of entomology.md
+1631,deforestation.md
+1632,deformation of solids.md
+1633,Dehydration Synthesis.md
+1634,deity.md
+1635,Democritus.md
+1636,Demographic analysis.md
+1637,demons.md
+1638,denomination.md
+1639,Descartes.md
+1640,desirable properties.md
+1641,detergents.md
+1642,developers.md
+1643,developing research questions.md
+1644,developmental biology.md
+1645,deviance.md
+1646,deviant behaviour.md
+1647,devil.md
+1648,devils.md
+1649,dew point.md
+1650,Diablo Canyon.md
+1651,diagnosis.md
+1652,dialectology.md
+1653,diamond.md
+1654,dichotomies.md
+1655,digestive tract.md
+1656,dilutions.md
+1657,direct observation.md
+1658,discarnate spirits.md
+1659,discipline.md
+1660,discoveries.md
+1661,discovery science.md
+1662,dissecting scope.md
+1663,dissection.md
+1664,distributed computation.md
+1665,divinatory practices.md
+1666,DNA.md
+1667,domestic appliances.md
+1668,dominance versus submissiveness.md
+1669,Douthat.md
+1670,dragons.md
+1671,dragontail.md
+1672,drainage-basin management.md
+1673,dream.md
+1674,Dreams.md
+1675,dynamic systems.md
+1676,dynamics.md
+1677,earth science.md
+1678,earth sciences.md
+1679,Earth's atmosphere.md
+1680,Earth-based laboratories.md
+1681,earthquake environmental effects.md
+1682,ecclesiological issues.md
+1683,eclipses.md
+1684,economic.md
+1685,economies.md
+1686,economists.md
+1687,economy.md
+1688,ecosystems.md
+1689,ecumenical ecclesiology.md
+1690,education.md
+1691,educational social agencies.md
+1692,educators.md
+1693,Edward A. Weinstein.md
+1694,Egypt.md
+1695,Egyptian.md
+1696,Egyptians.md
+1697,Egyptologist.md
+1698,elastic.md
+1699,elasticity.md
+1700,electromagnetic theory.md
+1701,electromagnetic.md
+1702,electromagnetism.md
+1703,electron configurations.md
+1704,electron.md
+1705,electronic circuits.md
+1706,electrons.md
+1707,embryogenesis.md
+1708,embryology.md
+1709,embryonic triploblasty..md
+1710,emergency contact information.md
+1711,empirical investigation.md
+1712,empirical methods.md
+1713,empirical patterns.md
+1714,empirical sciences.md
+1715,empiricist medical sects.md
+1716,emulsion paint.md
+1717,Endemic.md
+1718,Endometriosis.md
+1719,energy.md
+1720,Enlightenment.md
+1721,environmental engineering.md
+1722,environmental watershed sustainability.md
+1723,enzyme.md
+1724,EPA.md
+1725,epistemology.md
+1726,Equilibrium chemistry.md
+1727,Eratosthenes.md
+1728,Ernst Haeckel.md
+1729,esoteric literature.md
+1730,ethnicity.md
+1731,etiology of crime.md
+1732,etymological.md
+1733,Etymologists.md
+1734,etymology.md
+1735,Eugene C. Bingham.md
+1736,Europa.md
+1737,excitement versus calmness.md
+1738,exoplanetology.md
+1739,experiments.md
+1740,external splints and traction.md
+1741,extraterrestrial.md
+1742,family doctor.md
+1743,family resilience.md
+1744,Fan et+al PlasmodiumFalciparumHistoneAcetyltransferaseYeast 2004.md
+1745,federally recognized Native American nation.md
+1746,feelings.md
+1747,fibre optics.md
+1748,Fig 1.3 AMD.jpg.md
+1749,Fig 1.4 AMD.jpg.md
+1750,Fig 1.5 AMD.jpg.md
+1751,final destiny of the soul.md
+1752,firing rate.md
+1753,first principles.md
+1754,Florentin Smarandache.md
+1755,flow of liquids.md
+1756,flow velocity.md
+1757,fluid mechanics.md
+1758,fluids.md
+1759,fluvial.md
+1760,fog.md
+1761,folklore.md
+1762,food remains.md
+1763,foods.md
+1764,force.md
+1765,forensic science.md
+1766,forensics.md
+1767,Formal demography.md
+1768,formal fallacies.md
+1769,formal languages.md
+1770,Formal logic.md
+1771,Formal sciences.md
+1772,formal systems.md
+1773,forms of records.md
+1774,formulas.md
+1775,fossil fuels.md
+1776,fossilized.md
+1777,Francis Crick.md
+1778,frozen crystals.md
+1779,funding.md
+1780,G-type main-sequence star.md
+1781,G2V.md
+1782,galaxies.md
+1783,Galen of Pergamon.md
+1784,Galen.md
+1785,Galileo.md
+1786,game theory.md
+1787,gamma ray bursts.md
+1788,garbologists.md
+1789,gemmology.md
+1790,gemologists.md
+1791,gemstone.md
+1792,gender.md
+1793,gene ontologies.md
+1794,gene.md
+1795,genera.md
+1796,generate text summaries.md
+1797,genes.md
+1798,genetic basis of disease.md
+1799,genomic data.md
+1800,geochemistry.md
+1801,Geoffrey Chaucer.md
+1802,geographic philosophies.md
+1803,geometric optics.md
+1804,geometry.md
+1805,geomorphology.md
+1806,geophysics.md
+1807,geoscience.md
+1808,geosphere.md
+1809,germ-layer theory.md
+1810,gerontology.md
+1811,giving talks.md
+1812,glacial.md
+1813,glaciers.md
+1814,gladiators.md
+1815,glass formers.md
+1816,Glossographia.md
+1817,Glycolysis An Enzymatic Pathway.png.md
+1818,governance.md
+1819,governments.md
+1820,Gradle Project Usual File Structure.md
+1821,Gradle_Project_Usual_File_Structure.md
+1822,Gramme dynamo.md
+1823,grants.md
+1824,graphite.md
+1825,Greeks.md
+1826,Gregor Mendel.md
+1827,Gregorian calendar.md
+1828,groundwater hydrology.md
+1829,Gupta EpigeneticLandscapesUnderliningGlobalPatterns 2017.md
+1830,Gupta_EpigeneticLandscapesUnderliningGlobalPatterns_2017.md
+1831,gut serotonin receptor 4.md
+1832,Hair Porosity.md
+1833,hammerfell.md
+1834,Head of Research and Development at Biogen.md
+1835,health care.md
+1836,hepatitis B.md
+1837,hepatitis C.md
+1838,hermeneutic.md
+1839,hexagonal crystal structure.md
+1840,hierarchy of demons.md
+1841,high resolution surface scanning.md
+1842,Hippocratic corpus.md
+1843,historical linguistics.md
+1844,historical science.md
+1845,historical-comparative linguistics.md
+1846,history.md
+1847,HIV.md
+1848,Hoeijmakers et+al EpigeneticReaderComplexesHumanMalaria 2019.md
+1849,homeostasis.md
+1850,homosphere.md
+1851,horoscopes.md
+1852,hospitals.md
+1853,How dolphins protect the US nuclear arsenal.md
+1854,How Many Different Human Emotions Are There_.pdf.md
+1855,How Well Do You Know Your Brain.md
+1856,human anatomy.md
+1857,human development.md
+1858,human dissections.md
+1859,human populations.md
+1860,human social behavior.md
+1861,human souls.md
+1862,humankind.md
+1863,hydroelectric power plants.md
+1864,hydrogen fusion.md
+1865,hydrogens.md
+1866,hydrogeology.md
+1867,Hydrological research.md
+1868,hydrologist.md
+1869,Hydrologists.md
+1870,hydrometeorology.md
+1871,hydrosphere.md
+1872,hydrostatic equilibrium.md
+1873,hydroxide.md
+1874,hydroxylase.md
+1875,hypnosis.md
+1876,Ibn al-Nafis.md
+1877,"Ibrahimet al., 2006.md"
+1878,ice.md
+1879,In to Cm.md
+1880,incandescence.md
+1881,Indians.md
+1882,individual agency.md
+1883,Indo-European language family.md
+1884,indole.md
+1885,industrial problem.md
+1886,industrial settings.md
+1887,industrialization.md
+1888,industries.md
+1889,informal fallacies.md
+1890,informal languages.md
+1891,informal logic.md
+1892,information engineering.md
+1893,information studies.md
+1894,information systems.md
+1895,information theory.md
+1896,information.md
+1897,infrared light.md
+1898,infrared radiation.md
+1899,injury.md
+1900,inquisitive.md
+1901,insect-related inquiries.md
+1902,insects.md
+1903,institution of the Church.md
+1904,institutional.md
+1905,insurance provider data.md
+1906,"Integration, Differentiation, and Derivatives of Emotion.pdf.md"
+1907,intelligence.md
+1908,interdisciplinary field.md
+1909,interdisciplinary sciences.md
+1910,interdisciplinary studies.md
+1911,interdisciplinary.md
+1912,interdiscipline.md
+1913,intermolecular forces.md
+1914,intermolecular.md
+1915,international organizations.md
+1916,Internet.md
+1917,interpersonal relationships.md
+1918,interpretative.md
+1919,intertropical convergence zone.md
+1920,intramolecular.md
+1921,ion-dipole interaction.md
+1922,ion-ion interaction.md
+1923,ionizing radiation.md
+1924,ions.md
+1925,Isaac Newton.md
+1926,Islamicate world.md
+1927,isotope ratios.md
+1928,James M. Byrne.md
+1929,James Watson.md
+1930,Jesus.md
+1931,jewelers.md
+1932,jinn.md
+1933,journaler.md
+1934,Journals.md
+1935,judgment.md
+1936,kali linux.md
+1937,kamacite.md
+1938,Kanyal et+al GenomewideSurveyPhylogeneticAnalysisHistone 2018.md
+1939,kernel oil.md
+1940,Ketchup.md
+1941,kidney.md
+1942,Köppen classification system.md
+1943,Lafayette College.md
+1944,lambda calculus.md
+1945,Lambda-CDM model.md
+1946,language tools.md
+1947,languages.md
+1948,lasers.md
+1949,latex paint.md
+1950,Latin.md
+1951,law enforcement agencies.md
+1952,law of conservation of mass.md
+1953,law.md
+1954,laws of nature.md
+1955,lead mining.md
+1956,legislators.md
+1957,lenses.md
+1958,Lewis structures.md
+1959,light microscope.md
+1960,light.md
+1961,linguistic.md
+1962,linguists.md
+1963,liquid.md
+1964,Literature Review.md
+1965,literature reviews.md
+1966,literature.md
+1967,Lithotrophs.md
+1968,liturgy.md
+1969,living cells.md
+1970,living organisms.md
+1971,local plants.md
+1972,Logic.md
+1973,logical formal system.md
+1974,lonsdaleite.md
+1975,Lope de Vega.md
+1976,Luke Howard.md
+1977,lungs.md
+1978,M. Puskas.md
+1979,machine learning.md
+1980,macro-level analyses.md
+1981,macromolecule.md
+1982,magic.md
+1983,magnetic resonance imaging.md
+1984,major diagnoses.md
+1985,major medical history.md
+1986,mammalogy.md
+1987,management science.md
+1988,managers.md
+1989,manufacturing.md
+1990,marine hydrology.md
+1991,market research.md
+1992,Markus Reiner.md
+1993,Mars.md
+1994,Mass Relationships.md
+1995,Mass to Moles.md
+1996,materials.md
+1997,math.md
+1998,mathematical modelling.md
+1999,Mathematical Principles of Natural Philosophy.md
+2000,mathematical technique.md
+2001,mathematical.md
+2002,mathematically.md
+2003,matter.md
+2004,Maya.md
+2005,meaning model.md
+2006,meaning of meaning model.md
+2007,mechanical agitation.md
+2008,mechanisms of reactions.md
+2009,medical devices.md
+2010,medical schools.md
+2011,medical technology.md
+2012,Melanesians.md
+2013,mental activity.md
+2014,mental phenomena.md
+2015,mental processes.md
+2016,mentality.md
+2017,mesosphere.md
+2018,metal complex.md
+2019,metal homeostasis.md
+2020,metallurgy.md
+2021,metaphysicians.md
+2022,meteorite.md
+2023,meteorites.md
+2024,meteoriticist.md
+2025,meteoroids.md
+2026,meteorology.md
+2027,meteors.md
+2028,methane.md
+2029,method of mind.md
+2030,methodologies.md
+2031,Miao et+al MystFamilyHistoneAcetyltransferaseRegulates 2010.md
+2032,micro-level analyses.md
+2033,microscopes.md
+2034,microscopic organisms.md
+2035,microstructure.md
+2036,microwaves.md
+2037,middens.md
+2038,military.md
+2039,mind.md
+2040,mineralized artifacts.md
+2041,mirrors.md
+2042,mist.md
+2043,mitochondrial.md
+2044,modern refuse.md
+2045,moisture contrasts.md
+2046,molarity calculations.md
+2047,molecular ion.md
+2048,Monday.md
+2049,Monkeypox.md
+2050,monsoon trough.md
+2051,Moon.md
+2052,moons.md
+2053,mRNA.md
+2054,muds.md
+2055,municipalities.md
+2056,muscles.md
+2057,mutations.md
+2058,myriapods.md
+2059,mythological cosmology.md
+2060,mythological literature.md
+2061,máthēma.md
+2062,méros.md
+2063,NADPHoxidase.md
+2064,nationality.md
+2065,Native American.md
+2066,natural history.md
+2067,natural language generation model.md
+2068,natural language generation.md
+2069,Natural Language Processing.md
+2070,natural language responses.md
+2071,natural phenomena.md
+2072,natural philosophy.md
+2073,natural sciences.md
+2074,nature.md
+2075,nebulae.md
+2076,Neovascular.md
+2077,Nerve fiber.md
+2078,nervous systems.md
+2079,net charge.md
+2080,network vulnerabilities.md
+2081,networking.md
+2082,neural crest.md
+2083,neurobiological.md
+2084,Newton.md
+2085,Newtonian fluids.md
+2086,NLG.md
+2087,Nomenclature (Thermal Recovery Book).md
+2088,non-governmental organizations.md
+2089,non-living systems.md
+2090,Non-Newtonian fluid mechanics.md
+2091,non-Newtonian fluids.md
+2092,non-profit organizations.md
+2093,non-scientific propositions.md
+2094,nonhuman.md
+2095,North America.md
+2096,nuclear fusion.md
+2097,nuclear physics.md
+2098,nuclear reactions.md
+2099,nuclear weapons.md
+2100,nucleic acid.md
+2101,number theory.md
+2102,observational astronomy.md
+2103,observational results.md
+2104,oceanic.md
+2105,omnivorous.md
+2106,open-domain.md
+2107,OpenAI.md
+2108,ophthalmology.md
+2109,Optical Illusions.md
+2110,optical instrument.md
+2111,optical properties.md
+2112,Optical science.md
+2113,optometry.md
+2114,organism.md
+2115,Organization WorldMalariaReport 2019.md
+2116,organizational settings.md
+2117,Organization_WorldMalariaReport_2019.md
+2118,Organotrophs.md
+2119,organs.md
+2120,origins of Christianity.md
+2121,orthodox scientific psychology.md
+2122,overfitting.md
+2123,ozone.md
+2124,paleontology.md
+2125,paleoseismology.md
+2126,palliation.md
+2127,pandas library.md
+2128,Pandas.md
+2129,paradigms.md
+2130,parallel computation.md
+2131,particle physics.md
+2132,Pasted image 20221208130413.png.md
+2133,pathology.md
+2134,Patient demographics.md
+2135,patient.md
+2136,patterns of social relationships.md
+2137,pedagogies.md
+2138,peer review.md
+2139,penal institutions.md
+2140,Peptide Bond.md
+2141,Pergamon.md
+2142,peripheral nerves.md
+2143,personality.md
+2144,petrophysics.md
+2145,pharmaceuticals.md
+2146,pharmaceutics.md
+2147,pharmacology.md
+2148,phenomena.md
+2149,phenomenological method.md
+2150,philological discipline.md
+2151,philological.md
+2152,philosopher.md
+2153,philosophers of physics.md
+2154,philosophers of space and time.md
+2155,philosophers.md
+2156,philosophical view.md
+2157,philosophical.md
+2158,philosophy of language.md
+2159,philosophy of mind.md
+2160,philosophy of religion.md
+2161,philosophy of science.md
+2162,phlegm.md
+2163,phonetics.md
+2164,phospholipase A2.md
+2165,phosphorus.md
+2166,photography.md
+2167,photons.md
+2168,Phototrophs.md
+2169,Physical cosmology.md
+2170,physical geography.md
+2171,Physical optics.md
+2172,physical properties.md
+2173,physical sciences.md
+2174,physical systems.md
+2175,physical world.md
+2176,physical.md
+2177,physician.md
+2178,physicist.md
+2179,physicists.md
+2180,physiological optics.md
+2181,physiological.md
+2182,physiology.md
+2183,PLA2.md
+2184,planetary geology.md
+2185,planetary science.md
+2186,planetary scientists.md
+2187,planetary systems.md
+2188,planets.md
+2189,planners.md
+2190,planning.md
+2191,Pluto.md
+2192,policy makers.md
+2193,policy.md
+2194,political behaviour.md
+2195,political circles.md
+2196,political philosophy.md
+2197,political scientists.md
+2198,political theory.md
+2199,politicians.md
+2200,politics.md
+2201,polity.md
+2202,pollen.md
+2203,polyamine metabolism.md
+2204,polyatomic ion.md
+2205,polymer molecules.md
+2206,polymers.md
+2207,polyphase current.md
+2208,polyphase currents.md
+2209,population studies.md
+2210,Populations.md
+2211,Porosity.md
+2212,positive versus negative.md
+2213,positron emission tomography.md
+2214,postal code.md
+2215,Posterior analytics.md
+2216,pottery.md
+2217,practical aspect.md
+2218,practitioners.md
+2219,precipitation.md
+2220,predominant calendar.md
+2221,presbyters.md
+2222,prevent injury.md
+2223,prevention.md
+2224,primary germ layers.md
+2225,Prior analytics.md
+2226,private social agencies.md
+2227,probabilistic computation.md
+2228,Procyon lotor.md
+2229,professional astrologers.md
+2230,Professional Development.md
+2231,prognosis.md
+2232,program semantics.md
+2233,program verification.md
+2234,proper organ development.md
+2235,Propositional logic.md
+2236,protein expression.md
+2237,protein regulation.md
+2238,protein sequences.md
+2239,proteins.md
+2240,proteomics.md
+2241,Protestant ecclesiology.md
+2242,pseudo code.md
+2243,pseudoscientific.md
+2244,psychiatrists.md
+2245,psycholinguistics.md
+2246,psychological resilience.md
+2247,psychologist.md
+2248,Psychologists.md
+2249,psychosocial variables.md
+2250,psychotherapy.md
+2251,pterin.md
+2252,public policies.md
+2253,public social agencies.md
+2254,publication.md
+2255,published studies.md
+2256,pulmonary circulation.md
+2257,pulsars.md
+2258,punishment and systems of control.md
+2259,Pythagoras.md
+2260,Python.md
+2261,qualitative research.md
+2262,quantitative.md
+2263,quantum chemistry.md
+2264,quantum computation.md
+2265,quantum mechanics.md
+2266,quantum numbers.md
+2267,Quantum optics.md
+2268,quantum phenomena.md
+2269,Quapal.md
+2270,quasars.md
+2271,question answer.md
+2272,racoon.md
+2273,radical.md
+2274,radio waves.md
+2275,radioactive decay.md
+2276,radiographic.md
+2277,radiometric dating.md
+2278,rain gauges.md
+2279,rain.md
+2280,rainbands.md
+2281,Rainfall.md
+2282,rationalist.md
+2283,ray-based model of light.md
+2284,reaction rates.md
+2285,reaction.md
+2286,reactive oxygen species.md
+2287,reactive patterns.md
+2288,red giant.md
+2289,refuse workers.md
+2290,refuse.md
+2291,religion.md
+2292,Religious cosmology.md
+2293,religious literature.md
+2294,remnant.md
+2295,remote sensing.md
+2296,repeatability.md
+2297,reproductive organs.md
+2298,Research Methodology.md
+2299,research papers.md
+2300,rheological.md
+2301,rheometry.md
+2302,rheopecty.md
+2303,ripples.md
+2304,RNA.md
+2305,RNN.md
+2306,roads.md
+2307,Robert Hooke.md
+2308,robotic spacecraft missions.md
+2309,Roman Empire.md
+2310,Rome.md
+2311,ROS.md
+2312,Ruby.md
+2313,salable value.md
+2314,Salloway et al. - 2022 - Amyloid-Related Imaging Abnormalities in 2 Phase 3.pdf.md
+2315,Salloway_et+al_AmyloidrelatedImagingAbnormalities2Phase_2021.md
+2316,salvation.md
+2317,saturation.md
+2318,scholarly tradition.md
+2319,scholars of law.md
+2320,science of society.md
+2321,science.md
+2322,sciences.md
+2323,scientific advances.md
+2324,scientific community.md
+2325,scientific disciplines.md
+2326,scientific fields.md
+2327,scientific problem.md
+2328,scientific propositions.md
+2329,scientific pursuit.md
+2330,scientific research.md
+2331,Scientific Revolution.md
+2332,scientific study.md
+2333,scientific techniques.md
+2334,Screenshot 20220908 100018.jpg.md
+2335,sectors of life.md
+2336,secularization.md
+2337,seismic sources.md
+2338,seismogram.md
+2339,seismologist.md
+2340,semantic meaning.md
+2341,semantics.md
+2342,Sen et al. - 2020 - Inhibition of PfMYST Histone Acetyltransferase Act.pdf.md
+2343,Sen et+al InhibitionPfmystHistoneAcetyltransferaseActivity 2020.md
+2344,Sen et+al PlasmodiumFalciparumRuvbl3ProteinNovel 2018.md
+2345,Senche-Tiger.md
+2346,Sen_et+al_InhibitionPfmystHistoneAcetyltransferaseActivity_2020.md
+2347,sequencing genomes.md
+2348,sequencing.md
+2349,sexuality.md
+2350,sheets.md
+2351,SIGACT.md
+2352,sign language.md
+2353,Significant Figures.md
+2354,Significs.md
+2355,silicates.md
+2356,silico analyses.md
+2357,Simplicius.md
+2358,single nucleotide polymorphisms.md
+2359,Skyrim.md
+2360,sludges.md
+2361,SNPs.md
+2362,social anthropologists.md
+2363,social capital.md
+2364,social change.md
+2365,social class.md
+2366,social demography.md
+2367,social interaction.md
+2368,social issues.md
+2369,social mobility.md
+2370,social network analysis.md
+2371,social order.md
+2372,social policy.md
+2373,social problem.md
+2374,social processes.md
+2375,social psychology.md
+2376,social research.md
+2377,social sciences.md
+2378,social scientists.md
+2379,social stratification.md
+2380,social structure.md
+2381,social study.md
+2382,"social systems,.md"
+2383,social workers.md
+2384,social.md
+2385,society.md
+2386,sociolinguistics.md
+2387,sociologists.md
+2388,sociology of education.md
+2389,soft matter.md
+2390,soft solids.md
+2391,soil mechanics.md
+2392,solar calendars.md
+2393,Solar System.md
+2394,solid-state physics.md
+2395,solids.md
+2396,Solutions.md
+2397,souls.md
+2398,South America.md
+2399,Soviet nuclear false alarm incident.md
+2400,space exploration.md
+2401,space physics.md
+2402,spatial analyses.md
+2403,Special Interest Group on Algorithms and Computation Theory.md
+2404,Specialized scientific disciplines.md
+2405,spinal cord.md
+2406,sports.md
+2407,stability.md
+2408,stars.md
+2409,statistical fields.md
+2410,statistical model.md
+2411,statistical packages.md
+2412,statistical population.md
+2413,statistics.md
+2414,strain rate.md
+2415,strain rates.md
+2416,stratiform veils.md
+2417,stratiform.md
+2418,stratocumuliform bands.md
+2419,stratocumuliform.md
+2420,stratosphere.md
+2421,structural biology.md
+2422,study of crime.md
+2423,study of insects.md
+2424,study of societies.md
+2425,study of the Church.md
+2426,Stuff You Should Know Podcast.md
+2427,sulfuric acid.md
+2428,Sun.md
+2429,sunlight.md
+2430,supernova explosions.md
+2431,Support vector machine.md
+2432,surface hydrology.md
+2433,surface water hydrology.md
+2434,surgeon.md
+2435,surgeons.md
+2436,surgery.md
+2437,suspensions.md
+2438,Suthay-rhat.md
+2439,SVM.md
+2440,symbolic interpretation.md
+2441,symbolic systems.md
+2442,synodic rotation.md
+2443,syntax.md
+2444,systematics.md
+2445,Systeme International d'Unites.md
+2446,systems biology.md
+2447,systems theory.md
+2448,Table 10.10 AMD.jpg.md
+2449,taenite.md
+2450,tamriel.md
+2451,Taoists traditions.md
+2452,taxon-based category.md
+2453,tectonic.md
+2454,telepathy.md
+2455,telescopes.md
+2456,television.md
+2457,telos.md
+2458,That the Best Physician Is Also a Philosopher.md
+2459,the  Guinness Book of World Records.md
+2460,the ancient world.md
+2461,the atmospheric sciences.md
+2462,the bridge between the human and the physical sciences.md
+2463,the building and decoration of church buildings.md
+2464,the Church and the State.md
+2465,The Cold War.md
+2466,the Cyprus Emergency.md
+2467,the Early Middle Ages.md
+2468,the four humors.md
+2469,the media.md
+2470,the Moon.md
+2471,the Oko nuclear early-warning system.md
+2472,The ship of Theseus.md
+2473,the Solar System.md
+2474,the speed of light.md
+2475,the Vietnam War.md
+2476,the West.md
+2477,the world discipline.md
+2478,theology.md
+2479,theoretical astronomy.md
+2480,Theoretical astrophysicist.md
+2481,theoretical component.md
+2482,theoretical computer science.md
+2483,theoretical linguistics.md
+2484,theoretical planetary science.md
+2485,theory of computation.md
+2486,therapeutic role.md
+2487,Thermochemistry.md
+2488,thixotropy.md
+2489,Thomas Blount.md
+2490,thoughts.md
+2491,thunder clouds.md
+2492,thymine.md
+2493,time-modified trash.md
+2494,tombs.md
+2495,trade goods.md
+2496,Transcription.md
+2497,transient events.md
+2498,transmission of records.md
+2499,trash can liners.md
+2500,trash cans.md
+2501,trash.md
+2502,treatise.md
+2503,treatment of illness.md
+2504,treatment.md
+2505,Tri-State Mining District.md
+2506,Triploblast.md
+2507,troilite-graphite nodules.md
+2508,tropics.md
+2509,troposphere.md
+2510,Tropospheric.md
+2511,TS1.md
+2512,tsunamis.md
+2513,tunnels.md
+2514,Turkey.md
+2515,type theory.md
+2516,ultraviolet.md
+2517,unconscious mind.md
+2518,unconscious phenomena.md
+2519,uninhabitable.md
+2520,unique adaptations.md
+2521,Universe.md
+2522,universities.md
+2523,Untitled.md
+2524,uracil.md
+2525,Uralic.md
+2526,Ursula Waack.md
+2527,validity.md
+2528,Van der Waals force bonds.md
+2529,vehicles.md
+2530,Venus.md
+2531,viscosity.md
+2532,visible light.md
+2533,vital processes.md
+2534,vivisection.md
+2535,vivisections.md
+2536,void fraction.md
+2537,volcanic.md
+2538,VSEPR theory.md
+2539,Waldo Tobler.md
+2540,waste management.md
+2541,water cycle.md
+2542,water ice.md
+2543,water quality.md
+2544,water resources.md
+2545,water vapor.md
+2546,wave model of light.md
+2547,wave radiation.md
+2548,weather fronts.md
+2549,web-based resources.md
+2550,welfare.md
+2551,Western Europe.md
+2552,Western Roman Empire.md
+2553,white dwarf.md
+2554,William Rathje.md
+2555,William Shakespeare.md
+2556,Word2Vec.md
+2557,world.md
+2558,writing.md
+2559,wrothgarian.md
+2560,X-rays.md
+2561,Yasmin Anwar.md
+2562,yellow bile.md
+2563,yellow dwarf.md
+2564,Yuzpe method for Prevention of Pregnancy.md
+2565,zinc mining.md
+2566,zoology.md
+2567,α-helices.md
+2568,β-pleated.md
+2569,Jan 10th.md
+2570,Jan 11th.md
+2571,Jan 12th.md
+2572,Jan 9th.md
+2573,10_Higher_order_derivatives__Chapter_10_Essence_of_calculus.mp4.md
+2574,11_Taylor_series__Chapter_11_Essence_of_calculus.mp4.md
+2575,12_The_other_way_to_visualize_derivatives__Chapter_12_Essence_of_calculus.mp4.md
+2576,1_The_essence_of_calculus.mp4.md
+2577,2_The_paradox_of_the_derivative__Chapter_2_Essence_of_calculus.mp4.md
+2578,3_Derivative_formulas_through_geometry__Chapter_3_Essence_of_calculus.mp4.md
+2579,4_Visualizing_the_chain_rule_and_product_rule__Chapter_4_Essence_of_calculus.mp4.md
+2580,5_Whats_so_special_about_Eulers_number_e__Chapter_5_Essence_of_calculus.mp4.md
+2581,6_Implicit_differentiation_whats_going_on_here__Chapter_6_Essence_of_calculus.mp4.md
+2582,7_Limits_LHôpitals_rule_and_epsilon_delta_definitions__Chapter_7_Essence_of_calculus.mp4.md
+2583,8_Integration_and_the_fundamental_theorem_of_calculus__Chapter_8_Essence_of_calculus.mp4.md
+2584,9_What_does_area_have_to_do_with_slope__Chapter_9_Essence_of_calculus.mp4.md
+2585,10_But_what_is_the_Fourier_Transform__A_visual_introduction.mp4.md
+2586,11_The_more_general_uncertainty_principle_regarding_Fourier_transforms.mp4.md
+2587,12_Fractals_are_typically_not_self-similar.mp4.md
+2588,13_Divergence_and_curl__The_language_of_Maxwells_equations_fluid_flow_and_more.mp4.md
+2589,14_Differential_equations_a_tourists_guide__DE1.mp4.md
+2590,15_How_(and_why)_to_raise_e_to_the_power_of_a_matrix__DE6.mp4.md
+2591,16_Vectors__Chapter_1_Essence_of_linear_algebra.mp4.md
+2592,17_How_to_send_a_self-correcting_message_(Hamming_codes).mp4.md
+2593,18_Eulers_formula_with_introductory_group_theory.mp4.md
+2594,19_Bayes_theorem_the_geometry_of_changing_beliefs.mp4.md
+2595,1_But_what_is_a_Fourier_series__From_heat_flow_to_drawing_with_circles__DE4.mp4.md
+2596,20_Visualizing_quaternions_(4d_numbers)_with_stereographic_projection.mp4.md
+2597,21_Hilberts_Curve_Is_infinite_math_useful.mp4.md
+2598,2_But_what_is_a_neural_network__Chapter_1_Deep_learning.mp4.md
+2599,3_The_essence_of_calculus.mp4.md
+2600,5_Visualizing_the_Riemann_zeta_function_and_analytic_continuation.mp4.md
+2601,6_From_Newton’s_method_to_Newton’s_fractal_(which_Newton_knew_nothing_about).mp4.md
+2602,7_But_how_does_bitcoin_actually_work.mp4.md
+2603,8_Group_theory_abstraction_and_the_196883-dimensional_monster.mp4.md
+2604,9_Some_light_quantum_mechanics_(with_minutephysics).mp4.md
+2605,1_But_what_is_a_neural_network__Chapter_1_Deep_learning.mp4.md
+2606,2_Gradient_descent_how_neural_networks_learn__Chapter_2_Deep_learning.mp4.md
+2607,3_What_is_backpropagation_really_doing__Chapter_3_Deep_learning.mp4.md
+2608,4_Backpropagation_calculus__Chapter_4_Deep_learning.mp4.md
+2609,10_30_Essential_Ideas_you_should_know_about_ADHD_5A_ADHD_is_Time_Blindness.mp4.md
+2610,11_30_Essential_Ideas_you_should_know_about_ADHD_5B_ADHD_is_a_disorder_of_self_regulation.mp4.md
+2611,12_30_Essential_Ideas_you_should_know_about_ADHD_6ALL_How_to_manage_and_accommodate_ADHD.mp4.md
+2612,13_30_Essential_Ideas_you_should_know_about_ADHD_7A_Impairments_in_All_Aspects_of_Life.mp4.md
+2613,14_30_Essential_Ideas_you_should_know_about_ADHD_7B_The_30_Rule_4_Components_for_Effective_Treatment.mp4.md
+2614,15_30_Essential_Ideas_you_should_know_about_ADHD_8A_3_Roles_Every_Parent_Should_Be.mp4.md
+2615,16_30_Essential_Ideas_you_should_know_about_ADHD_8B_You_are_a_Shepherd_not_an_Engineer.mp4.md
+2616,17_30_Essential_Ideas_you_should_know_about_ADHD_8C_Accountability_and_Predictability_in_the_ADHD_Life.mp4.md
+2617,18_30_Essential_Ideas_you_should_know_about_ADHD_8D_The_Importance_of_Being_Proactive.mp4.md
+2618,19_30_Essential_Ideas_you_should_know_about_ADHD_9A_ADHD_Medications_and_the_Delivery_Mechanisms.mp4.md
+2619,1_30_Essential_Ideas_you_should_know_about_ADHD_1A_Intro_Chronic_Developmental_Disability.mp4.md
+2620,20_30_Essential_Ideas_you_should_know_about_ADHD_9B_ADHD_Medication_Myths.mp4.md
+2621,21_30_Essential_Ideas_you_should_know_about_ADHD_9C_Avoid_Treatments_that_we_Know_Do_Not_Work!.mp4.md
+2622,22_30_Essential_Ideas_you_should_know_about_ADHD_9D_Get_Your_Own_ADHD_Treated!_Practice_Forgiveness.mp4.md
+2623,23_30_Essential_Ideas_you_should_know_about_ADHD_10A_QandA_Question_1_30_Rule_with_Medication.mp4.md
+2624,24_30_Essential_Ideas_you_should_know_about_ADHD_10B_QandA_Question_2_How_to_Deal_with_Other_Parents.mp4.md
+2625,25_30_Essential_Ideas_you_should_know_about_ADHD_10C_QandA_Question_3_Does_Cogmed_work_for_ADHD.mp4.md
+2626,26_30_Essential_Ideas_you_should_know_about_ADHD_10D_QandA_Question_4_ADHD_and_Bipolar_Link.mp4.md
+2627,27_30_Essential_Ideas_you_should_know_about_ADHD_10E_QandA_Question_5_ADHD_Meds_Real_or_Placebo.mp4.md
+2628,2_30_Essential_Ideas_you_should_know_about_ADHD_1B_Inhibition_Impulsivity_and_Emotion.mp4.md
+2629,3_30_Essential_Ideas_you_should_know_about_ADHD_2ALL_Persistence_Sustaining_action_to_a_Goal.mp4.md
+2630,4_30_Essential_Ideas_you_should_know_about_ADHD_3A_The_Five_Executive_Functions.mp4.md
+2631,5_30_Essential_Ideas_you_should_know_about_ADHD_3B_DSM_IV_Subtypes_they_are_really_traits_of_ADHD.mp4.md
+2632,6_30_Essential_Ideas_you_should_know_about_ADHD_3C_SCT_Sluggish_Cognitive_Tempo.mp4.md
+2633,7_30_Essential_Ideas_you_should_know_about_ADHD_4A_The_5_Brain_Regions_that_causes_ADHD.mp4.md
+2634,8_30_Essential_Ideas_you_should_know_about_ADHD_4B_ADHD_and_Genetics.mp4.md
+2635,9_30_Essential_Ideas_you_should_know_about_ADHD_4C_Genes_and_Environmental_Interaction.mp4.md
+2636,10_MIT_6S191_Uncertainty_in_Deep_Learning.mp4.md
+2637,11_MIT_6S191_(2021)_Introduction_to_Deep_Learning.mp4.md
+2638,12_MIT_6S191_(2021)_Recurrent_Neural_Networks.mp4.md
+2639,13_MIT_6S191_(2021)_Convolutional_Neural_Networks.mp4.md
+2640,14_MIT_6S191_(2021)_Deep_Generative_Modeling.mp4.md
+2641,15_MIT_6S191_(2021)_Reinforcement_Learning.mp4.md
+2642,16_MIT_6S191_(2021)_Deep_Learning_New_Frontiers.mp4.md
+2643,17_MIT_6S191_Evidential_Deep_Learning_and_Uncertainty.mp4.md
+2644,18_MIT_6S191_AI_Bias_and_Fairness.mp4.md
+2645,19_MIT_6S191_Deep_CPCFG_for_Information_Extraction.mp4.md
+2646,1_MIT_Introduction_to_Deep_Learning__6S191.mp4.md
+2647,20_MIT_6S191_Taming_Dataset_Bias_via_Domain_Adaptation.mp4.md
+2648,21_MIT_6S191_Towards_AI_for_3D_Content_Creation.mp4.md
+2649,22_MIT_6S191_AI_in_Healthcare.mp4.md
+2650,23_MIT_6S191_(2020)_Introduction_to_Deep_Learning.mp4.md
+2651,24_MIT_6S191_(2020)_Recurrent_Neural_Networks.mp4.md
+2652,25_MIT_6S191_(2020)_Convolutional_Neural_Networks.mp4.md
+2653,26_MIT_6S191_(2020)_Deep_Generative_Modeling.mp4.md
+2654,27_MIT_6S191_(2020)_Reinforcement_Learning.mp4.md
+2655,28_MIT_6S191_(2020)_Deep_Learning_New_Frontiers.mp4.md
+2656,29_MIT_6S191_(2020)_Neurosymbolic_AI.mp4.md
+2657,2_MIT_6S191_Recurrent_Neural_Networks_and_Transformers.mp4.md
+2658,30_MIT_6S191_(2020)_Generalizable_Autonomy_for_Robot_Manipulation.mp4.md
+2659,31_MIT_6S191_(2020)_Neural_Rendering.mp4.md
+2660,32_MIT_6S191_(2020)_Machine_Learning_for_Scent.mp4.md
+2661,33_Barack_Obama_Intro_to_Deep_Learning__MIT_6S191.mp4.md
+2662,34_MIT_6S191_(2019)_Introduction_to_Deep_Learning.mp4.md
+2663,35_MIT_6S191_(2019)_Recurrent_Neural_Networks.mp4.md
+2664,36_MIT_6S191_(2019)_Convolutional_Neural_Networks.mp4.md
+2665,37_MIT_6S191_(2019)_Deep_Generative_Modeling.mp4.md
+2666,38_MIT_6S191_(2019)_Deep_Reinforcement_Learning.mp4.md
+2667,39_MIT_6S191_(2019)_Deep_Learning_Limitations_and_New_Frontiers.mp4.md
+2668,3_MIT_6S191_Convolutional_Neural_Networks.mp4.md
+2669,40_MIT_6S191_(2019)_Visualization_for_Machine_Learning_(Google_Brain).mp4.md
+2670,41_MIT_6S191_(2019)_Biologically_Inspired_Neural_Networks_(IBM).mp4.md
+2671,42_MIT_6S191_(2019)_Image_Domain_Transfer_(NVIDIA).mp4.md
+2672,43_MIT_6S191_(2018)_Introduction_to_Deep_Learning.mp4.md
+2673,44_MIT_6S191_(2018)_Sequence_Modeling_with_Neural_Networks.mp4.md
+2674,45_MIT_6S191_(2018)_Convolutional_Neural_Networks.mp4.md
+2675,46_MIT_6S191_(2018)_Deep_Generative_Modeling.mp4.md
+2676,47_MIT_6S191_(2018)_Deep_Reinforcement_Learning.mp4.md
+2677,48_MIT_6S191_(2018)_Deep_Learning_Limitations_and_New_Frontiers.mp4.md
+2678,49_MIT_6S191_(2018)_Issues_in_Image_Classification.mp4.md
+2679,4_MIT_6S191_Deep_Generative_Modeling.mp4.md
+2680,50_MIT_6S191_(2018)_Faster_ML_Development_with_TensorFlow.mp4.md
+2681,51_MIT_6S191_(2018)_Deep_Learning_-_A_Personal_Perspective.mp4.md
+2682,52_MIT_6S191_(2018)_Beyond_Deep_Learning_Learning+Reasoning.mp4.md
+2683,53_MIT_6S191_(2018)_Computer_Vision_Meets_Social_Networks.mp4.md
+2684,5_MIT_6S191_Reinforcement_Learning.mp4.md
+2685,6_MIT_6S191_Deep_Learning_New_Frontiers.mp4.md
+2686,7_MIT_6S191_LiDAR_for_Autonomous_Driving.mp4.md
+2687,8_MIT_6S191_Automatic_Speech_Recognition.mp4.md
+2688,9_MIT_6S191_AI_for_Science.mp4.md
+2689,10_Part_55_Implementing_RotationNet_approach_for_Custom_Data.mp4.md
+2690,11_POWERFUL_MOTIVATIONAL_VIDEO_By_Sandeep_Maheshwari__Best_Motivational_Speech_in_Hindi.mp4.md
+2691,1_Part-1_Introduction_to_Self-Supervised_Learning.mp4.md
+2692,2_Part-2_Introduction_to_Self-Supervised_Learning.mp4.md
+2693,3_Part-2_contd__Evaluating_Self-Supervised_Learning_Models.mp4.md
+2694,4_Part-3_Quick_overview_of_different_self-supervised_learning_approaches.mp4.md
+2695,5_Part-3_Contd_Quick_overview_of_different_self-supervised_learning_approaches.mp4.md
+2696,6_Part-4_Understanding_Rotation_Net_approach_for_unsupervised_representation_learning.mp4.md
+2697,7_Part_51_Implementing_RotationNet_approach_for_Custom_Data.mp4.md
+2698,8_Part_52_Implementing_RotationNet_approach_for_Custom_Data.mp4.md
+2699,9_Part_54_Implementing_RotationNet_approach_for_Custom_Data.mp4.md
+2700,1.mp4.md
+2701,10.mp4.md
+2702,11.mp4.md
+2703,12.mp4.md
+2704,13.mp4.md
+2705,14.mp4.md
+2706,15.mp4.md
+2707,16.mp4.md
+2708,17.mp4.md
+2709,18.mp4.md
+2710,19.mp4.md
+2711,2.mp4.md
+2712,20.mp4.md
+2713,21.mp4.md
+2714,22.mp4.md
+2715,23.mp4.md
+2716,24.mp4.md
+2717,10_Stemming_and_Lemmatization_NLP_Tutorial_For_Beginners_-_10.mp4.md
+2718,11_Part_Of_Speech_POS_Tagging_NLP_Tutorial_For_Beginners_-_11.mp4.md
+2719,12_Named_Entity_Recognition_(NER)_NLP_Tutorial_For_Beginners_-_12.mp4.md
+2720,13_Text_Representation_Basics_NLP_Tutorial_For_Beginners_-_13.mp4.md
+2721,14_Text_Representation_Label_and_One_Hot_Encoding_NLP_Tutorial_For_Beginners_-_14.mp4.md
+2722,15_Text_Representation_Using_Bag_Of_Words_(BOW)_NLP_Tutorial_For_Beginners_-_15.mp4.md
+2723,16_Stop_Words_NLP_Tutorial_For_Beginners_-_16.mp4.md
+2724,17_Text_Representation_Using_Bag_Of_n-grams_NLP_Tutorial_For_Beginners_-_17.mp4.md
+2725,18_Text_Representation_Using_TF-IDF_NLP_Tutorial_For_Beginners_-_18.mp4.md
+2726,19_Text_Representation_Using_Word_Embeddings_NLP_Tutorial_For_Beginners_-_19.mp4.md
+2727,1_Introduction__NLP_Tutorial_For_Beginners_In_Python__-__1.mp4.md
+2728,20_Word_vectors_in_Spacy_overview_NLP_Tutorial_For_Beginners_-_20.mp4.md
+2729,21_News_classification_using_Spacy_word_vectors_NLP_Tutorial_For_Beginners_-_21.mp4.md
+2730,22_Word_vectors_in_Gensim_overview_NLP_Tutorial_For_Beginners_-_22.mp4.md
+2731,23_News_classification_using_Gensim_word_vectors_NLP_Tutorial_For_Beginners_-_23.mp4.md
+2732,24_fastText_Tutorial__Train_Custom_Word_Vectors_in_fastText__NLP_Tutorial_For_Beginners_-_24.mp4.md
+2733,25_fastText_tutorial__Text_Classification_Using_fastText__NLP_Tutorial_For_Beginners_-_25.mp4.md
+2734,2_Why_NLP_is_booming_right_now__NLP_Tutorial_For_Beginners_In_Python_-_2.mp4.md
+2735,3_Regex_For_NLP_NLP_Tutorial_For_Beginners_In_Python_-_3.mp4.md
+2736,4_Three_Category_Of_Techniques_for_NLP__NLP_Tutorial_For_Beginners_In_Python_-_4.mp4.md
+2737,5_NLP_Tasks_NLP_Tutorial_For_Beginners_In_Python_-_5.mp4.md
+2738,6_NLP_Pipeline_NLP_Tutorial_For_Beginners_In_Python_-_6.mp4.md
+2739,7_Spacy_vs_NLTK_NLP_Tutorial_For_Beginners_In_Python_-_7.mp4.md
+2740,8_Tokenization_in_Spacy_NLP_Tutorial_For_Beginners_-_8.mp4.md
+2741,9_Language_Processing_Pipeline_in_Spacy_NLP_Tutorial_For_Beginners_-_9.mp4.md
+2742,ChatGPT_and_Flan-T5_LLM____Proprietary_vs_FREE_AI___plus_Performance_tuning_of_Hyper-Parameters.mp4.md
+2743,Obsidian_setup_for_2023.mp4.md
+2744,1_Word2Vec_Details.mp4.md
+2745,2_Word2Vec_(tutorial).mp4.md
+2746,5_Lecture_2__Word_Vector_Representations_word2vec.mp4.md
+2747,6_Lecture_43_—_The_softmax_output_function__[Neural_Networks_for_Machine_Learning].mp4.md
+2748,7_But_what_is_a_neural_network__Chapter_1_Deep_learning.mp4.md
+2749,8_Restricted_Boltzmann_Machines_-_Ep_6_(Deep_Learning_SIMPLIFIED).mp4.md
+2750,10_Snake_Game_Python_Tutorial.mp4.md
+2751,11_Beautiful_Soup_Tutorial_-_Web_Scraping_in_Python.mp4.md
+2752,12_Connect_Four_Python_Game_Tutorial_with_pygame.mp4.md
+2753,13_Create_A_Twitter_Bot_With_Python.mp4.md
+2754,14_Weather_App_-_Django_Tutorial_(Using_Python_Requests).mp4.md
+2755,15_Natural_Language_Processing_(NLP)_Tutorial_with_Python_and_NLTK.mp4.md
+2756,16_Python_Game_Tutorial_Pong.mp4.md
+2757,17_Create_a_Keylogger_with_Python_-_Tutorial.mp4.md
+2758,18_Develop_an_AI_to_play_Connect_Four_-_Python_Tutorial.mp4.md
+2759,19_Pygame_Tutorial_for_Beginners_-_Python_Game_Development_Course.mp4.md
+2760,1_Learn_Python_-_Full_Course_for_Beginners_[Tutorial].mp4.md
+2761,20_SQLite_Databases_With_Python_-_Full_Course.mp4.md
+2762,21_Python_for_Data_Science_-_Course_for_Beginners_(Learn_Python_Pandas_NumPy_Matplotlib).mp4.md
+2763,22_Network_Programming_with_Python_Course_(build_a_port_scanner_mailing_client_chat_room_DDOS).mp4.md
+2764,23_Python_Project_Tutorial_-_Your_First_Python_Project.mp4.md
+2765,24_Intermediate_Python_Programming_Course.mp4.md
+2766,25_Data_Analysis_with_Python_Part_1_of_6_(Live_Course).mp4.md
+2767,26_Data_Analysis_with_Python_for_Excel_Users_-_Full_Course.mp4.md
+2768,2_Tkinter_Course_-_Create_Graphic_User_Interfaces_in_Python_Tutorial.mp4.md
+2769,3_Learn_Python_by_Building_Five_Games_-_Full_Course.mp4.md
+2770,4_Python_for_Everybody_-_Full_University_Python_Course.mp4.md
+2771,5_Python_Django_Web_Framework_-_Full_Course_for_Beginners.mp4.md
+2772,7_Python_Algorithms_for_Interviews.mp4.md
+2773,8_Python_Online_Multiplayer_Game_Development_Tutorial.mp4.md
+2774,9_MongoDB_with_Python_Crash_Course_-_Tutorial_for_Beginners.mp4.md
+2775,3_word2vec.mp4.md
+2776,4_word2vecSkip_Gram.mp4.md
+2777,Reinforcement_Learning_from_Human_Feedback_From_Zero_to_chatGPT.mp4.md
+2778,10_Lactic_acid_fermentation__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2779,11_Oxidation_and_reduction_review_from_biological_point-of-view__Biomolecules__MCAT__Khan_Academy.mp4.md
+2780,1_ATP_hydrolysis_mechanism__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2781,2_Introduction_to_cellular_respiration__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2782,3_Overview_of_cellular_respiration__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2783,4_Alcohol_or_ethanol_fermentation__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2784,5_Overview_of_glycolysis__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2785,6_Oxidative_phosphorylation_and_the_electron_transport_chain__Khan_Academy.mp4.md
+2786,7_ATP_Adenosine_triphosphate__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2787,8_Oxidation_and_reduction_in_cellular_respiration__Biology__Khan_Academy.mp4.md
+2788,9_Krebs__citric_acid_cycle__Cellular_respiration__Biology__Khan_Academy.mp4.md
+2789,10_Introduction_to_entropy__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2790,11_Second_Law_of_Thermodynamics__Biology__Khan_Academy.mp4.md
+2791,12_Introduction_to_kinetics__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2792,13_Second_Law_of_Thermodynamics_and_entropy__Biology__Khan_Academy.mp4.md
+2793,14_Why_heat_increases_entropy__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2794,15_Enzyme_cofactors_and_coenzymes__Biology__Khan_Academy.mp4.md
+2795,16_Introduction_to_energy__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2796,17_First_Law_of_Thermodynamics_introduction__Biology__Khan_Academy.mp4.md
+2797,1_ATP_hydrolysis_mechanism__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2798,2_Noncompetitive_inhibition__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2799,3_Enzymes__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2800,4_Gibbs_free_energy_and_spontaneous_reactions__Biology__Khan_Academy.mp4.md
+2801,5_Endergonic_exergonic_exothermic_and_endothermic_reactions__Khan_Academy.mp4.md
+2802,6_Introduction_to_metabolism_anabolism_and_catabolism__Khan_Academy.mp4.md
+2803,7_Reaction_coupling_to_create_glucose_6_phosphate__Biology__Khan_Academy.mp4.md
+2804,8_Competitive_inhibition__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2805,9_ATP_Adenosine_triphosphate__Energy_and_enzymes__Biology__Khan_Academy.mp4.md
+2806,10_Organic_chemistry_naming_examples_4__Organic_chemistry__Khan_Academy.mp4.md
+2807,11_Naming_alkenes_examples__Alkenes_and_Alkynes__Organic_chemistry__Khan_Academy.mp4.md
+2808,12_Naming_alkyl_halides__Substitution_and_elimination_reactions__Organic_chemistry__Khan_Academy.mp4.md
+2809,13_sp3_hybridized_orbitals_and_sigma_bonds__Structure_and_bonding__Organic_chemistry__Khan_Academy.mp4.md
+2810,14_Pi_bonds_and_sp2_hybridized_orbitals__Structure_and_bonding__Organic_chemistry__Khan_Academy.mp4.md
+2811,15_Newman_projections__Alkanes_cycloalkanes_and_functional_groups__Organic_chemistry__Khan_Academy.mp4.md
+2812,16_Newman_projections_2__Organic_chemistry__Khan_Academy.mp4.md
+2813,17_Chair_and_boat_shapes_for_cyclohexane__Organic_chemistry__Khan_Academy.mp4.md
+2814,18_Double_Newman_diagram_for_methylcyclohexane__Organic_chemistry__Khan_Academy.mp4.md
+2815,19_Introduction_to_chirality__Stereochemistry__Organic_chemistry__Khan_Academy.mp4.md
+2816,1_Representing_structures_of_organic_molecules__Biology__Khan_Academy.mp4.md
+2817,20_Chiral_examples_1__Stereochemistry__Organic_chemistry__Khan_Academy.mp4.md
+2818,21_Chiral_examples_2__Stereochemistry__Organic_chemistry__Khan_Academy.mp4.md
+2819,22_Cahn-Ingold-Prelog_system_for_naming_enantiomers__Organic_chemistry__Khan_Academy.mp4.md
+2820,23_RS_(Cahn-Ingold-Prelog)_naming_system_example_2__Organic_chemistry__Khan_Academy.mp4.md
+2821,24_Stereoisomers_enantiomers_diastereomers_constitutional_isomers_and_meso_compounds__Khan_Academy.mp4.md
+2822,25_Video_Not_Available.mp4.md
+2823,26_Entgegen-Zusammen_naming_scheme_for_alkenes_examples__Organic_chemistry__Khan_Academy.mp4.md
+2824,27_Introduction_to_reaction_mechanisms__Alkenes_and_Alkynes__Organic_chemistry__Khan_Academy.mp4.md
+2825,28_Markovnikovs_rule_and_carbocations__Alkenes_and_Alkynes__Organic_chemistry__Khan_Academy.mp4.md
+2826,29_Polymerization_of_alkenes_with_acid__Alkenes_and_Alkynes__Organic_chemistry__Khan_Academy.mp4.md
+2827,2_Naming_simple_alkanes__Organic_chemistry__Khan_Academy.mp4.md
+2828,30_Sn2_Reactions.mp4.md
+2829,31_Sn2_Stereochemistry.mp4.md
+2830,32_Solvent_Effects_on_Sn1_and_Sn2_Reactions.mp4.md
+2831,33_Nucleophilicity_(Nucleophile_Strength).mp4.md
+2832,34_Nucleophilicity_vs_Basicity.mp4.md
+2833,35_E2_reactions__Substitution_and_elimination_reactions__Organic_chemistry__Khan_Academy.mp4.md
+2834,36_E1_reactions__Substitution_and_elimination_reactions__Organic_chemistry__Khan_Academy.mp4.md
+2835,37_Zaitsevs_rule__Substitution_and_elimination_reactions__Organic_chemistry__Khan_Academy.mp4.md
+2836,38_Comparing_E2_E1_Sn2_Sn1_Reactions.mp4.md
+2837,39_E2_E1_Sn2_Sn1_Reactions_Example_2.mp4.md
+2838,3_Naming_alkanes_with_alkyl_groups__Organic_chemistry__Khan_Academy.mp4.md
+2839,40_E2_E1_Sn2_Sn1_Reactions_Example_3.mp4.md
+2840,41_Free_radical_reactions__Substitution_and_elimination_reactions__Organic_chemistry__Khan_Academy.mp4.md
+2841,42_Alcohols__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2842,43_Alcohol_properties__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2843,44_Resonance.mp4.md
+2844,45_Ether_naming_and_introduction__Organic_chemistry__Khan_Academy.mp4.md
+2845,46_Cyclic_ethers_and_epoxide_naming__Organic_chemistry__Khan_Academy.mp4.md
+2846,47_Ring-opening_Sn2_reaction_of_expoxides.mp4.md
+2847,48_Sn1_and_Sn2_epoxide_opening_discussion.mp4.md
+2848,49_Aromatic_Compounds_and_Huckels_Rule.mp4.md
+2849,4_Correction_-_2-propylheptane_should_never_be_the_name!__Organic_chemistry__Khan_Academy.mp4.md
+2850,50_Naming_benzene_derivatives_introduction__Aromatic_Compounds__Organic_chemistry__Khan_Academy.mp4.md
+2851,51_Electrophilic_aromatic_substitution__Aromatic_Compounds__Organic_chemistry__Khan_Academy.mp4.md
+2852,52_Bromination_of_benzene__Aromatic_Compounds__Organic_chemistry__Khan_Academy.mp4.md
+2853,53_Amine_naming_introduction__Amines__Organic_chemistry__Khan_Academy.mp4.md
+2854,54_Amine_naming_introduction__Amines__Organic_chemistry__Khan_Academy.mp4.md
+2855,55_Amine_as_Nucleophile_in_Sn2_Reaction.mp4.md
+2856,56_Amine_in_Sn2_part_2.mp4.md
+2857,57_Sn1_Amine_Reaction.mp4.md
+2858,58_Aldehyde_introduction__Aldehydes_and_ketones__Organic_chemistry__Khan_Academy.mp4.md
+2859,59_Ketone_naming__Aldehydes_and_ketones__Organic_chemistry__Khan_Academy.mp4.md
+2860,5_Common_and_systematic_naming_iso-_sec-_and_tert-_prefixes__Organic_chemistry__Khan_Academy.mp4.md
+2861,60_Friedel-Crafts_acylation__Aromatic_Compounds__Organic_chemistry__Khan_Academy.mp4.md
+2862,61_Friedel_crafts_acylation_addendum__Aromatic_Compounds__Organic_chemistry__Khan_Academy.mp4.md
+2863,62_Keto-enol_tautomerization_(by_Sal)__Alpha_Carbon_Chemistry__Organic_chemistry__Khan_Academy.mp4.md
+2864,63_Carboxylic_acid_introduction__Carboxylic_acids_and_derivatives__Organic_chemistry__Khan_Academy.mp4.md
+2865,64_Carboxylic_acid_naming__Carboxylic_acids_and_derivatives__Organic_chemistry__Khan_Academy.mp4.md
+2866,65_Fischer_esterification__Carboxylic_acids_and_derivatives__Organic_chemistry__Khan_Academy.mp4.md
+2867,66_Acid_chloride_formation__Carboxylic_acids_and_derivatives__Organic_chemistry__Khan_Academy.mp4.md
+2868,67_Amides_anhydrides_esters_and_acyl_chlorides__Organic_chemistry__Khan_Academy.mp4.md
+2869,68_Relative_stability_of_amides_esters_anhydrides_and_acyl_chlorides__Khan_Academy.mp4.md
+2870,69_Amide_formation_from_acyl_chloride__Carboxylic_acids_and_derivatives__Khan_Academy.mp4.md
+2871,6_More_Organic_Chemistry_Naming_Examples_1.mp4.md
+2872,70_Aldol_reaction__Alpha_Carbon_Chemistry__Organic_chemistry__Khan_Academy.mp4.md
+2873,7_Organic_chemistry_naming_examples_2__Organic_chemistry__Khan_Academy.mp4.md
+2874,8_Organic_chemistry_naming_examples_3__Organic_chemistry__Khan_Academy.mp4.md
+2875,9_Organic_Chemistry_Naming_Examples__4.mp4.md
+2876,10_Ring_opening_reactions_of_epoxides_Acid-catalyzed__Organic_chemistry__Khan_Academy.mp4.md
+2877,11_Biological_redox_reactions__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2878,12_Properties_of_ethers_and_crown_ethers__Organic_chemistry__Khan_Academy.mp4.md
+2879,13_Williamson_ether_synthesis__Organic_chemistry__Khan_Academy.mp4.md
+2880,14_Formation_of_nitrate_esters__Organic_chemistry__Khan_Academy.mp4.md
+2881,15_Preparation_of_alcohols_using_NaBH4__Alcohols_ethers_epoxides_sulfides__Khan_Academy.mp4.md
+2882,16_Ether_nomenclature__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2883,17_Synthesis_of_alcohols_using_Grignard_reagents_I__Organic_chemistry__Khan_Academy.mp4.md
+2884,18_Oxidation_of_alcohols_I_Mechanism_and_oxidation_states__Organic_chemistry__Khan_Academy.mp4.md
+2885,19_Alcohol_nomenclature__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2886,1_Acidic_cleavage_of_ethers__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2887,20_Alcohols__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2888,21_Preparation_of_alcohols_using_LiAlH4__Organic_chemistry__Khan_Academy.mp4.md
+2889,22_Preparation_of_mesylates_and_tosylates__Organic_chemistry__Khan_Academy.mp4.md
+2890,23_Ring-opening_reactions_of_epoxides_Strong_nucleophiles__Organic_chemistry__Khan_Academy.mp4.md
+2891,24_Ether_naming_and_introduction__Organic_chemistry__Khan_Academy.mp4.md
+2892,25_Physical_properties_of_alcohols_and_preparation_of_alkoxides__Organic_chemistry__Khan_Academy.mp4.md
+2893,26_Oxidation_of_alcohols_II_Examples__Organic_chemistry__Khan_Academy.mp4.md
+2894,27_Nomenclature_and_preparation_of_epoxides__Organic_chemistry__Khan_Academy.mp4.md
+2895,2_Cyclic_ethers_and_epoxide_naming__Organic_chemistry__Khan_Academy.mp4.md
+2896,3_Alcohol_properties__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2897,4_Synthesis_of_alcohols_using_Grignard_reagents_II__Organic_chemistry__Khan_Academy.mp4.md
+2898,5_Preparation_of_epoxides_Stereochemistry__Organic_chemistry__Khan_Academy.mp4.md
+2899,6_SN1_and_SN2_reactions_of_alcohols__AOrganic_chemistry__Khan_Academy.mp4.md
+2900,7_Protection_of_alcohols__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2901,8_Preparation_of_alkyl_halides_from_alcohols__Organic_chemistry__Khan_Academy.mp4.md
+2902,9_Preparation_of_sulfides__Alcohols_ethers_epoxides_sulfides__Organic_chemistry__Khan_Academy.mp4.md
+2903,10_Christianity_from_Judaism_to_Constantine__World_history__Khan_Academy.mp4.md
+2904,11_Fall_of_Rome_the_Roman_Empire_in_the_15th_Century__World_history__Khan_Academy.mp4.md
+2905,12_Islam_the_Quran_and_the_Five_Pillars_all_without_a_flamewar__World_history__Khan_Academy.mp4.md
+2906,13_The_Dark_Ageshow_dark_were_they_really__World_history__Khan_Academy.mp4.md
+2907,14_The_Crusades_-_Pilgrimage_or_Holy_War__World_history__Khan_Academy.mp4.md
+2908,15_Mansa_Musa_and_Islam_in_Africa__World_history__Khan_Academy.mp4.md
+2909,16_Wait_for_it_the_Mongols!__World_history__Khan_Academy.mp4.md
+2910,17_International_commerce_snorkeling_camels_and_the_Indian_Ocean_Trade__Khan_Academy.mp4.md
+2911,18_Venice_and_the_Ottoman_Empire__World_History__Khan_Academy.mp4.md
+2912,19_Russia_the_Kievan_Rus_and_the_Mongols_Crash_Course_World_History_20.mp4.md
+2913,1_The_Agricultural_Revolution__World_history__Khan_Academy.mp4.md
+2914,20_Columbus_de_Gama_and_Zheng_He!_15th_Century_Mariners__World_history__Khan_Academy.mp4.md
+2915,21_The_Renaissance_Was_it_a_Thing__World_history__Khan_Academy.mp4.md
+2916,22_The_Columbian_Exchange__World_history__Khan_Academy.mp4.md
+2917,23_The_Atlantic_Slave_Trade__World_history__Khan_Academy.mp4.md
+2918,24_The_Spanish_Empire_silver_and_runaway_inflation__World_history__Khan_Academy.mp4.md
+2919,25_The_Seven_Years_War__World_history__Khan_Academy.mp4.md
+2920,26_The_amazing_life_and_strange_death_of_Captain_Cook__World_history__Khan_Academy.mp4.md
+2921,27_Tea_Taxes_and_the_American_Revolution__World_history__Khan_Academy.mp4.md
+2922,28_The_French_Revolution__World_history__Khan_Academy.mp4.md
+2923,29_The_Haitian_Revolutions__World_history__Khan_Academy.mp4.md
+2924,2_Indus_Valley_civilization__World_history.mp4.md
+2925,30_Latin_American_Revolutions__World_history__Khan_Academy.mp4.md
+2926,31_Coal_steam_and_the_Industrial_Revolution__World_history__Khan_Academy.mp4.md
+2927,32_Capitalism_and_Socialism__World_history__Khan_Academy.mp4.md
+2928,33_Samurai_Daimyo_Matthew_Perry_and_Nationalism__World_history__Khan_Academy.mp4.md
+2929,34_Imperialism__Crash_Course_World_History__World_history__Khan_Academy.mp4.md
+2930,35_Archdukes_Cynicism_and_World_War_I__World_history__Khan_Academy.mp4.md
+2931,36_Communists_Nationalists_and_Chinas_Revolutions__World_history__Khan_Academy.mp4.md
+2932,37_World_War_II__Crash_Course_World_History__World_history__Khan_Academy.mp4.md
+2933,38_USA_vs_USSR_Fight!_The_Cold_War__World_history__Khan_Academy.mp4.md
+2934,39_Decolonization_and_Nationalism_Triumphant__World_history__Khan_Academy.mp4.md
+2935,3_Ancient_Mesopotamia__World_history__Khan_Academy.mp4.md
+2936,40_Globalization_I_-_The_upside__Crash_Course_World_History__World_history__Khan_Academy.mp4.md
+2937,41_Globalization_II_-_good_or_bad__Crash_Course_World_History__World_history__Khan_Academy.mp4.md
+2938,4_Ancient_Egypt__World_history__Khan_Academy.mp4.md
+2939,5_Greeks_and_Persians__World_history__Khan_Academy.mp4.md
+2940,6_Buddha_and_Ashoka__World_history__Khan_Academy.mp4.md
+2941,7_2000_Years_of_Chinese_History!_The_Mandate_of_Heaven_and_Confucius__World_history__Khan_Academy.mp4.md
+2942,8_The_Silk_Road_and_ancient_trade__World_history__Khan_Academy.mp4.md
+2943,9_The_Roman_Empire_Or_Republic_Or_which_was_it__World_history__Khan_Academy.mp4.md
+2944,10_Seaborn_lineplot__How_to_make_a_Seaborn_lineplot_and_what_is_bootstrapping_in_Seaborn.mp4.md
+2945,11_Seaborn_regplot__What_is_a_regplot_and_how_to_make_a_regression_plot_in_Python_Seaborn.mp4.md
+2946,12_Seaborn_heatmap__How_to_make_a_heatmap_in_Python_Seaborn_and_adjust_the_heatmap_style.mp4.md
+2947,13_Seaborn_clustermap__How_the_clustermap_works_and_what_is_the_clustermap.mp4.md
+2948,14_Seaborn_Bar_Plot_Tutorial__How_to_make_and_style_a_barplot_with_Seaborn_Python.mp4.md
+2949,15_Seaborn_countplot__What_is_the_countplot__Seaborn_countplot_vs_barplot.mp4.md
+2950,16_Seaborn_pairplot__How_to_make_a_pairplot_in_Python_and_the_Seaborn_pairplot_interpretation.mp4.md
+2951,17_Seaborn_jointplot__What_is_a_joint_plot_and_how_to_code_a_jointplot_in_Python_Seaborn.mp4.md
+2952,18_Seaborn_FacetGrid__How_to_make_Small_Multiples_with_Python_Seaborn__Titles_Hue_Legend.mp4.md
+2953,19_Seaborn_catplot__Using_catplot_kind_to_create_multiple_categorical_plots_with_Python_Seaborn.mp4.md
+2954,1_Introduction_to_Seaborn__How_seaborn_Python_works_with_matplotlib_along_with_seaborn_and_pandas.mp4.md
+2955,20_Seaborn_relplot__Tutorial_on_building_relational_plots_with_Python_Seaborn_relplot.mp4.md
+2956,21_Seaborn_displot__What_is_the_displot_vs_distplot_How_to_make_a_Python_Seaborn_distribution_plot.mp4.md
+2957,22_Seaborn_lmplot__Comparing_lmplot_vs_regplot_and_using_the_Seaborn_lmplot_hue_and_FacetGrid.mp4.md
+2958,23_Seaborn_PairGrid__Compare_PairGrid_vs_pairplot_and_use_seaborn_PairGrid_map_and_map_diag.mp4.md
+2959,24_Seaborn_JointGrid__Understanding_the_jointplot_vs_jointgrid_and_the_seaborn_jointgrid_axis.mp4.md
+2960,25_Seaborn_Color_Palette_Basics__Using_named_and_custom_color_palettes_in_Python_seaborn.mp4.md
+2961,26_Advanced_Seaborn_Color_Palettes__Cubehelix_palette_xkcd_colors_choose_colorbrewer_palette.mp4.md
+2962,2_What_is_kernel_density_estimation_And_how_to_build_a_KDE_plot_in_Python__Seaborn_KDEplot.mp4.md
+2963,3_Seaborn_histplot__How_to_make_a_Seaborn_histogram_plot_with_Python_code.mp4.md
+2964,4_Seaborn_ecdfplot__What_is_an_ECDF_plot_And_how_to_code_an_ECDF_plot_in_Python_seaborn.mp4.md
+2965,5_Seaborn_boxplot__Box_plot_explanation_box_plot_demo_and_how_to_make_a_box_plot_in_Python_seaborn.mp4.md
+2966,6_What_is_a_violin_plot_and_how_to_make_a_Seaborn_violinplot_in_Python.mp4.md
+2967,7_Seaborn_swarmplot__What_is_a_swarm_plot_and_how_do_you_make_a_swarmplot_with_Python_seaborn.mp4.md
+2968,8_Seaborn_stripplot__What_is_a_strip_plot_and_how_to_make_a_strip_plot_in_Python_seaborn.mp4.md
+2969,9_Seaborn_scatter_plot__How_to_make_and_style_a_scatterplot_in_Python_seaborn.mp4.md
+2970,1_Obsidian_for_Beginners_Start_HERE_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2971,2_Obsidian_for_Beginners_6_Keys_to_Markdown_(26)_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2972,3_Obsidian_for_Beginners_8_Key_Settings_(36)_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2973,4_Obsidian_for_Beginners_Custom_Themes_(46)_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2974,5_Obsidian_for_Beginners_8_Important_Hotkeys_(56)_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2975,6_Obsidian_for_Beginners_Just_Start_Now_(66)_—_How_to_Use_the_Obsidian_App_for_Notes.mp4.md
+2976,7_Obsidian_Flight_School_The_Walkthrough.mp4.md
+2977,10_GPT-2_(QandA)__Lecture_53_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2978,11_ALBERT__Lecture_58_(Part_3)__Applied_Deep_Learning.mp4.md
+2979,13_RoBERTa__Lecture_54_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+2980,14_DistilBERT__Lecture_54_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2981,15_Transformer-XL__Lecture_58_(Part_4)__Applied_Deep_Learning.mp4.md
+2982,16_Transformer-XL_(Continued)__Lecture_59_(Part_1)__Applied_Deep_Learning.mp4.md
+2983,18_XLNet__Lecture_59_(Part_2)__Applied_Deep_Learning.mp4.md
+2984,1_ELMo__Lecture_57_(Part_1)__Applied_Deep_Learning.mp4.md
+2985,20_T5__Lecture_55_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2986,21_Don’t_Stop_Pretraining__Lecture_55_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+2987,22_Cross-lingual_Language_Modeling__Lecture_60_(Part_1)__Applied_Deep_Learning.mp4.md
+2988,24_XLM-RoBERTa__Lecture_56_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2989,25_SpanBERT__Lecture_56_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+2990,26_BART__Lecture_56_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+2991,27_Longformer__Lecture_57_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+2992,28_Sentence-BERT__Lecture_57_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2993,29_GPT-3__Lecture_60_(Part_2)__Applied_Deep_Learning.mp4.md
+2994,2_ELMo_(QandA)__Lecture_52_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2995,30_GPT-3_(QandA)__Lecture_57_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+2996,31_ELECTRA__Lecture_57_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+2997,32_SimCSE__Lecture_58_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+2998,33_Pay_Attention_to_MLPs__Lecture_58_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+2999,34_GitHub_Copilot_(Codex)__Lecture_58_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3000,3_Temporal_Convolutional_Networks__Lecture_52_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3001,4_GPT-1__Lecture_57_(Part_2)__Applied_Deep_Learning.mp4.md
+3002,5_GPT-1_(QandA)__Lecture_52_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3003,6_BERT__Lecture_57_(Part_3)__Applied_Deep_Learning.mp4.md
+3004,7_BERT_(Continued)__Lecture_58_(Part_1)__Applied_Deep_Learning.mp4.md
+3005,8_BERT_(QandA)__Lecture_53_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3006,9_GPT-2__Lecture_58_(Part_2)__Applied_Deep_Learning.mp4.md
+3007,10_Show_Attend_and_Tell_(Continued)__Lecture_63_(Part_1)__Applied_Deep_Learning.mp4.md
+3008,11_Show_Attend_and_Tell_(QandA)__Lecture_59_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3009,12_Show_Attend_and_Tell_(QandA_-_Continued)__Lecture_60_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3010,13_Layer_Normalization__Lecture_63_(Part_2)__Applied_Deep_Learning.mp4.md
+3011,14_Layer_Normalization_(QandA)__Lecture_60_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3012,15_Visual_Question_Answering__Lecture_63_(Part_3)__Applied_Deep_Learning.mp4.md
+3013,16_Visual_Question_Answering_(QandA)__Lecture_60_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3014,17_Text_to_Image_Synthesis__Lecture_60_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3015,18_Layer_Normalization_(QandA_-_Continued)__Lecture_60_(Part_5)__Applied_Deep_Learning_(Supplementary).mp4.md
+3016,19_Text_to_Image_Synthesis_(Continued)__Lecture_61_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3017,1_Visual_Recognition_and_Description__Lecture_60_(Part_3)__Applied_Deep_Learning.mp4.md
+3018,20_StackGAN__Lecture_61_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3019,21_DALL-E__Lecture_63_(Part_4)__Applied_Deep_Learning.mp4.md
+3020,22_DALL-E_(QandA)__Lecture_61_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3021,23_Perceiver_IO__Lecture_61_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3022,2_Visual_Recognition_and_Description_(Continued)__Lecture_61_(Part_1)__Applied_Deep_Learning.mp4.md
+3023,3_Visual_Recognition_and_Description_(QandA)__Lecture_59_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3024,4_Show_and_Tell__Lecture_61_(Part_2)__Applied_Deep_Learning.mp4.md
+3025,5_Show_and_Tell_(QandA)__Lecture_59_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3026,6_Visual-Semantic_Alignments__Lecture_61_(Part_3)__Applied_Deep_Learning.mp4.md
+3027,7_Visual-Semantic_Alignments_(Continued)__Lecture_62_(Part_1)__Applied_Deep_Learning.mp4.md
+3028,8_Visual-Semantic_Alignments_(QandA)__Lecture_59_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3029,9_Show_Attend_and_Tell__Lecture_62_(Part_2)__Applied_Deep_Learning.mp4.md
+3030,10_Bootstrap_Your_Own_Latent_(BYOL)__Lecture_79_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3031,11_SwAV__Lecture_79_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3032,13_SimSiam__Lecture_80_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3033,14_BEIT__Lecture_80_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3034,15_VICReg__Lecture_80_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3035,16_Document_Image_Transformer__Lecture_80_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3036,1_Deep_Clustering__Lecture_77_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3037,2_Contrastive_Predictive_Coding__Lecture_77_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3038,3_Contrastive_Multiview_Coding__Lecture_77_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3039,4_Contrastive_Multiview_Coding_(Cont)__Lecture_78_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3040,5_Momentum_Contrast__Lecture_78_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3041,6_Pretext-Invariant_Representations__Lecture_78_(Part_3)__Applied_Deep_Learning_(Supplementary).mp4.md
+3042,7_SimCLR__Lecture_78_(Part_4)__Applied_Deep_Learning_(Supplementary).mp4.md
+3043,8_Supervised_Contrastive_Learning__Lecture_79_(Part_1)__Applied_Deep_Learning_(Supplementary).mp4.md
+3044,9_SimCLR_v2__Lecture_79_(Part_2)__Applied_Deep_Learning_(Supplementary).mp4.md
+3045,Modern_Graphical_User_Interfaces_in_Python.mp4.md
+3046,10_Week_6_–_Lecture_CNN_applications_RNN_and_attention.mp4.md
+3047,11_Week_6_–_Practicum_RNN_and_LSTM_architectures.mp4.md
+3048,12_Week_7_–_Practicum_Under-_and_over-complete_autoencoders.mp4.md
+3049,13_Week_7_–_Lecture_Energy_based_models_and_self-supervised_learning.mp4.md
+3050,14_Week_8_–_Lecture_Contrastive_methods_and_regularised_latent_variable_models.mp4.md
+3051,15_Week_8_–_Practicum_Variational_autoencoders.mp4.md
+3052,16_Week_9_–_Lecture_Group_sparsity_world_model_and_generative_adversarial_networks_(GANs).mp4.md
+3053,17_Week_9_–_Practicum_(Energy-based)_Generative_adversarial_networks.mp4.md
+3054,18_Week_10_–_Practicum_The_Truck_Backer-Upper.mp4.md
+3055,29_Week_15_–_Practicum_part_B_Training_latent_variable_energy_based_models_(EBMs).mp4.md
+3056,2_Week_1_–_Practicum_Classification_linear_algebra_and_visualisation.mp4.md
+3057,30_Matrix_multiplication_signals_and_convolutions.mp4.md
+3058,31_Supervised_and_self-supervised_transfer_learning_(with_PyTorch_Lightning).mp4.md
+3059,32_Four_decades_in_Machine_Learning_a_Personal_Journey_by_Yann_LeCun.mp4.md
+3060,3_Week_2_–_Lecture_Stochastic_gradient_descent_and_backpropagation.mp4.md
+3061,4_Week_2_–_Practicum_Training_a_neural_network.mp4.md
+3062,5_Week_3_–_Lecture_Convolutional_neural_networks.mp4.md
+3063,6_Week_3_–_Practicum_Natural_signals_properties_and_CNNs.mp4.md
+3064,7_Week_4_–_Practicum_Listening_to_convolutions.mp4.md
+3065,8_Week_5_–_Lecture_Optimisation.mp4.md
+3066,9_Week_5_–_Practicum_1D_multi-channel_convolution_and_autograd.mp4.md
+3067,1_Seq2Seq_ChatBot_with_Keras__encoder_decoder_lstm_chatbot__part_1__text_preprocess.mp4.md
+3068,2_Seq2Seq_ChatBot_with_Keras__encoder_decoder_lstm_chatbot__part_2_vocabulary.mp4.md
+3069,3_Seq2Seq_ChatBot_with_Keras__encoder_decoder_lstm_chatbot__part_3_creating_Inputs.mp4.md
+3070,4_Chatbot_using_python_machine_learning__part_4_Building_Model.mp4.md
+3071,5_Chatbot_using_python_machine_learning__part_5_Building_Inference_Model__Predicting_from_seq2seq.mp4.md
+3072,6_Seq2Seq_chatbot_using_keras__lstm__deep_learning_chatbot__python.mp4.md
+3073,7_WhatsBot__lstm_trained_on_whatsapp_chat__chatbot_using_python.mp4.md
+3074,10_Obsidian_-_Navigate_your_Notes_Like_a_Pro_with_This_Simple_Trick.mp4.md
+3075,11_Obsidian_-_Make_your_links_look_better_in_5_minutes.mp4.md
+3076,12_Obsidian_and_Logseq_-_Why_Use_Both.mp4.md
+3077,13_Obsidian_Outlliner_Plugin_Overview_and_Updates.mp4.md
+3078,14_Obsidian_-_How_To_Create_Visual_Boards_Easily_-_Kanban_Boards_Plugin.mp4.md
+3079,15_Obsidian_-_Use_Images_Like__A_Pro.mp4.md
+3080,16_Obsidian_Pro_Tip_-_External_Links_10_Times_Faster_-_Copy_Link_as_Markdown.mp4.md
+3081,17_What_Is_Obsidian_-_Note-taking_App_Overview.mp4.md
+3082,18_Make_Your_Emails_Look_Great_In_Less_Times_With_Obsidian_and_Gmail.mp4.md
+3083,19_Notion_vs_Obsidian_Complete_Comparison___Review_2021.mp4.md
+3084,1_Search_Across_Multiple_PDF_files_with_This_Simple_Obsidian_Plugin.mp4.md
+3085,20_Make_Weekly_Reviews_With_Calendar_Plugin_in_Obsidian.mp4.md
+3086,21_Obsidian_-_Write_with_powerful_shortcuts_-_What_is_Vim_and_how_to_learn_it.mp4.md
+3087,22_How_To_Tweet_From_Your_Obsidian_Notes.mp4.md
+3088,23_How_To_Sync_Obsidian_With_Anki_Automatically__Plugin_Walkthrough.mp4.md
+3089,24_Obsidian_Links_To_Blocks__Create_Links_To_Specific_Notes_Sections_(096).mp4.md
+3090,25_Obsidian_-_How_To_Add_Awesome_Bullet_Point_Lines.mp4.md
+3091,26_How_To_Add_Style_Of_Your_Tags_In_Obsidian.mp4.md
+3092,27_Obsidian_Organization_of_Notes__University_Student_Example__Part_1.mp4.md
+3093,28_Create_an_Image_Gallery_In_Obsidian.mp4.md
+3094,2_Obsidian__-_Get_a_Better_Folder_Visualization_with_this_Quick_Fix!_+_Obsidian_Giveaway!.mp4.md
+3095,3_Mind_Maps_In_Obsidian_Make_Them_Faster_and_Better_-_MarkMind_Plugin__First_Impressions.mp4.md
+3096,4_Obsidian_-_Stop_Cutting_and_Pasting_-_Use_These_Easy_Tips_To_Organize_Headings_and_Bullet_Points.mp4.md
+3097,5_Obsidian_-_How_To_Show_Number_of_Files_per_Folder_-_Plugin_Tutorial.mp4.md
+3098,6_Obsidian_Contest_2021_-_Winners_Review!_Themes_and_Plugins_(Obsidian_October_2021).mp4.md
+3099,7_Visual_Notes_in_Obsidian_-_Sketch_Notes_and_Mind_Maps_-_Excalidraw_Plugin.mp4.md
+3100,8_Obsidian_Sync_-_How_To_Sync_Your_Notes_With_Your_Phone_(And_Is_Obsidian_Sync_Worth_It).mp4.md
+3101,9_Readwise_+_Obsidian_Integration_-_Is_It_Good_-_First_impressions.mp4.md
+3102,Is_This_The_Future_of_Note-Taking__GPT-3_for_Studying_and_Writing.mp4.md
+3103,10_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_10_-_Transformers_and_Pretraining.mp4.md
+3104,11_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_11_-_Question_Answering.mp4.md
+3105,12_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_12_-_Natural_Language_Generation.mp4.md
+3106,13_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_13_-_Coreference_Resolution.mp4.md
+3107,14_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_14_-_T5_and_Large_Language_Models.mp4.md
+3108,15_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_15_-_Add_Knowledge_to_Language_Models.mp4.md
+3109,16_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_16_-_Social_and_Ethical_Considerations.mp4.md
+3110,17_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_17_-_Model_Analysis_and_Explanation.mp4.md
+3111,18_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_18_-_Future_of_NLP_+_Deep_Learning.mp4.md
+3112,19_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2020__Low_Resource_Machine_Translation.mp4.md
+3113,1_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_1_-_Intro_and_Word_Vectors.mp4.md
+3114,20_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2020__BERT_and_Other_Pre-trained_Language_Models.mp4.md
+3115,21_Stanford_CS224N_I_NLP_with_Deep_Learning__Spring_2022__Socially_Intelligent_NLP_Systems.mp4.md
+3116,22_Stanford_CS224N_NLP_with_Deep_Learning_Spring_2022Guest_Lecture_Building_Knowledge_Representation.mp4.md
+3117,23_Stanford_CS224N_NLP_with_Deep_Learning__Spring_2022__Guest_Lecture__Scaling_Language_Models.mp4.md
+3118,2_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_2_-_Neural_Classifiers.mp4.md
+3119,3_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_3_-_Backprop_and_Neural_Networks.mp4.md
+3120,4_Stanford_CS224N_-_NLP_w_DL__Winter_2021__Lecture_4_-_Syntactic_Structure_and_Dependency_Parsing.mp4.md
+3121,5_Stanford_CS224N_-__NLP_w_DL__Winter_2021__Lecture_5_-_Recurrent_Neural_networks_(RNNs).mp4.md
+3122,6_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_6_-_Simple_and_LSTM_RNNs.mp4.md
+3123,7_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_7_-_Translation_Seq2Seq_Attention.mp4.md
+3124,8_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_8_-_Final_Projects_Practical_Tips.mp4.md
+3125,9_Stanford_CS224N_NLP_with_Deep_Learning__Winter_2021__Lecture_9_-_Self-_Attention_and_Transformers.mp4.md
+3126,Chapter_10_Part_1.mp4.md
+3127,Chapter_10_Part_2.mp4.md
+3128,Chapter_11.mp4.md
+3129,Chapter_12.mp4.md
+3130,Chapter_1_Full_Stat_2103.mp4.md
+3131,Chapter_2_Part_1_Stat_2103.mp4.md
+3132,Chapter_2_Part_2_Stat_2103.mp4.md
+3133,Chapter_3_Part_1_Stat_2103.mp4.md
+3134,Chapter_3_Part_2_Stat_2103.mp4.md
+3135,Chapter_3_Part_3_Stat_2103.mp4.md
+3136,Chapter_4_Part_1_Stat_2103.mp4.md
+3137,Chapter_4_Part_2_Stat_2103.mp4.md
+3138,Chapter_5_Part_1_Stat_2103.mp4.md
+3139,Chapter_5_Part_2_Stat_2103.mp4.md
+3140,Chapter_6_Part_1_Stat_2103.mp4.md
+3141,Chapter_6_Part_2_Stat_2103.mp4.md
+3142,Chapter_6_Part_3_Stat_2103.mp4.md
+3143,Chapter_6_Practice_Problems_Full_Stat_2103.mp4.md
+3144,Chapter_7_Part_1_Stat_2103.mp4.md
+3145,Chapter_7_Part_2_Stat_2103.mp4.md
+3146,Chapter_8_Part_1_Stat_2103.mp4.md
+3147,Chapter_8_Part_2_Stat_2103.mp4.md
+3148,Chapter_8_Part_3_Stat_2103.mp4.md
+3149,Chapter_9_Part_1_Stat_2103.mp4.md
+3150,Chapter_9_Part_2_Stat_2103.mp4.md
+3151,Chapter_9_Part_3_Stat_2103.mp4.md
+3152,10_Statistical_Properties_of_Words_-_Part_03.mp4.md
+3153,11_Vector_Space_Models_for_NLP.mp4.md
+3154,12_Document_Similarity_-_Demo_Inverted_index_Exercise.mp4.md
+3155,13_Vector_Representation_of_words.mp4.md
+3156,14_Contextual_understanding_of_text.mp4.md
+3157,15_Co-occurence_matrix_n-grams.mp4.md
+3158,16_Collocations_Dense_word_Vectors.mp4.md
+3159,17_SVD_Dimensionality_reduction_Demo.mp4.md
+3160,18_Query_Processing.mp4.md
+3161,19_Topic_Modeling.mp4.md
+3162,1_Introduction.mp4.md
+3163,20_Examples_for_word_prediction.mp4.md
+3164,21_Introduction_to_Probability_in_the_context_of_NLP.mp4.md
+3165,22_Joint_and_conditional_probabilities_independence_with_examples.mp4.md
+3166,23_The_definition_of_probabilistic_language_model.mp4.md
+3167,24_Chain_rule_and_Markov_assumption.mp4.md
+3168,25_Generative_Models.mp4.md
+3169,26_Bigram_and_Trigram_Language_models_-peeking_indide_the_model_building.mp4.md
+3170,27_Out_of_vocabulary_words_and_curse_of_dimensionality.mp4.md
+3171,28_Exercise.mp4.md
+3172,29_Naive-Bayes_classification.mp4.md
+3173,2_Operations_on_a_Corpus.mp4.md
+3174,30_Machine_learning_perceptron_linearly_separable.mp4.md
+3175,31_Linear_Models_for_Claassification.mp4.md
+3176,32_Biological_Neural_Network.mp4.md
+3177,33_Perceptron.mp4.md
+3178,34_Perceptron_Learning.mp4.md
+3179,35_Logical_XOR.mp4.md
+3180,36_Activation_Functions.mp4.md
+3181,37_Gradient_Descent.mp4.md
+3182,38_Feedforward_and_Backpropagation_Neural_Network.mp4.md
+3183,39_Why_Word2Vec.mp4.md
+3184,3_Probability_and_NLP.mp4.md
+3185,40_What_are_CBOW_and_Skip-Gram_Models.mp4.md
+3186,41_One_word_learning_architecture.mp4.md
+3187,42_Forward_pass_for_Word2Vec.mp4.md
+3188,43_Matrix_Operations_Explained.mp4.md
+3189,44_CBOW_and_Skip_Gram_Models.mp4.md
+3190,45_Building_Skip-gram_model_using_Python.mp4.md
+3191,46_Reduction_of_complexity_-_sub-sampling_negative_sampling.mp4.md
+3192,47_Binay_tree_Hierarchical_softmax.mp4.md
+3193,48_Mapping_the_output_layer_to_Softmax.mp4.md
+3194,49_Updating_the_weights_using_hierarchical_softmax.mp4.md
+3195,4_Vector_Space_models.mp4.md
+3196,50_Discussion_on_the_results_obtained_from_word2vec.mp4.md
+3197,51_Recap_and_Introduction.mp4.md
+3198,52_ANN_as_a_LM_and_its_limitations.mp4.md
+3199,53_Sequence_Learning_and_its_applications.mp4.md
+3200,54_Introuduction_to_Recurrent_Neural_Network.mp4.md
+3201,55_Unrolled_RNN.mp4.md
+3202,56_RNN_-_Based_Language_Model.mp4.md
+3203,57_BPTT_-_Forward_Pass.mp4.md
+3204,58_BPTT_-_Derivatives_for_WV_and_U.mp4.md
+3205,59_BPTT_-_Exploding_and_vanishing_gradient.mp4.md
+3206,5_Sequence_Learning.mp4.md
+3207,60_LSTM.mp4.md
+3208,61_Truncated_BPTT.mp4.md
+3209,62_GRU.mp4.md
+3210,63_Introduction_and_Historical_Approaches_to_Machine_Translation.mp4.md
+3211,64_What_is_SMT.mp4.md
+3212,65_Noisy_Channel_Model_Bayes_Rule_Language_Model.mp4.md
+3213,66_Translation_Model_Alignment_Variables.mp4.md
+3214,67_Alignments_again!.mp4.md
+3215,68_IBM_Model_1.mp4.md
+3216,69_IBM_Model_2.mp4.md
+3217,6_Machine_Translation.mp4.md
+3218,70_Introduction_to_Phrase-based_translation.mp4.md
+3219,71_Symmetrization_of_alignments.mp4.md
+3220,72_Extraction_of_Phrases.mp4.md
+3221,73_Learningestimating_the_phrase_probabilities_using_another_Symmetrization_example.mp4.md
+3222,74_Introduction_to_evaluation_of_Machine_Translation.mp4.md
+3223,75_BLEU_-_A_short_Discussion_of_the_seminal_paper.mp4.md
+3224,76_BLEU_Demo_using_NLTK_and_other_metrics.mp4.md
+3225,77_mod10lec77-Encoder-Decoder_model_for_Neural_Machine_Translation.mp4.md
+3226,78_mod10lec78-RNN_Based_Machine_Translation.mp4.md
+3227,79_mod10lec79-Recap_and_Connecting_Bloom_Taxonomy_with_Machine_Learning.mp4.md
+3228,7_Preprocessing.mp4.md
+3229,80_mod10lec80-Introduction_to_Attention_based_Translation.mp4.md
+3230,81_mod10lec81-_Neural_machine_translation_by_jointly_learning_to_align_and_translate.mp4.md
+3231,82_mod10lec82-Typical_NMT_architecture_architecture_and_models_for_multi-language_translation.mp4.md
+3232,83_mod10lec83-Beam_Search.mp4.md
+3233,84_mod10lec84-Variants_of_Gradient_Descend.mp4.md
+3234,85_mod11lec85-Introduction_to_Conversation_Modeling.mp4.md
+3235,86_mod11lec86-A_few_examples_in_Conversation_Modeling.mp4.md
+3236,87_mod11lec87-Some_ideas_to_Implement_IR-based_Conversation_Modeling.mp4.md
+3237,88_mod11lec88-Discussion_of_some_ideas_in_Question_Answering.mp4.md
+3238,89_mod12lec89-Hyperspace_Analogue_to_Language_-_HAL.mp4.md
+3239,8_Statistical_Properties_of_Words_-_Part_01.mp4.md
+3240,90_mod12lec90-Correlated_Occurence_Analogue_to_Lexical_Semantic_-_COALS.mp4.md
+3241,91_mod12lec91-Global_Vectors_-_Glove.mp4.md
+3242,92_mod12lec92-Evaluation_of_Word_vectors.mp4.md
+3243,9_Statistical_Properties_of_Words_-_Part_02.mp4.md
+3244,10_Reimagining_the_actual_value_of_your_time__Brian_Nelson-Palmer__TEDxWhiting.mp4.md
+3245,11_The_disabled_wage___Duncan_Winburn__TEDxFurmanU.mp4.md
+3246,12_Writing_kinky_sex_back_into_the_history_pages__Esmé_Louise_James__TEDxSydney.mp4.md
+3247,13_An_orangutan_showed_me_how_to_be_a_better_human__Holly_Thompson__TEDxKingsParkSalon.mp4.md
+3248,14_Lessons_from_discovering_the_worlds_leggiest_animal__Bruno_Buzatto__TEDxKingsParkSalon.mp4.md
+3249,15_The_tiny_COVID_mistake_with_deadly_implications__Katie_Randall__TEDxKC.mp4.md
+3250,16_The_Queer_Universe_A_quantum_explanation___Dr_Jessica_Esquivel__TEDxWrigleyville.mp4.md
+3251,1_How_to_change_the_world__Dr_James_Mannion__TEDxBrighton.mp4.md
+3252,230120_001.MP3.md
+3253,2_Why_we_consider_cows_our_family_(and_you_should_too!)__Geena_and_Kapil_Savania__TEDxUCLStudio.mp4.md
+3254,3_How_the_internet_is_fueling_domestic_extremism_in_America__Jared_Holt__TEDxPearlStreet.mp4.md
+3255,4_The_(super)power_of_touch__Merle_Fairhurst__TEDxUniBw.mp4.md
+3256,5_Wearing_your_nudity__Roxane_Mbanga__TEDxAUCollege.mp4.md
+3257,6_Fish_sex_is_a_tricky_business!__Ken_Maff__TEDxMiami.mp4.md
+3258,7_The_Olympics_TikTok_and_how_to_get_back_up_after_falling_short__Ilona_Maher__TEDxPearlStreet.mp4.md
+3259,8_Plankton_space_Earth_and_us__Bridget_Seegers__TEDxMiami.mp4.md
+3260,9_Past_meets_future_AI_in_archaeology__Iris_Kramer__TEDxSouthamptonUniversity.mp4.md
+3261,1_Why_do_we_Hate_Whistle-Blowers__Kelly_Richmond_Pope__TEDxDePaulUniversity.mp4.md
+3262,2_Do_we_really_own_our_bodies__Gaspard_Koenig__TEDxParis.mp4.md
+3263,3_Reproductive_justice_A_different_horizon__Willie_Parker__TEDxJacksonHole.mp4.md
+3264,4_We_need_to_talk_about_making_judges__Jessica_Kerr__TEDxUWA.mp4.md
+3265,5_Lets_put_birth_control_back_on_the_agenda_-_Melinda_Gates.mp4.md
+3266,10_Training_a_model_to_recognize_sentiment_in_text_(NLP_Zero_to_Hero_-_Part_3).mp4.md
+3267,11_ML_with_Recurrent_Neural_Networks_(NLP_Zero_to_Hero_-_Part_4).mp4.md
+3268,12_Long_Short-Term_Memory_for_NLP_(NLP_Zero_to_Hero_-_Part_5).mp4.md
+3269,13_Training_an_AI_to_create_poetry_(NLP_Zero_to_Hero_-_Part_6).mp4.md
+3270,14_Neural_Structured_Learning_-_Part_1_Framework_overview.mp4.md
+3271,15_Neural_Structured_Learning_-_Part_2_Training_with_natural_graphs.mp4.md
+3272,16_Neural_Structured_Learning_-_Part_3_Training_with_synthesized_graphs.mp4.md
+3273,17_Neural_Structured_Learning_-_Part_4_Adversarial_learning_for_image_classification.mp4.md
+3274,18_Announcing_TensorFlow_20_(Coding_TensorFlow).mp4.md
+3275,19_Build_an_image_classifier_(ML_Zero_to_Hero_-_Part_4).mp4.md
+3276,1_Recommendation_systems_overview_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3277,20_Introducing_convolutional_neural_networks_(ML_Zero_to_Hero_-_Part_3).mp4.md
+3278,21_Basic_Computer_Vision_with_ML_(ML_Zero_to_Hero_-_Part_2).mp4.md
+3279,22_Intro_to_Machine_Learning_(ML_Zero_to_Hero_-_Part_1).mp4.md
+3280,23_Distributed_Processing_and_Components_(TensorFlow_Extended).mp4.md
+3281,24_Why_do_I_need_metadata_(TensorFlow_Extended).mp4.md
+3282,25_How_do_TFX_pipelines_work_(TensorFlow_Extended).mp4.md
+3283,26_What_exactly_is_this_TFX_thing_(TensorFlow_Extended).mp4.md
+3284,27_Get_started_with_using_TensorFlow_to_solve_for_regression_problems_(Coding_TensorFlow).mp4.md
+3285,28_Upgrade_your_existing_code_for_TensorFlow_20_(Coding_TensorFlow).mp4.md
+3286,29_How_to_take_advantage_of_GPUs_and_TPUs_for_your_ML_project_(Coding_TensorFlow).mp4.md
+3287,2_Content-based_filtering_and_collaborative_filtering_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3288,30_Build_a_deep_neural_network_in_4_mins_with_TensorFlow_in_Colab.mp4.md
+3289,31_Getting_Started_with_TensorFlow_in_Google_Colaboratory_(Coding_TensorFlow).mp4.md
+3290,32_Get_started_with_Google_Colaboratory_(Coding_TensorFlow).mp4.md
+3291,33_TensorFlow_Lite_Experimental_GPU_Delegate_(Coding_TensorFlow).mp4.md
+3292,34_TensorFlow_high-level_APIs_Part_3_-_Building_and_refining_your_models.mp4.md
+3293,35_TensorFlow_high-level_APIs_Part_2_-_going_deep_on_data_and_features.mp4.md
+3294,36_TensorFlow_high-level_APIs_Part_1_-_loading_data.mp4.md
+3295,37_Saving_and_Loading_Models_(Coding_TensorFlow).mp4.md
+3296,38_Solve_your_model’s_overfitting_and_underfitting_problems_-_Pt2_(Coding_TensorFlow).mp4.md
+3297,39_Solve_your_model’s_overfitting_and_underfitting_problems_-_Pt1_(Coding_TensorFlow).mp4.md
+3298,3_Intro_to_TensorFlow_Recommenders_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3299,40_Designing_a_neural_network__Text_Classification_Tutorial_Pt_2_(Coding_TensorFlow).mp4.md
+3300,41_Prepare_your_data_for_ML___Text_Classification_Tutorial_Pt_1_(Coding_TensorFlow).mp4.md
+3301,42_Use_TensorFlow_to_classify_clothing_images_(Coding_TensorFlow).mp4.md
+3302,43_Build_a_neural_network_to_perform_classification__TensorFlowjs_(Coding_TensorFlow).mp4.md
+3303,44_Prepare_your_dataset_for_machine_learning_(Coding_TensorFlow).mp4.md
+3304,45_Try_TensorFlowjs_in_your_browser_(Coding_TensorFlow).mp4.md
+3305,46_TensorFlow_Lite_for_iOS_(Coding_TensorFlow).mp4.md
+3306,47_TensorFlow_Lite_for_Android_(Coding_TensorFlow).mp4.md
+3307,48_Introducing_TensorFlow_Lite_(Coding_TensorFlow).mp4.md
+3308,49_All_About_TensorFlow_Code_(Coding_TensorFlow).mp4.md
+3309,4_Building_a_ranking_model_with_TF_Recommenders_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3310,5_Leveraging_context_features_and_multitask_learning_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3311,6_Deep_and_Cross_Network_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3312,7_Efficient_serving_with_ScaNN_for_retrieval_(Building_recommendation_systems_with_TensorFlow).mp4.md
+3313,8_Natural_Language_Processing_-_Tokenization_(NLP_Zero_to_Hero_-_Part_1).mp4.md
+3314,9_Sequencing_-_Turning_sentences_into_data_(NLP_Zero_to_Hero_-_Part_2).mp4.md
+3315,1_Convolutions_in_image_processing__Week_1__MIT_18S191_Fall_2020__Grant_Sanderson.mp4.md
+3316,2_Seam_Carving__Week_2__18S191_MIT_Fall_2020__Grant_Sanderson.mp4.md
+3317,3_The_diffusion_equation__Week_12__MIT_18S191_Fall_2020__Grant_Sanderson.mp4.md
+3318,4_What_is_a_Discrete_Fourier_Transform__Week_14__MIT_18S191_Fall_2020__Grant_Sanderson.mp4.md
+3319,1_What_is_Deep_Learning__-_Course_Introduction.mp4.md
+3320,2_Anaconda_Tensorflow_Keras_Installation_on_Windows.mp4.md
+3321,3_Anaconda_Tensorflow_Keras_Installation_on_Linux.mp4.md
+3322,4_Convolutional_Neural_Networks_(CNN__Convnets).mp4.md
+3323,5_Convolutional_Neural_Networks_(CNN)_Implementation_with_Keras_-_Python.mp4.md
+3324,6_Recurrent_Neural_Networks_(RNN)_and_Long_Short_Term_Memory_Networks_(LSTM).mp4.md
+3325,7_Recurrent_Neural_Networks_(LSTM__RNN)_Implementation_with_Keras_-_Python.mp4.md
+3326,8_Word2Vec_-_Skipgram_and_CBOW.mp4.md
+3327,9_Word2Vec_with_Gensim_-_Python.mp4.md
+3328,The_Rise_of_Obsidian_as_a_Second_Brain__ft_Nick_Milo.mp4.md
+3329,100_Kernel_and_Gamma_-_Intro_to_Machine_Learning.mp4.md
+3330,101_Kernel_and_Gamma_-_Intro_to_Machine_Learning.mp4.md
+3331,102_SVM_C_Parameter_-_Intro_to_Machine_Learning.mp4.md
+3332,103_SVM_C_Parameter_-_Intro_to_Machine_Learning.mp4.md
+3333,104_SVM_Gamma_Parameter.mp4.md
+3334,105_Overfitting_-_Intro_to_Machine_Learning.mp4.md
+3335,106_Overfitting_-_Intro_to_Machine_Learning.mp4.md
+3336,107_SVM_Strengths_and_Weaknesses.mp4.md
+3337,108_SVM_Mini-Project_Video.mp4.md
+3338,109_Welcome_To_Decision_Trees.mp4.md
+3339,10_Features_and_Labels_Musical_Example.mp4.md
+3340,10_Shortcut_Learning_in_Deep_Neural_Networks.mp4.md
+3341,110_Linearly_Separable_Data_-_Intro_to_Machine_Learning.mp4.md
+3342,111_Linearly_Separable_Data_-_Intro_to_Machine_Learning.mp4.md
+3343,112_Multiple_Linear_Questions_-_Intro_to_Machine_Learning.mp4.md
+3344,113_Multiple_Linear_Questions_-_Intro_to_Machine_Learning.mp4.md
+3345,114_Constructing_a_Decision_Tree_First_Split_-_Intro_to_Machine_Learning.mp4.md
+3346,115_Constructing_a_Decision_Tree_First_Split_-_Intro_to_Machine_Learning.mp4.md
+3347,116_Constructing_a_Decision_Tree_2nd_Split_-_Intro_to_Machine_Learning.mp4.md
+3348,117_Constructing_a_Decision_Tree_2nd_Split_-_Intro_to_Machine_Learning.mp4.md
+3349,118_Class_Labels_After_Second_Split_-_Intro_to_Machine_Learning.mp4.md
+3350,119_Labels_After_Second_Split_-_Intro_to_Machine_Learning.mp4.md
+3351,11_Features_Visualization_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3352,120_Constructing_A_Decision_TreeThird_Split_-_Intro_to_Machine_Learning.mp4.md
+3353,121_Constructing_A_Decision_TreeThird_Split_-_Intro_to_Machine_Learning.mp4.md
+3354,122_Coding_A_Decision_Tree_-_Intro_to_Machine_Learning.mp4.md
+3355,123_Coding_A_Decision_Tree_-_Intro_to_Machine_Learning.mp4.md
+3356,124_Decision_Tree_Accuracy_-_Intro_to_Machine_Learning.mp4.md
+3357,125_Decision_Tree_Accuracy_-_Intro_to_Machine_Learning.mp4.md
+3358,126_Decision_Tree_Parameters_-_Intro_to_Machine_Learning.mp4.md
+3359,127_Decision_Tree_Parameters_-_Intro_to_Machine_Learning.mp4.md
+3360,128_Min_Samples_Split_-_Intro_to_Machine_Learning.mp4.md
+3361,129_Min_Samples_Split_-_Intro_to_Machine_Learning.mp4.md
+3362,12_Features_Visualization_Solution_-_Intro_to_Machine_Learning.mp4.md
+3363,130_Decision_Tree_Accuracy_-_Intro_to_Machine_Learning.mp4.md
+3364,131_Decision_Tree_Accuracy_-_Intro_to_Machine_Learning.mp4.md
+3365,132_Data_Impurity_and_Entropy.mp4.md
+3366,133_Minimizing_Impurity_in_Splitting_-_Intro_to_Machine_Learning.mp4.md
+3367,134_Minimizing_Impurity_in_Splitting_-_Intro_to_Machine_Learning.mp4.md
+3368,135_Formula_of_Entropy.mp4.md
+3369,136_Entropy_Calculation_Part_1_-_Intro_to_Machine_Learning.mp4.md
+3370,137_Entropy_Calculation_Part_1_-_Intro_to_Machine_Learning.mp4.md
+3371,138_Entropy_Calculation_Part_2_-_Intro_to_Machine_Learning.mp4.md
+3372,139_Entropy_Calculation_Part_2_-_Intro_to_Machine_Learning.mp4.md
+3373,13_Classification_By_Eye_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3374,140_Entropy_Calculation_Part_3_-_Intro_to_Machine_Learning.mp4.md
+3375,141_Entropy_Calculation_Part_3_-_Intro_to_Machine_Learning.mp4.md
+3376,142_Entropy_Calculation_Part_4_-_Intro_to_Machine_Learning.mp4.md
+3377,143_Entropy_Calculation_Part_4_-_Intro_to_Machine_Learning.mp4.md
+3378,144_Entropy_Calculation_Part_5_-_Intro_to_Machine_Learning.mp4.md
+3379,145_Entropy_Calculation_Part_5_-_Intro_to_Machine_Learning.mp4.md
+3380,146_Information_Gain.mp4.md
+3381,147_Information_Gain_Calculation_Part_1_-_Intro_to_Machine_Learning.mp4.md
+3382,148_Information_Gain_Calculation_Part_1_-_Intro_to_Machine_Learning.mp4.md
+3383,149_Information_Gain_Calculation_Part_2_-_Intro_to_Machine_Learning.mp4.md
+3384,14_Classification_By_Eye_Solution_-_Intro_to_Machine_Learning.mp4.md
+3385,150_Information_Gain_Calculation_Part_2_-_Intro_to_Machine_Learning.mp4.md
+3386,151_Information_Gain_Calculation_Part_3_-_Intro_to_Machine_Learning.mp4.md
+3387,152_Information_Gain_Calculation_Part_3_-_Intro_to_Machine_Learning.mp4.md
+3388,153_Information_Gain_Calculation_Part_4_-_Intro_to_Machine_Learning.mp4.md
+3389,154_Information_Gain_Calculation_Part_4_-_Intro_to_Machine_Learning.mp4.md
+3390,155_Information_Gain_Calculation_Part_5_-_Intro_to_Machine_Learning.mp4.md
+3391,156_Information_Gain_Calculation_Part_5_-_Intro_to_Machine_Learning.mp4.md
+3392,157_Information_Gain_Calculation_Part_6_-_Intro_to_Machine_Learning.mp4.md
+3393,158_Information_Gain_Calculation_Part_6_-_Intro_to_Machine_Learning.mp4.md
+3394,159_Information_Gain_Calculation_Part_7_-_Intro_to_Machine_Learning.mp4.md
+3395,15_Intro_To_Stanley_Terrain_Classification.mp4.md
+3396,160_Information_Gain_Part_7_Solution_-_Intro_to_Machine_Learning.mp4.md
+3397,161_Information_Gain_Calculation_Part_8_-_Intro_to_Machine_Learning.mp4.md
+3398,162_Information_Gain_Part_8_Solution_-_Intro_to_Machine_Learning.mp4.md
+3399,163_Information_Gain_Calculation_Part_9_-_Intro_to_Machine_Learning.mp4.md
+3400,164_Information_Gain_Calculation_Part_9_-_Intro_to_Machine_Learning.mp4.md
+3401,165_Information_Gain_Calculation_Part_10_-_Intro_to_Machine_Learning.mp4.md
+3402,166_Information_Gain_Calculation_Part_10_-_Intro_to_Machine_Learning.mp4.md
+3403,167_Tuning_Criterion_Parameter.mp4.md
+3404,168_Bias-Variance_Dilemma.mp4.md
+3405,169_DT_Strengths_and_Weaknesses.mp4.md
+3406,16_Speed_Scatterplot_Grade_and_Bumpiness_-_Intro_to_Machine_Learning.mp4.md
+3407,170_Decision_Tree_Mini-Project_Video.mp4.md
+3408,171_Choose_Your_own_Algorithm.mp4.md
+3409,172_Choose_Your_Own_Adventure.mp4.md
+3410,173_Algorithm_Options.mp4.md
+3411,174_Investigation_Process.mp4.md
+3412,175_How_Does_Your_Algorithm_Compare.mp4.md
+3413,176_L4_Mini_Project.mp4.md
+3414,177_Welcome_to_the_end_of_the_lesson.mp4.md
+3415,178_Introduction.mp4.md
+3416,179_What_Is_A_POI.mp4.md
+3417,17_Speed_Scatterplot_Grade_and_Bumpiness_-_Intro_to_Machine_Learning.mp4.md
+3418,180_Accuracy_vs_Training_Set_Size.mp4.md
+3419,181_Downloading_Enron_Data.mp4.md
+3420,182_Types_of_Data_Quiz_1_-_Intro_to_Machine_Learning.mp4.md
+3421,183_Types_of_Data_Quiz_1_-_Intro_to_Machine_Learning.mp4.md
+3422,184_Types_of_Data_Quiz_2_-_Intro_to_Machine_Learning.mp4.md
+3423,185_Types_of_Data_Quiz_2_-_Intro_to_Machine_Learning.mp4.md
+3424,186_Types_of_Data_Quiz_3_-_Intro_to_Machine_Learning.mp4.md
+3425,187_Types_of_Data_Quiz_3_-_Intro_to_Machine_Learning.mp4.md
+3426,188_Types_of_Data_Quiz_4_-_Intro_to_Machine_Learning.mp4.md
+3427,189_Types_of_Data_Quiz_4_-_Intro_to_Machine_Learning.mp4.md
+3428,18_Speed_Scatterplot_2_-_Intro_to_Machine_Learning.mp4.md
+3429,190_Video_Title.mp4.md
+3430,191_Types_of_Data_Quiz_5_-_Intro_to_Machine_Learning.mp4.md
+3431,192_Types_of_Data_Quiz_6_-_Intro_to_Machine_Learning.mp4.md
+3432,193_Types_of_Data_Quiz_6_-_Intro_to_Machine_Learning.mp4.md
+3433,194_Enron_Dataset_Mini-Project_Video.mp4.md
+3434,195_Continuous_Output_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3435,196_Continuous_Output_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3436,197_Continuous_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3437,198_Continuous_Quiz_Solution_-_Intro_to_Machine_Learning.mp4.md
+3438,199_Age_Continuous_or_Discrete_-_Intro_to_Machine_Learning.mp4.md
+3439,19_Speed_Scatterplot_2_-_Intro_to_Machine_Learning.mp4.md
+3440,1_Introduction.mp4.md
+3441,200_[sol_age_is_continuous]_-_Intro_to_Machine_Learning.mp4.md
+3442,201_Weather_Continuous_or_Discrete_-_Intro_to_Machine_Learning.mp4.md
+3443,202_[sol_weather_is_discrete]_-_Intro_to_Machine_Learning.mp4.md
+3444,203_Email_Author_Continuous_Or_Discrete_-_Intro_to_Machine_Learning.mp4.md
+3445,204_Email_Author_Cont_or_Discrete_Solution_-_Intro_to_Machine_Learning.mp4.md
+3446,205_Phone_Number_Continuous_or_Discrete_-_Intro_to_Machine_Learning.mp4.md
+3447,206_Phone_Number_Solution_-_Intro_to_Machine_Learning.mp4.md
+3448,207_Income_Continuous_or_Discrete_-_Intro_to_Machine_Learning.mp4.md
+3449,208_[sol_income_is_continuous]_-_Intro_to_Machine_Learning.mp4.md
+3450,209_Continuous_Feature_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3451,20_Speed_Scatterplot_3_-_Intro_to_Machine_Learning.mp4.md
+3452,210_Continuous_Feature_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3453,211_Supervised_Learning_w_Continuous_Output_-_Intro_to_Machine_Learning.mp4.md
+3454,212_Supervised_Learning_w_Continuous_Output_-_Intro_to_Machine_Learning.mp4.md
+3455,213_Equation_of_the_Regression_Line_-_Intro_to_Machine_Learning.mp4.md
+3456,214_Equation_of_the_Regression_Line_-_Intro_to_Machine_Learning.mp4.md
+3457,215_Slope_and_Intercept.mp4.md
+3458,216_Slope_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3459,217_Slope_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3460,218_Intercept_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3461,219_Intercept_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3462,21_Speed_Scatterplot_3_-_Intro_to_Machine_Learning.mp4.md
+3463,220_Predictions_Using_Regression_-_Intro_to_Machine_Learning.mp4.md
+3464,221_Predictions_Using_Regression_-_Intro_to_Machine_Learning.mp4.md
+3465,222_Adding_An_Intercept_-_Intro_to_Machine_Learning.mp4.md
+3466,223_Adding_An_Intercept_-_Intro_to_Machine_Learning.mp4.md
+3467,224_Handoff_to_Katie.mp4.md
+3468,225_Coding_It_Up.mp4.md
+3469,226_AgeNet_Worth_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3470,227_AgeNet_Worth_Solution_-_Intro_to_Machine_Learning.mp4.md
+3471,228_Extracting_Information_from_sklearn.mp4.md
+3472,229_Extracting_Score_Data_from_sklearn.mp4.md
+3473,22_Scatterplots_to_Predictions_-_Intro_to_Machine_Learning.mp4.md
+3474,230_Linear_Regression_Errors.mp4.md
+3475,231_Error_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3476,232_Error_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3477,233_Errors_and_Fit_Quality_-_Intro_to_Machine_Learning.mp4.md
+3478,234_Errors_and_Fit_Quality_-_Intro_to_Machine_Learning.mp4.md
+3479,235_Minimizing_Sum_of_Squared_Errors.mp4.md
+3480,236_Algorithms_for_Minimizing_Squared_Errors.mp4.md
+3481,237_Why_Minimize_SSE_-_Intro_to_Machine_Learning.mp4.md
+3482,238_Why_Minimize_SSE_-_Intro_to_Machine_Learning.mp4.md
+3483,239_Problem_with_Minimizing_Absolute_Errors.mp4.md
+3484,23_Scatterplots_to_Predictions_-_Intro_to_Machine_Learning.mp4.md
+3485,240_Evaluating_Regression_by_Eye_-_Intro_to_Machine_Learning.mp4.md
+3486,241_Evaluating_Regression_by_Eye_-_Intro_to_Machine_Learning.mp4.md
+3487,242_Problem_with_SSE_-_Intro_to_Machine_Learning.mp4.md
+3488,243_Problem_with_SSE_-_Intro_to_Machine_Learning.mp4.md
+3489,244_R_Squared_Metric_for_Regression.mp4.md
+3490,245_R_Squared_in_SKlearn.mp4.md
+3491,246_Visualizing_Regression.mp4.md
+3492,247_What_Data_Is_Good_For_Linear_Regression_-_Intro_to_Machine_Learning.mp4.md
+3493,248_What_Data_Is_Good_For_Linear_Regression_-_Intro_to_Machine_Learning.mp4.md
+3494,249_Comparing_Classification_and_Regression.mp4.md
+3495,24_Scatterplots_to_Predictions_2_-_Intro_to_Machine_Learning.mp4.md
+3496,250_Multi-variate_Regression_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3497,251_Multi-variate_Regression_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3498,252_Outliers_in_Regression_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3499,253_03_s_-_Intro_to_Machine_Learning.mp4.md
+3500,254_Regression_Mini-Project_Video.mp4.md
+3501,255_Outliers_in_Regression_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3502,256_Outliers_in_Regression_Solution_-_Intro_to_Machine_Learning.mp4.md
+3503,257_What_Causes_Outliers_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3504,258_What_Causes_Outliers_Solution_-_Intro_to_Machine_Learning.mp4.md
+3505,259_Outlier_Selection_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3506,25_Scatterplots_to_Predictions_2_-_Intro_to_Machine_Learning.mp4.md
+3507,260_Outlier_Selection_Solution_-_Intro_to_Machine_Learning.mp4.md
+3508,261_Outlier_DetectionRemoval_Algorithm.mp4.md
+3509,262_Outlier_Detection_Using_Residuals_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3510,263_Outlier_Detection_Solution_-_Intro_to_Machine_Learning.mp4.md
+3511,264_Effect_of_Outlier_Removal_on_Regression_-_Intro_to_Machine_Learning.mp4.md
+3512,265_Effect_of_Outlier_Removal_Solution_-_Intro_to_Machine_Learning.mp4.md
+3513,266_Summary_of_Outlier_Removal_Strategy.mp4.md
+3514,267_Outliers_Mini-Project_Video.mp4.md
+3515,268_Unsupervised_Learning.mp4.md
+3516,269_Clustering_Movies.mp4.md
+3517,26_Scatterplots_to_Decision_Surface_-_Intro_to_Machine_Learning.mp4.md
+3518,270_How_Many_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3519,271_How_Many_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3520,272_Match_Points_with_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3521,273_Match_Points_with_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3522,274_Optimizing_Centers_(Rubber_Bands)_-_Intro_to_Machine_Learning.mp4.md
+3523,275_Optimizing_Centers_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3524,276_Moving_Centers_2_-_Intro_to_Machine_Learning.mp4.md
+3525,277_Moving_Centers_2_-_Intro_to_Machine_Learning.mp4.md
+3526,278_Match_Points_(again)_-_Intro_to_Machine_Learning.mp4.md
+3527,279_Match_Points_(again)_-_Intro_to_Machine_Learning.mp4.md
+3528,27_Scatterplot_to_Decision_Surface_-_Intro_to_Machine_Learning.mp4.md
+3529,280_Handoff_to_Katie.mp4.md
+3530,281_K-Means_Clustering_Visualization_-_Intro_to_Machine_Learning.mp4.md
+3531,282_K-Means_Clustering_Visualization_-_Intro_to_Machine_Learning.mp4.md
+3532,283_K-Means_Clustering_Visualization_2.mp4.md
+3533,284_K-Means_Clustering_Visualization_3.mp4.md
+3534,285_Sklearn.mp4.md
+3535,286_Some_challenges_of_k-means.mp4.md
+3536,287_Limitations_of_K-Means_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3537,288_Limitations_of_K-Means_Solution_-_Intro_to_Machine_Learning.mp4.md
+3538,289_Counterintuitive_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3539,28_Good_Linear_Decision_Surface_-_Intro_to_Machine_Learning.mp4.md
+3540,290_Counterintuitive_Clusters_Solution_-_Intro_to_Machine_Learning.mp4.md
+3541,291_Counterintuitive_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3542,292_Counterintuitive_Clusters_-_Intro_to_Machine_Learning.mp4.md
+3543,293_Clustering_Mini-Project_Video.mp4.md
+3544,294_Chris_Shirt_Size_Intuition_-_Intro_to_Machine_Learning.mp4.md
+3545,295_Chris_Shirt_Size_Solution_-_Intro_to_Machine_Learning.mp4.md
+3546,296_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3547,297_Solution_-_Intro_to_Machine_Learning.mp4.md
+3548,298_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3549,299_Solution_-_Intro_to_Machine_Learning.mp4.md
+3550,29_Good_Linear_Decision_Surface_-_Intro_to_Machine_Learning.mp4.md
+3551,2_Introduction_Part_II.mp4.md
+3552,300_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3553,301_Solution_-_Intro_to_Machine_Learning.mp4.md
+3554,302_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3555,303_Solution_-_Intro_to_Machine_Learning.mp4.md
+3556,304_Comparing_Features_with_Different_Scales.mp4.md
+3557,305_Feature_Scaling_Formula_Quiz_1_-_Intro_to_Machine_Learning.mp4.md
+3558,306_Feature_Scaling_Formula_Solution_-_Intro_to_Machine_Learning.mp4.md
+3559,307_Feature_Scaling_Formula_Quiz_2_-_Intro_to_Machine_Learning.mp4.md
+3560,308_Feature_Scale_Formula_Solution_2_-_Intro_to_Machine_Learning.mp4.md
+3561,309_Feature_Scaling_Formula_Quiz_3_-_Intro_to_Machine_Learning.mp4.md
+3562,30_Transition_to_Using_Naive_Bayes.mp4.md
+3563,310_Feature_Scaling_Formula_Quiz_3_Solution_-_Intro_to_Machine_Learning.mp4.md
+3564,311_MinMax_Rescaler_Coding_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3565,312_MinMax_Rescaler_Solution_-_Intro_to_Machine_Learning.mp4.md
+3566,313_MinMax_Scaler_in_sklearn.mp4.md
+3567,314_Quiz_on_Algorithms_Requiring_Rescaling_-_Intro_to_Machine_Learning.mp4.md
+3568,315_Algorithms_Requiring_Rescaling_Solution_-_Intro_to_Machine_Learning.mp4.md
+3569,316_Feature_Scaling_Mini-Project_Video.mp4.md
+3570,317_Dimensions_when_Learning_From_Text_-_Intro_to_Machine_Learning.mp4.md
+3571,318_Text_Dimensions_Solution_-_Intro_to_Machine_Learning.mp4.md
+3572,319_Bag_of_Words_-_Intro_to_Machine_Learning.mp4.md
+3573,31_NB_Decision_Boundary_in_Python.mp4.md
+3574,320_Solution_to_Bag_of_Words_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3575,321_A_Very_Nice_Day_-_Intro_to_Machine_Learning.mp4.md
+3576,322_A_Very_Nice_Solution_-_Intro_to_Machine_Learning.mp4.md
+3577,323_Mr_Day_Loves_a_Nice_Day_-_Intro_to_Machine_Learning.mp4.md
+3578,324_Mr_Day_Loves_a_Nice_Day_Solution_-_Intro_to_Machine_Learning.mp4.md
+3579,325_Properties_of_a_Bag_of_Words_-_Intro_to_Machine_Learning.mp4.md
+3580,326_Properties_of_a_Bag_of_Words_Solution_-_Intro_to_Machine_Learning.mp4.md
+3581,327_Bag_of_Words_in_Sklearn.mp4.md
+3582,328_Not_All_Words_Are_Equal_-_Intro_to_Machine_Learning.mp4.md
+3583,329_Low_Info_Words_Solution_-_Intro_to_Machine_Learning.mp4.md
+3584,32_Getting_Started_With_sklearn.mp4.md
+3585,330_Stopwords_-_Intro_to_Machine_Learning.mp4.md
+3586,331_Stopwords_Quiz_Solution_-_Intro_to_Machine_Learning.mp4.md
+3587,332_Stopwords_in_NLTK_-_Intro_to_Machine_Learning.mp4.md
+3588,333_NLTK_Stopwords_Solution_-_Intro_to_Machine_Learning.mp4.md
+3589,334_Stemming_to_Consolidate_Vocabulary.mp4.md
+3590,335_Stemming_with_NLTK.mp4.md
+3591,336_Order_of_Operations_in_Text_Processing_-_Intro_to_Machine_Learning.mp4.md
+3592,337_Order_of_Operations_in_Text_Processing_-_Intro_to_Machine_Learning.mp4.md
+3593,338_Weighting_by_Term_Frequency_-_Intro_to_Machine_Learning.mp4.md
+3594,339_Term_Frequency_Quiz_Solution_-_Intro_to_Machine_Learning.mp4.md
+3595,33_Gaussian_NB_Example.mp4.md
+3596,340_Why_Upweight_Rare_Words.mp4.md
+3597,341_Text_Learning_Mini-Project_Video.mp4.md
+3598,342_Why_Feature_Selection.mp4.md
+3599,343_A_New_Enron_Feature.mp4.md
+3600,344_New_Enron_Feature_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3601,345_New_Enron_Feature_Solution_-_Intro_to_Machine_Learning.mp4.md
+3602,346_Visualizing_Your_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3603,347_Visualizing_New_Feature_Solution_-_Intro_to_Machine_Learning.mp4.md
+3604,348_Beware_of_Feature_Bugs!.mp4.md
+3605,349_Getting_Rid_of_Features_-_Intro_to_Machine_Learning.mp4.md
+3606,34_GaussianNB_Deployment_on_Terrain_Data_-_Intro_to_Machine_Learning.mp4.md
+3607,350_Getting_Rid_of_Features_Solution_-_Intro_to_Machine_Learning.mp4.md
+3608,351_Features_!=_Information.mp4.md
+3609,352_Feature_Selection_in_TfIdf_Vectorizer_-_Intro_to_Machine_Learning.mp4.md
+3610,353_TfIdf_Feature_Selection_Solution_-_Intro_to_Machine_Learning.mp4.md
+3611,354_Bias_Variance_Dilemma_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3612,355_Bias_Variance_Dilemma_Solution_-_Intro_to_Machine_Learning.mp4.md
+3613,356_Bias.mp4.md
+3614,357_BiasVariance_and_Features_Quiz_Solution_-_Intro_to_Machine_Learning.mp4.md
+3615,358_Overfitting_by_Eye.mp4.md
+3616,359_Balancing_Error_with_Number_of_Features.mp4.md
+3617,35_Gaussian_Deployment_Solution_-_Intro_to_Machine_Learning.mp4.md
+3618,360_Regularization.mp4.md
+3619,361_Lasso_Regression.mp4.md
+3620,362_Lasso_Code_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3621,363_Lasso_Code_Solution_-_Intro_to_Machine_Learning.mp4.md
+3622,364_Lasso_Prediction_with_sklearn_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3623,365_Lasso_Prediction_with_sklearn_Solution_-_Intro_to_Machine_Learning.mp4.md
+3624,366_Lasso_Coefficients_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3625,367_Lasso_Coefficients_Solution_-_Intro_to_Machine_Learning.mp4.md
+3626,368_Using_Lasso_in_sklearn_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3627,369_Using_Lasso_in_sklearn_Solution_-_Intro_to_Machine_Learning.mp4.md
+3628,36_Accuracy_of_Naive_Bayes_-_Intro_to_Machine_Learning.mp4.md
+3629,370_Feature_Selection_Mini-Project_Video.mp4.md
+3630,371_Data_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3631,372_Data_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3632,373_Trickier_Data_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3633,374_Trickier_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3634,375_One-Dimensional.mp4.md
+3635,376_One-Dimensional.mp4.md
+3636,377_Slightly_Less_Perfect_Data_-_Intro_to_Machine_Learning.mp4.md
+3637,378_Slightly_Less_Perfect_Data_-_Intro_to_Machine_Learning.mp4.md
+3638,379_Trickiest_Data_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3639,37_Accuracy_of_Naive_Bayes_-_Intro_to_Machine_Learning.mp4.md
+3640,380_Trickiest_Data_Dimensionality_-_Intro_to_Machine_Learning.mp4.md
+3641,381_PCA_for_Data_Transformation.mp4.md
+3642,382_Center_of_a_New_Coordinate_System_-_Intro_to_Machine_Learning.mp4.md
+3643,383_Center_of_a_New_Coordinate_System_-_Intro_to_Machine_Learning.mp4.md
+3644,384_Principal_Axis_of_New_Coordinate_System_-_Intro_to_Machine_Learning.mp4.md
+3645,385_Principal_Axis_of_New_Coordinate_System_-_Intro_to_Machine_Learning.mp4.md
+3646,386_Second_Principal_Component_of_New_System_-_Intro_to_Machine_Learning.mp4.md
+3647,387_Second_Principal_Component_of_New_System_-_Intro_to_Machine_Learning.mp4.md
+3648,388_Practice_Finding_Centers_-_Intro_to_Machine_Learning.mp4.md
+3649,389_Practice_Finding_Centers_-_Intro_to_Machine_Learning.mp4.md
+3650,38_Training_and_Testing_Data.mp4.md
+3651,390_Practice_Finding_New_Axes_-_Intro_to_Machine_Learning.mp4.md
+3652,391_Practice_Finding_New_Axes_-_Intro_to_Machine_Learning.mp4.md
+3653,392_Which_Data_is_Ready_for_PCA_-_Intro_to_Machine_Learning.mp4.md
+3654,393_Which_Data_is_Good_for_PCA_-_Intro_to_Machine_Learning.mp4.md
+3655,394_When_Does_an_Axis_Dominate_-_Intro_to_Machine_Learning.mp4.md
+3656,395_When_Does_an_Axis_Dominate_-_Intro_to_Machine_Learning.mp4.md
+3657,396_Latent_Features_-_Intro_to_Machine_Learning.mp4.md
+3658,397_Latent_Features_-_Intro_to_Machine_Learning.mp4.md
+3659,398_From_Four_Features_to_Two_-_Intro_to_Machine_Learning.mp4.md
+3660,399_From_Four_Features_to_Two_-_Intro_to_Machine_Learning.mp4.md
+3661,39_Unpacking_NB_Using_Bayes_Rule.mp4.md
+3662,3_Introduction_Pt_III.mp4.md
+3663,400_Compression_While_Preserving_Information_-_Intro_to_Machine_Learning.mp4.md
+3664,401_Compression_While_Preserving_Information_-_Intro_to_Machine_Learning.mp4.md
+3665,402_Composite_Features_-_Intro_to_Machine_Learning.mp4.md
+3666,403_Composite_Features_-_Intro_to_Machine_Learning.mp4.md
+3667,404_Maximal_Variance_-_Intro_to_Machine_Learning.mp4.md
+3668,405_Maximal_Variance_-_Intro_to_Machine_Learning.mp4.md
+3669,406_Advantages_of_Maximal_Variance_-_Intro_to_Machine_Learning.mp4.md
+3670,407_Advantages_of_Maximal_Variance_-_Intro_to_Machine_Learning.mp4.md
+3671,408_Maximal_Variance_and_Information_Loss_-_Intro_to_Machine_Learning.mp4.md
+3672,409_Maximal_Variance_and_Information_Loss_-_Intro_to_Machine_Learning.mp4.md
+3673,40_Bayes_Rule.mp4.md
+3674,410_Info_Loss_and_Principal_Components.mp4.md
+3675,411_Neighborhood_Composite_Feature_-_Intro_to_Machine_Learning.mp4.md
+3676,412_PCA_for_Feature_Transformation.mp4.md
+3677,413_Maximum_Number_of_PCs_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3678,414_Maximum_Number_of_PCs_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3679,415_ReviewDefinition_of_PCA.mp4.md
+3680,416_PCA_on_the_Enron_Finance_Data_-_Intro_to_Machine_Learning.mp4.md
+3681,417_PCA_on_Enron_finance_data_-_Intro_to_Machine_Learning.mp4.md
+3682,418_PCA_in_sklearn.mp4.md
+3683,419_When_to_Use_PCA.mp4.md
+3684,41_Cancer_Test_-_Intro_to_Machine_Learning.mp4.md
+3685,420_PCA_for_Facial_Recognition_-_Intro_to_Machine_Learning.mp4.md
+3686,421_PCA_for_Facial_Recognition_-_Intro_to_Machine_Learning.mp4.md
+3687,422_Eigenfaces_Code.mp4.md
+3688,423_PCA_Mini-Project_Intro.mp4.md
+3689,424_Selecting_Principal_Components_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3690,425_Selecting_Principal_Components_Solution_-_Intro_to_Machine_Learning.mp4.md
+3691,426_Cross_Validation_for_Fun_and_Profit.mp4.md
+3692,427_Benefits_of_Testing_-_Intro_to_Machine_Learning.mp4.md
+3693,428_Benefits_of_Testing_-_Intro_to_Machine_Learning.mp4.md
+3694,429_TrainTest_Split_in_sklearn_-_Intro_to_Machine_Learning.mp4.md
+3695,42_Cancer_Test_Solution_-_Intro_to_Machine_Learning.mp4.md
+3696,430_Where_to_use_training_vs_testing_data_-_Intro_to_Machine_Learning.mp4.md
+3697,431_PCA_Training_vs_Testing_Solution_-_Intro_to_Machine_Learning.mp4.md
+3698,432_Where_to_use_training_vs_testing_data_2_-_Intro_to_Machine_Learning.mp4.md
+3699,433_Where_to_use_training_vs_testing_data_3_-_Intro_to_Machine_Learning.mp4.md
+3700,434_Where_to_use_training_vs_testing_data_3_-_Intro_to_Machine_Learning.mp4.md
+3701,435_Where_to_use_training_vs_testing_data_3_-_Intro_to_Machine_Learning.mp4.md
+3702,436_Where_to_use_training_vs_testing_data_4_-_Intro_to_Machine_Learning.mp4.md
+3703,437_Where_to_use_training_vs_testing_data_4_-_Intro_to_Machine_Learning.mp4.md
+3704,438_K-Fold_Cross_Validation_-_Intro_to_Machine_Learning.mp4.md
+3705,439_K-Fold_Cross_Validation_-_Intro_to_Machine_Learning.mp4.md
+3706,43_Prior_and_Posterior_-_Intro_to_Machine_Learning.mp4.md
+3707,440_K-Fold_CV_in_sklearn.mp4.md
+3708,441_Practical_Advice_for_K-Fold_in_sklearn.mp4.md
+3709,442_Cross_Validation_for_Parameter_Tuning.mp4.md
+3710,443_On_to_the_Validation_Mini-Project.mp4.md
+3711,444_Validation_Mini-Project_Video.mp4.md
+3712,445_Welcome_to_Evaluation_Metrics_Lesson.mp4.md
+3713,446_Accuracy_Review.mp4.md
+3714,447_Shortcomings_of_Accuracy_-_Intro_to_Machine_Learning.mp4.md
+3715,448_Shortcomings_of_Accuracy_Solution_-_Intro_to_Machine_Learning.mp4.md
+3716,449_Picking_the_Most_Suitable_Metric.mp4.md
+3717,44_Prior_and_Posterior_Solution_-_Intro_to_Machine_Learning.mp4.md
+3718,450_Confusion_Matrices_-_Intro_to_Machine_Learning.mp4.md
+3719,451_Confusion_Matrices_-_Intro_to_Machine_Learning.mp4.md
+3720,452_Confusion_Matrix_Practice_-_Intro_to_Machine_Learning.mp4.md
+3721,453_Confusion_Matrix_Practice_1_-_Intro_to_Machine_Learning.mp4.md
+3722,454_Confusion_Matrix_Practice_2_-_Intro_to_Machine_Learning.mp4.md
+3723,455_Confusion_Matrix_Practice_2_-_Intro_to_Machine_Learning.mp4.md
+3724,456_Filling_in_a_Confusion_Matrix_-_Intro_to_Machine_Learning.mp4.md
+3725,457_Filling_in_a_Confusion_Matrix_-_Intro_to_Machine_Learning.mp4.md
+3726,458_Confusion_Matrix_False_Alarms_-_Intro_to_Machine_Learning.mp4.md
+3727,459_Confusion_Matrix_False_Alarms_-_Intro_to_Machine_Learning.mp4.md
+3728,45_Normalizing_1_-_Intro_to_Machine_Learning.mp4.md
+3729,460_Decision_Tree_Confusion_Matrix_-_Intro_to_Machine_Learning.mp4.md
+3730,461_Decision_Tree_Confusion_Matrix_-_Intro_to_Machine_Learning.mp4.md
+3731,462_Confusion_Matrix_for_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3732,463_Confusion_Matrix_for_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3733,464_How_Many_Schroeders_-_Intro_to_Machine_Learning.mp4.md
+3734,465_How_Many_Schroeders_-_Intro_to_Machine_Learning.mp4.md
+3735,466_How_Many_Schroeder_Predictions_-_Intro_to_Machine_Learning.mp4.md
+3736,467_How_Many_Schroeder_Predictions_-_Intro_to_Machine_Learning.mp4.md
+3737,468_Classifying_Chavez_Correctly_1_-_Intro_to_Machine_Learning.mp4.md
+3738,469_Classifying_Chavez_Correctly_1_-_Intro_to_Machine_Learning.mp4.md
+3739,46_Normalizing_1_Solution_-_Intro_to_Machine_Learning.mp4.md
+3740,470_Classifying_Chavez_Correctly_2_-_Intro_to_Machine_Learning.mp4.md
+3741,471_Classifying_Chavez_Correctly_2_-_Intro_to_Machine_Learning.mp4.md
+3742,472_Precision_and_Recall.mp4.md
+3743,473_Powell_Precision_and_Recall_-_Intro_to_Machine_Learning.mp4.md
+3744,474_Powell_Precision_and_Recall_-_Intro_to_Machine_Learning.mp4.md
+3745,475_Bush_Precision_and_Recall_-_Intro_to_Machine_Learning.mp4.md
+3746,476_Bush_Precision_and_Recall_-_Intro_to_Machine_Learning.mp4.md
+3747,477_True_Positives_in_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3748,478_True_Positives_in_EigenFaces_-_Intro_to_Machine_Learning.mp4.md
+3749,479_False_Positives_in_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3750,47_Normalizing_2_-_Intro_to_Machine_Learning.mp4.md
+3751,480_False_Positives_in_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3752,481_False_Negatives_in_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3753,482_False_Negatives_in_Eigenfaces_-_Intro_to_Machine_Learning.mp4.md
+3754,483_Practicing_TP.mp4.md
+3755,484_Practicing_TP.mp4.md
+3756,485_Equation_for_Precision_-_Intro_to_Machine_Learning.mp4.md
+3757,486_Equation_for_Precision_-_Intro_to_Machine_Learning.mp4.md
+3758,487_Equation_for_Recall_-_Intro_to_Machine_Learning.mp4.md
+3759,488_Equation_for_Recall_-_Intro_to_Machine_Learning.mp4.md
+3760,489_Welcome_to_the_End_of_Evaluation_Lesson_-_Intro_to_Machine_Learning.mp4.md
+3761,48_Normalizing_2_Solution_-_Intro_to_Machine_Learning.mp4.md
+3762,490_Evaluation_Mini-Project_Video_-_Intro_to_Machine_Learning.mp4.md
+3763,491_Introduction.mp4.md
+3764,492_Summary.mp4.md
+3765,493_End_of_Content.mp4.md
+3766,494_Outro.mp4.md
+3767,49_Normalizing_3_-_Intro_to_Machine_Learning.mp4.md
+3768,4_Prerequisites.mp4.md
+3769,50_Normalizing_3_Solution_-_Intro_to_Machine_Learning.mp4.md
+3770,51_Total_Probability_-_Intro_to_Machine_Learning.mp4.md
+3771,52_Total_Probability_Solution_-_Intro_to_Machine_Learning.mp4.md
+3772,53_Bayes_Rule_Diagram.mp4.md
+3773,54_Bayes_Rule_for_Classification_-_Intro_to_Machine_Learning.mp4.md
+3774,55_Bayes_Rule_for_Classification_-_Intro_to_Machine_Learning.mp4.md
+3775,56_Chris_or_Sara_-_Intro_to_Machine_Learning.mp4.md
+3776,57_[sol_Chris_or_Sara]_-_Intro_to_Machine_Learning.mp4.md
+3777,58_Posterior_Probabilities_-_Intro_to_Machine_Learning.mp4.md
+3778,59_Posterior_Probabilities_-_Intro_to_Machine_Learning.mp4.md
+3779,60_Bayesian_Probabilities_On_Your_Own_-_Intro_to_Machine_Learning.mp4.md
+3780,61_Bayesian_Probabilities_On_Your_Own_-_Intro_to_Machine_Learning.mp4.md
+3781,62_Why_Is_Naive_Bayes_Naive_-_Intro_to_Machine_Learning.mp4.md
+3782,63_Why_Is_Naive_Bayes_Naive_-_Intro_to_Machine_Learning.mp4.md
+3783,64_Naive_Bayes_Strengths_and_Weaknesses.mp4.md
+3784,65_Congrats_on_Learning_Naive_Bayes.mp4.md
+3785,66_Naive_Bayes_Mini-Project_Video.mp4.md
+3786,67_Welcome_to_SVM.mp4.md
+3787,68_Separating_Line_-_Intro_to_Machine_Learning.mp4.md
+3788,69_Separating_Line_-_Intro_to_Machine_Learning.mp4.md
+3789,6_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3790,70_Choosing_Between_Separating_Lines_-_Intro_to_Machine_Learning.mp4.md
+3791,71_Choosing_Between_Separating_Lines_-_Intro_to_Machine_Learning.mp4.md
+3792,72_What_Makes_A_Good_Separating_Line_-_Intro_to_Machine_Learning.mp4.md
+3793,73_What_Makes_a_Good_Separating_Line_-_Intro_to_Machine_Learning.mp4.md
+3794,74_Practice_With_Margins_-_Intro_to_Machine_Learning.mp4.md
+3795,75_Practice_With_Margins_-_Intro_to_Machine_Learning.mp4.md
+3796,76_SVMs_and_Tricky_Data_Distributions_-_Intro_to_Machine_Learning.mp4.md
+3797,77_SVMs_and_Tricky_Data_Distributions_-_Intro_to_Machine_Learning.mp4.md
+3798,78_SVM_Response_to_Outliers_-_Intro_to_Machine_Learning.mp4.md
+3799,79_SVM_Response_to_Outliers_-_Intro_to_Machine_Learning.mp4.md
+3800,7_Solution_-_Intro_to_Machine_Learning.mp4.md
+3801,80_SVM_Outlier_Practice_-_Intro_to_Machine_Learning.mp4.md
+3802,81_SVM_Outlier_Practice_-_Intro_to_Machine_Learning.mp4.md
+3803,82_Handoff_to_Katie.mp4.md
+3804,83_SVM_in_SKlearn.mp4.md
+3805,84_SVM_Decision_Boundary.mp4.md
+3806,85_sklearn_SVM_Documentation_-_Intro_to_Machine_Learning.mp4.md
+3807,86_Coding_Up_the_SVM_-_Intro_to_Machine_Learning.mp4.md
+3808,87_Nonlinear_SVMs.mp4.md
+3809,88_Nonlinear_Data_-_Intro_to_Machine_Learning.mp4.md
+3810,89_Nonlinear_Data_-_Intro_to_Machine_Learning.mp4.md
+3811,8_Supervised_Classification_Example_Quiz_-_Intro_to_Machine_Learning.mp4.md
+3812,90_A_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3813,91_A_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3814,92_Visualizing_the_New_Feature.mp4.md
+3815,93_Separating_with_the_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3816,94_Separating_with_the_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3817,95_Practice_Making_a_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3818,96_Practice_Making_a_New_Feature_-_Intro_to_Machine_Learning.mp4.md
+3819,97_Kernel_Trick.mp4.md
+3820,98_Playing_Around_with_Kernel_Choices_-_Intro_to_Machine_Learning.mp4.md
+3821,99_Playing_Around_with_Kernel_Choices_-_Intro_to_Machine_Learning.mp4.md
+3822,9_Supervised_Classification_Example_-_Intro_to_Machine_Learning.mp4.md
+3823,1.mp4.md
+3824,10.mp4.md
+3825,11.mp4.md
+3826,12.mp4.md
+3827,13.mp4.md
+3828,14.mp4.md
+3829,15.mp4.md
+3830,16.mp4.md
+3831,17.mp4.md
+3832,18.mp4.md
+3833,19.mp4.md
+3834,2.mp4.md
+3835,20.mp4.md
+3836,21.mp4.md
+3837,22.mp4.md
+3838,23.mp4.md
+3839,24.mp4.md
+3840,25.mp4.md
+3841,26.mp4.md
+3842,27.mp4.md
+3843,28.mp4.md
+3844,29.mp4.md
+3845,3.mp4.md
+3846,30.mp4.md
+3847,31.mp4.md
+3848,32.mp4.md
+3849,33.mp4.md
+3850,34.mp4.md
+3851,35.mp4.md
+3852,36.mp4.md
+3853,37.mp4.md
+3854,38.mp4.md
+3855,39.mp4.md
+3856,4.mp4.md
+3857,40.mp4.md
+3858,41.mp4.md
+3859,42.mp4.md
+3860,5.mp4.md
+3861,6.mp4.md
+3862,7.mp4.md
+3863,8.mp4.md
+3864,9.mp4.md
+3865,1.mp4.md
+3866,10.mp4.md
+3867,11.mp4.md
+3868,12.mp4.md
+3869,13.mp4.md
+3870,14.mp4.md
+3871,15.mp4.md
+3872,16.mp4.md
+3873,17.mp4.md
+3874,18.mp4.md
+3875,19.mp4.md
+3876,2.mp4.md
+3877,20.mp4.md
+3878,21.mp4.md
+3879,22.mp4.md
+3880,23.mp4.md
+3881,24.mp4.md
+3882,25.mp4.md
+3883,26.mp4.md
+3884,27.mp4.md
+3885,28.mp4.md
+3886,29.mp4.md
+3887,3.mp4.md
+3888,30.mp4.md
+3889,31.mp4.md
+3890,32.mp4.md
+3891,33.mp4.md
+3892,34.mp4.md
+3893,35.mp4.md
+3894,36.mp4.md
+3895,37.mp4.md
+3896,38.mp4.md
+3897,39.mp4.md
+3898,4.mp4.md
+3899,40.mp4.md
+3900,41.mp4.md
+3901,42.mp4.md
+3902,5.mp4.md
+3903,6.mp4.md
+3904,7.mp4.md
+3905,8.mp4.md
+3906,9.mp4.md
+3907,10_Shortcut_Learning_in_Deep_Neural_Networks.mp4.md
+3908,11_Backpropagation_and_the_brain.mp4.md
+3909,12_Supervised_Contrastive_Learning.mp4.md
+3910,13_Do_ImageNet_Classifiers_Generalize_to_ImageNet_(Paper_Explained).mp4.md
+3911,14_Deconstructing_Lottery_Tickets_Zeros_Signs_and_the_Supermask_(Paper_Explained).mp4.md
+3912,15_Big_Transfer_(BiT)_General_Visual_Representation_Learning_(Paper_Explained).mp4.md
+3913,16_Concept_Learning_with_Energy-Based_Models_(Paper_Explained).mp4.md
+3914,17_Faster_Neural_Network_Training_with_Data_Echoing_(Paper_Explained).mp4.md
+3915,18_A_critical_analysis_of_self-supervision_or_what_we_can_learn_from_a_single_image_(Paper_Explained).mp4.md
+3916,19_iMAML_Meta-Learning_with_Implicit_Gradients_(Paper_Explained).mp4.md
+3917,1_Population-Based_Search_and_Open-Ended_Algorithms.mp4.md
+3918,20_mixup_Beyond_Empirical_Risk_Minimization_(Paper_Explained).mp4.md
+3919,21_On_the_Measure_of_Intelligence_by_François_Chollet_-_Part_1_Foundations_(Paper_Explained).mp4.md
+3920,22_On_the_Measure_of_Intelligence_by_François_Chollet_-_Part_2_Human_Priors_(Paper_Explained).mp4.md
+3921,23_On_the_Measure_of_Intelligence_by_François_Chollet_-_Part_4_The_ARC_Challenge_(Paper_Explained).mp4.md
+3922,24_On_the_Measure_of_Intelligence_by_François_Chollet_-_Part_3_The_Math_(Paper_Explained).mp4.md
+3923,25_Direct_Feedback_Alignment_Scales_to_Modern_Deep_Learning_Tasks_and_Architectures_(Paper_Explained).mp4.md
+3924,26_Self-training_with_Noisy_Student_improves_ImageNet_classification_(Paper_Explained).mp4.md
+3925,27_GShard_Scaling_Giant_Models_with_Conditional_Computation_and_Automatic_Sharding_(Paper_Explained).mp4.md
+3926,28_[Live_Machine_Learning_Research]_Plain_Self-Ensembles_(I_actually_DISCOVER_SOMETHING)_-_Part_1.mp4.md
+3927,29_SupSup_Supermasks_in_Superposition_(Paper_Explained).mp4.md
+3928,2_Conversation_about_Population-Based_Methods_(Re-upload).mp4.md
+3929,30_Addendum_for_Supermasks_in_Superposition_A_Closer_Look_(Paper_Explained).mp4.md
+3930,31_Deep_Ensembles_A_Loss_Landscape_Perspective_(Paper_Explained).mp4.md
+3931,32_Neural_Architecture_Search_without_Training_(Paper_Explained).mp4.md
+3932,33_Hopfield_Networks_is_All_You_Need_(Paper_Explained).mp4.md
+3933,34_Radioactive_data_tracing_through_training_(Paper_Explained).mp4.md
+3934,35_Self-classifying_MNIST_Digits_(Paper_Explained).mp4.md
+3935,36_Training_more_effective_learned_optimizers_and_using_them_to_train_themselves_(Paper_Explained).mp4.md
+3936,37_Descending_through_a_Crowded_Valley_--_Benchmarking_Deep_Learning_Optimizers_(Paper_Explained).mp4.md
+3937,38_Underspecification_Presents_Challenges_for_Credibility_in_Modern_Machine_Learning_(Paper_Explained).mp4.md
+3938,39_Predictive_Coding_Approximates_Backprop_along_Arbitrary_Computation_Graphs_(Paper_Explained).mp4.md
+3939,3_Reconciling_modern_machine_learning_and_the_bias-variance_trade-off.mp4.md
+3940,40_Deep_Networks_Are_Kernel_Machines_(Paper_Explained).mp4.md
+3941,41_Multimodal_Neurons_in_Artificial_Neural_Networks_(w_OpenAI_Microscope_Research_Paper_Explained).mp4.md
+3942,42_Pretrained_Transformers_as_Universal_Computation_Engines_(Machine_Learning_Research_Paper_Explained).mp4.md
+3943,43_Efficient_and_Modular_Implicit_Differentiation_(Machine_Learning_Research_Paper_Explained).mp4.md
+3944,44_PonderNet_Learning_to_Ponder_(Machine_Learning_Research_Paper_Explained).mp4.md
+3945,45_Grokking_Generalization_beyond_Overfitting_on_small_algorithmic_datasets_(Paper_Explained).mp4.md
+3946,46_Gradients_are_Not_All_You_Need_(Machine_Learning_Research_Paper_Explained).mp4.md
+3947,47_Learning_Rate_Grafting_Transferability_of_Optimizer_Tuning_(Machine_Learning_Research_Paper_Review).mp4.md
+3948,48_Implicit_MLE_Backpropagating_Through_Discrete_Exponential_Family_Distributions_(Paper_Explained).mp4.md
+3949,49_Predicting_the_rules_behind_-_Deep_Symbolic_Regression_for_Recurrent_Sequences_(w_author_interview).mp4.md
+3950,4_Accelerating_Deep_Learning_by_Focusing_on_the_Biggest_Losers.mp4.md
+3951,50_VOS_Learning_What_You_Dont_Know_by_Virtual_Outlier_Synthesis_(Paper_Explained).mp4.md
+3952,51_Author_Interview_-_VOS_Learning_What_You_Dont_Know_by_Virtual_Outlier_Synthesis.mp4.md
+3953,52_Avoiding_Catastrophe_Active_Dendrites_Enable_Multi-Task_Learning_in_Dynamic_Environments_(Review).mp4.md
+3954,53_Active_Dendrites_avoid_catastrophic_forgetting_-_Interview_with_the_Authors.mp4.md
+3955,54_LAION-5B_5_billion_image-text-pairs_dataset_(with_the_authors).mp4.md
+3956,55_JEPA_-_A_Path_Towards_Autonomous_Machine_Intelligence_(Paper_Explained).mp4.md
+3957,56_How_to_make_your_CPU_as_fast_as_a_GPU_-_Advances_in_Sparsity_w_Nir_Shavit.mp4.md
+3958,57_This_is_a_game_changer!_(AlphaTensor_by_DeepMind_explained).mp4.md
+3959,58_Neural_Networks_are_Decision_Trees_(w_Alexander_Mattick).mp4.md
+3960,5_The_Visual_Task_Adaptation_Benchmark.mp4.md
+3961,6_The_Lottery_Ticket_Hypothesis_Finding_Sparse_Trainable_Neural_Networks.mp4.md
+3962,7_FixMatch_Simplifying_Semi-Supervised_Learning_with_Consistency_and_Confidence.mp4.md
+3963,8_Gradient_Surgery_for_Multi-Task_Learning.mp4.md
+3964,9_Feature_Visualization_and_The_OpenAI_microscope.mp4.md
